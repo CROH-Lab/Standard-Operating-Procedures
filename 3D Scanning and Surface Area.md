@@ -66,12 +66,55 @@ of the coral provides a more accurate surface area measurement, which is needed 
 14.	DO NOT globally optimize between scans. Optimizing increases the number of points and can overload the machine and invalidate the scans. 
   - If you find the scan looking abnormal, you may need to check if the scan will optimize by clicking the “Global Optimization” button, but don’t finalize the optimization. If the scans are not optimizing and look abnormal, recalibrate the machine.
 
-### Editing the final scan:
+### Step 3 - Editing the final scan:
 15. You may have had to place your coral on a pedestal to scan it (especially if it's something that couldn’t stand on its own like a branch). 
 16.	You can now delete the scans of the pedestal and any extra parts that are not useful. To do so: 
   - You can select the areas in the scan by holding down the shift button and making a circle with your mouse:
 
 <img width="111" alt="Picture4" src="https://github.com/user-attachments/assets/977cf6e3-02d3-4d00-96bc-5c760895bba6"> <img width="108" alt="Picture5" src="https://github.com/user-attachments/assets/3559d7d1-13dc-464c-baed-38400f1c7ea3">
+
+  - This will select a region of the scan.
+  - Then you can delete the region by clicking on the delete button in the edit tools area.\
+
+<img width="110" alt="Picture6" src="https://github.com/user-attachments/assets/0d9117ef-5a3b-4f92-b3fe-01917b74cc8a">
+
+### Step 4 - Saving and Exporting Final Scan:
+1. Once you’re satisfied with your scan, click on Global Optimization on the right-hand side of the screen and then click the check mark
+2.	Click on Mesh in the right-hand side of the screen
+3.	Select watertight model 
+4.	Select high detail (or the level of detail you require, for most corals we’ll want high). 
+5.	Click apply (decide whether you want to smooth/sharpen, in most cases you won’t) 
+6.	Then click Save your scan. 
+7.	When saving also select the “.ply” option 
+8.	To start new scan go back to “scan” and click the project icon, work, new work, and start new scan. 
+
+### Step 5 - Calculating the Surface Area Using Meshlab:
+1. Open the “.ply” (or .stl file also work) using MeshLab. 
+2.	Use the appropriate method for selected the surfaces that you want to measure the area of: 
+  - If your coral nubs were essentially all live tissue: then then easiest route may be to calculate the surface area of the entire scan and then subtract the surface area of any spots that were not coral (e.g., the bottom of the nubbin/branch) 
+
+<img width="198" alt="Picture7" src="https://github.com/user-attachments/assets/a1113b79-830e-4c0e-bf27-8d4469006c33">
+
+  - Select the entire scan surface using the “Selected connected components in a region” button and dragging across the whole scan to select everything. (Selected areas appear pink) 
+    - Calculate surface area of selection. Menu path: Filters -> Quality measures and computers -> Compute Area/perimeter of selection
+    - The computed area will appear in the dialog box in the lower right-hand side. **The units are in square millimeters**.
+<img width="198" alt="Picture8" src="https://github.com/user-attachments/assets/496ef0ed-af20-4a00-b7a3-db65ce6f8c1e">
+
+
+    - Deselect everything by pressing shift-D when the selection tool is engaged.
+    - Click on the Selected connected components in a region button again to deactivate the tool.
+    - Then use the z-painting tool to select the areas that you need to subtract. Menu path: Edit->z-painting tool. Then click on the red paintbrush icon. Increase hardness to 100 and adjust the size of the bubble as needed.
+    - You can then toggle between using the paintbrush and rotating the scan by pressing the escape button.
+    - Paint the areas that you want to calculate the area for:
+    - Once you have selected all the areas you want then compute the area/perimeter of selection again (step ii above).
+    - Then subtract the numbers as needed to get your final surface areas![image](https://github.com/user-attachments/assets/585a7a91-f8fe-43a2-97e8-d6ba4d5e9dc6)
+
+
+
+
+   
+<img width="198" alt="Picture8" src="https://github.com/user-attachments/assets/1a93d8b8-883c-44b6-9237-634a923c4c92">
+
 
 
 
