@@ -70,6 +70,7 @@ of the coral provides a more accurate surface area measurement, which is needed 
 15. You may have had to place your coral on a pedestal to scan it (especially if it's something that couldn’t stand on its own like a branch). 
 16.	You can now delete the scans of the pedestal and any extra parts that are not useful. To do so: 
   - You can select the areas in the scan by holding down the shift button and making a circle with your mouse:
+
 <img width="111" alt="Picture4" src="https://github.com/user-attachments/assets/977cf6e3-02d3-4d00-96bc-5c760895bba6"> <img width="108" alt="Picture5" src="https://github.com/user-attachments/assets/3559d7d1-13dc-464c-baed-38400f1c7ea3">
 
 
