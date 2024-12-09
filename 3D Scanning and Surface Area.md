@@ -37,13 +37,29 @@ of the coral provides a more accurate surface area measurement, which is needed 
 1. Open the Einscan-S software. If you do not have this installed, it can be downloaded [here](https://www.einscan.com/support/download/software/?scan_model=einscan-se)
 2. Click on Einscan-SE (left logo)
 3. The scanner in the lab should already be calibrated, but if you want to redo the calibration just to make sure (or if it’s been a while since it’s been used):
-- Calibration object is in the drawer to the left of the scanner/computer (it looks like the logo on the screen of the program).
-- Note: If the scanner has been relocated then DEFINITELY RECALIBRATE.
-- Follow directions on the screen
-- If your scan is coming out yellow, then you need to redo calibration and white balance. There is something wrong with the white balance and that is why the background of the scanning area needs to be           completely white.
-5. Click on Fixed scan.
-6. Click on New Project (if you open the program before turning on the scanner you may not be able to click on new project, quit the program and re-open).
-7. Select Texture scan 
+  The calibration object is in the drawer to the left of the scanner/computer (it looks like the logo on the program's screen).
+  - Note: If the scanner has been relocated, then DEFINITELY RECALIBRATE.
+  - Follow directions on the screen
+  - If your scan is coming out yellow, then you need to redo calibration and white balance. There is something wrong with the white balance and that is why the background of the scanning area needs to be completely white.
+4. Click on Fixed Scan.
+5. Click on New Project (if you open the program before turning on the scanner you may not be able to click on new project, quit the program and re-open).
+6. Select Texture scan
+  - It will ask you if you want to restart the white balance.
+  - It is recommended re-doing white balance whenever you open the program for the first scan, for subsequent scans in the same day, with the same lighting you do not have to re-do it.
+  - To do the white balance hold up a white sheet of paper in between the scanner base and the scanner camera (the program also shows you a diagram).
+7.	Place your coral on the scanner base. 
+8.	You should then check the brightness of the scan in the “Scan Settings” tab, select the shade from the slider such that the object you want to scan (i.e., the coral) is barely highlighted in red in the camera preview. There should be very little red on the object and none on the background.
+9.	TURN ON THE HDR OPTION with the slider button after changing the brightness. This is important for scanning corals otherwise you get unusable scans.
+  - Coral should be slightly red on the screen with a white background.
+| ![Picture1](https://github.com/user-attachments/assets/2e3f4e54-c241-4950-9d02-89396ae8c8ad) | ![Picture2](https://github.com/user-attachments/assets/5376f30e-680c-4f1b-9247-89683a814d86) | ![Picture3](https://github.com/user-attachments/assets/036c0d58-f24c-4d03-a152-26f36ff50513) |
+| :---: | :---: | :---: |
+| Too dark| Perfect brightness: Specs of red on the coral | Too bright | 
+
+
+
+ 
+
+
 
 
 
