@@ -56,6 +56,23 @@ of the coral provides a more accurate surface area measurement, which is needed 
 | :---: | :---: | :---: |
 | Too dark| Perfect brightness: Specs of red on the coral | Too bright | 
 
+10. Select “with turntable”
+  - The default number of turntable steps is 12. I find this to be sufficient. 
+11.	Double check that HDR is on and make sure your coral is balanced and will not fall. 
+12.	Click Start Scan
+  - You will see the scans start appearing on the screen. It will turn the object and scan 12 times (or however many steps you specified). Once the set of scans is done you will have the option to edit the scan. For instance, you can select certain parts and delete them. Do this now to delete the stand from the scan as not doing so will not allow the scans to align.
+  - If things look good, then click on the green check mark. 
+13.	Rotate your object slightly on the turntable (but keep it in the same location) and start another set of scans. Repeat this twice for a total of three scan sessions per coral. 
+14.	DO NOT globally optimize between scans. Optimizing increases the number of points and can overload the machine and invalidate the scans. 
+  - If you find the scan looking abnormal, you may need to check if the scan will optimize by clicking the “Global Optimization” button, but don’t finalize the optimization. If the scans are not optimizing and look abnormal, recalibrate the machine.
+
+### Editing the final scan:
+15. You may have had to place your coral on a pedestal to scan it (especially if it's something that couldn’t stand on its own like a branch). 
+16.	You can now delete the scans of the pedestal and any extra parts that are not useful. To do so: 
+  - You can select the areas in the scan by holding down the shift button and making a circle with your mouse:
+<img width="111" alt="Picture4" src="https://github.com/user-attachments/assets/977cf6e3-02d3-4d00-96bc-5c760895bba6"> <img width="108" alt="Picture5" src="https://github.com/user-attachments/assets/3559d7d1-13dc-464c-baed-38400f1c7ea3">
+
+
 
 
  
