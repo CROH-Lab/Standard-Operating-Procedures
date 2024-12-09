@@ -6,6 +6,6 @@
 1. Coral biological processing
 2. Equipment maintenance
 3. Analyses
-4. etc.
+4. Coral Care and maintenance
 
 Thank you
