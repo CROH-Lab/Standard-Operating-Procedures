@@ -1,8 +1,6 @@
 # Standard-Operating-Procedures
 
-##  Standard Operating Procedures for the Coral Reef and Ocean Health Research Group 
-
-### This repository will serve as a public domain for transparency and sharing protocols used for:
+## This repository will serve as a public domain for transparency and sharing protocols used for:
 1. Coral biological processing
 2. Equipment maintenance
 3. Analyses
