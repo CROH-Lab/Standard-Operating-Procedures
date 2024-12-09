@@ -37,10 +37,10 @@ of the coral provides a more accurate surface area measurement, which is needed 
 1. Open the Einscan-S software. If you do not have this installed, it can be downloaded [here](https://www.einscan.com/support/download/software/?scan_model=einscan-se)
 2. Click on Einscan-SE (left logo)
 3. The scanner in the lab should already be calibrated, but if you want to redo the calibration just to make sure (or if it’s been a while since it’s been used):
-   Calibration object is in the drawer to the left of the scanner/computer (it looks like the logo on the screen of the program).
-   Note: If the scanner has been relocated then DEFINITELY RECALIBRATE.
-   Follow directions on the screen
-   If your scan is coming out yellow, then you need to redo calibration and white balance. There is something wrong with the white balance and that is why the background of the scanning area needs to be           completely white.
+- Calibration object is in the drawer to the left of the scanner/computer (it looks like the logo on the screen of the program).
+- Note: If the scanner has been relocated then DEFINITELY RECALIBRATE.
+- Follow directions on the screen
+- If your scan is coming out yellow, then you need to redo calibration and white balance. There is something wrong with the white balance and that is why the background of the scanning area needs to be           completely white.
 5. Click on Fixed scan.
 6. Click on New Project (if you open the program before turning on the scanner you may not be able to click on new project, quit the program and re-open).
 7. Select Texture scan 
