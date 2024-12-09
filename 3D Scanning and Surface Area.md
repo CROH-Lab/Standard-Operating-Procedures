@@ -51,7 +51,8 @@ of the coral provides a more accurate surface area measurement, which is needed 
 8.	You should then check the brightness of the scan in the “Scan Settings” tab, select the shade from the slider such that the object you want to scan (i.e., the coral) is barely highlighted in red in the camera preview. There should be very little red on the object and none on the background.
 9.	TURN ON THE HDR OPTION with the slider button after changing the brightness. This is important for scanning corals otherwise you get unusable scans.
   - Coral should be slightly red on the screen with a white background.
-- | ![Picture1](https://github.com/user-attachments/assets/2e3f4e54-c241-4950-9d02-89396ae8c8ad) | ![Picture2](https://github.com/user-attachments/assets/5376f30e-680c-4f1b-9247-89683a814d86) | ![Picture3](https://github.com/user-attachments/assets/036c0d58-f24c-4d03-a152-26f36ff50513) |
+
+| ![Picture1](https://github.com/user-attachments/assets/2e3f4e54-c241-4950-9d02-89396ae8c8ad) | ![Picture2](https://github.com/user-attachments/assets/5376f30e-680c-4f1b-9247-89683a814d86) | ![Picture3](https://github.com/user-attachments/assets/036c0d58-f24c-4d03-a152-26f36ff50513) |
 | :---: | :---: | :---: |
 | Too dark| Perfect brightness: Specs of red on the coral | Too bright | 
 
