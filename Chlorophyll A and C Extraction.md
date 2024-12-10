@@ -6,19 +6,53 @@
 
 ## Purpose: 
 
-Measurement of the amount of chlorophyll present per within symbionts.
+Measurement of the amount of chlorophyll present within symbionts.
 
 ### Materials:
-1. Scanner manual - can be found [here](https://support.einscan.com/en/support/solutions/60000333808manual/?scan_model=einscan-se&download_option=manual)
-2. Calibration object (Ex. a die with a known area)
-3. Manilla file folder
-4. Pedestal for coral branch
-5. Dry coral skeletons
-6. Hard drive
-7. White background
+1. Thawed samples (24 Hours Before)
+2. 90% acetone (located under the hood)
+3. 100% acetone (located under the hood)
+4. Waste beakers (acetone and pipette tips)
+5. 1mL pipette tips
+6. 200 μL pipette tips
+7. Cart
+8. Kim wipes
+9. Ice bucket/ ice
+10. Ethanol 70%
+11. Quartz Cuvettes with rack
+12. QUARTZ 96 Well Plate (located next to Spec Bin)
+13. Acetone Channel
+14. Rubber Cell Cover
+15. DI water
+16. Datasheet (computer or clipboard or both)
+17. Samples (thawed and centrifugated for 2 minutes at 5000rpm)
+18. Paper towels
+19. Parafilm (pre-cut into small squares)
+20. Aluminum foil/cleaning tray
+21. Q-tips (QUARTZ 96 Well Plate cleaning)
 
-### Equipemnt and Software:
-1. Einscan-SE 3D Scanner V2
-([link here](https://www.matterhackers.com/store/l/einscan-se-desktop-3d-scanner-v2/sk/M21W1D74?rcode=PMAX_3DSCANNERS&gad_source=1&gclid=Cj0KCQiAx9q6BhCDARIsACwUxu7pOD51OZK9U7pb7UIQv4JnsGah-zn-YAVN4FoepX1He3ohGdny0QIaApx_EALw_wcB))
-2. Einscan-S software
-3. Hard drive
+### Equipemnt:
+1. 1mL pipette (VWR)
+2. Multi-channel Pipette (VWR)
+3. Centrifuge (Labnet, Spectrafuge 24D)
+4. Vortex (4 E’s Scientific, Vortex Mixer)
+
+### **<ins>Part I: 24 Hours Before</ins>**
+
+- Thaw the sample, vortex, and then aliquot a subsample (1 mL) and place into a 1.5 mL Eppendorf tube (may already be done from coral processing).
+  
+![image](https://github.com/user-attachments/assets/13efc4e4-9814-4782-ae8a-e07d5a21b619)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
