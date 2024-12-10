@@ -27,7 +27,7 @@ of the coral provides a more accurate surface area measurement, which is needed 
 
 ### Notes: Glue broken corals together with coral glue if necessary.
 
-### Step 1 - Scanner setup:
+### **__Step 1 - Scanner setup:__**
 1.	Ensure that all the power and computer connection cables are plugged in (scanner power, cable from scanner to computer, and cable from scanner base to scanner camera). 
 2.	Turn the scanner on by touching the power button (it’s touch-sensitive) 
 3.	Make sure the scanner is completely in the dark (under a black box). 
