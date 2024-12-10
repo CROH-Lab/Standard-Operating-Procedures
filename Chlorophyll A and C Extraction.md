@@ -38,11 +38,33 @@ Measurement of the amount of chlorophyll present within symbionts.
 4. Vortex (4 E’s Scientific, Vortex Mixer)
 
 ### **<ins>Part I: 24 Hours Before</ins>**
-
+## **FOR CUVETTE SAMPLING**
 - Thaw the sample, vortex, and then aliquot a subsample (1 mL) and place into a 1.5 mL Eppendorf tube (may already be done from coral processing).
-  
-![image](https://github.com/user-attachments/assets/13efc4e4-9814-4782-ae8a-e07d5a21b619)
 
+<img width="81" alt="Picture1" src="https://github.com/user-attachments/assets/30b22f23-e61e-4199-a03d-ceeaf1b22a63">
+
+- Centrifuge at 9000 rpm for 1 minute and remove and dispose of supernatant
+  - With 2 people, 1 person can remove supernatant liquid and 1 person can add acetone to the tube with the pellet
+- Add 1 mL of 90% Acetone.
+  - Acetone is in the yellow hazardous cabinet if you need to make more. The 90% acetone bottle is located under the hood.
+- Vortex for 30 seconds and place in the freezer (use cardboard boxes) for 24h.
+  - Cardboard boxes ensure no light interfering with Chlorophyll counts!
+
+ <img width="105" alt="Picture2" src="https://github.com/user-attachments/assets/ea5a743d-5491-4c05-afb6-82e91bbcd44f">
+
+## **FOR 96 WELL PLATE SAMPLING:**
+- Thaw the sample, vortex, and then aliquot a subsample (1 mL) and place into a 1.5 mL Eppendorf tube (may already be done from coral processing).
+
+<img width="81" alt="Picture1" src="https://github.com/user-attachments/assets/30b22f23-e61e-4199-a03d-ceeaf1b22a63">
+
+- Centrifuge at 9000 rpm for 1 minute and remove and dispose of supernatant
+  - With 2 people, 1 person can remove supernatant liquid and 1 person can add acetone to the tube with the pellet
+- Add 1 mL of 90% Acetone.
+  - Acetone is in the yellow hazardous cabinet if you need to make more. The 90% acetone bottle is located under the hood.
+- Vortex for 30 seconds and place in the freezer (use cardboard boxes) for 24h.
+  - Cardboard boxes ensure no light interfering with Chlorophyll counts!
+
+ <img width="105" alt="Picture2" src="https://github.com/user-attachments/assets/ea5a743d-5491-4c05-afb6-82e91bbcd44f">
 
 
 
