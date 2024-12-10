@@ -108,8 +108,9 @@ Measurement of the amount of chlorophyll present within symbionts.
 - Cover the cuvette with parafilm.
 - Invert cuvette 3 times – CAREFULLY
 
-| :--: | :--: | :--: |
 | ![Picture5](https://github.com/user-attachments/assets/433dcd50-03b2-44fb-80dc-765aaa429e2d) | ![Picture6](https://github.com/user-attachments/assets/20c34f99-b2d2-4cbd-963b-3de82c64d6d5) | ![Picture7](https://github.com/user-attachments/assets/1e6fdfdf-68e6-4816-a1f1-715314400469) |
+
+
 
 
 
