@@ -111,6 +111,90 @@ Measurement of the amount of chlorophyll present within symbionts.
 | ![Picture5](https://github.com/user-attachments/assets/433dcd50-03b2-44fb-80dc-765aaa429e2d) | ![Picture6](https://github.com/user-attachments/assets/20c34f99-b2d2-4cbd-963b-3de82c64d6d5) | ![Picture7](https://github.com/user-attachments/assets/1e6fdfdf-68e6-4816-a1f1-715314400469) |
 | :--: | :--: | :--: | 
 
+- Wipe with kimwipe and place into spectrophotometer, being careful to NOT get any liquid in the spectrophotometer
+- Take CHL reading at 630nm and 663nm by pressing the “Read” button on the computer.
+  - All buttons should be on the computer (“Read” and “Ref”), not the spec, except the “drawer” button is the only button that should be pressed on the spec
+- Use the blank (2 mL of 90% acetone) to zero every 7-10 samples
+  - Place 2 mL of acetone into the spec as you did the first time (cover with parafilm, wipe with kimwipe)
+  - Press the “ref” button. Now you can start the next 7 samples.
+  - Repeat this for every 7-10 samples
+  - DISCLAIMER: sometimes when you set the new reference point, it changes the previous samples slightly (~0.001). This is ok, continue with reading the next 10 samples at this new calibration and do not change the readings of the previous samples. 
+
+###**<ins>Using the Spectrophotometer _FOR_96 Well Plate Readings</ins>**
+- Turn on computer
+- Open Soft Max Pro on computer- if this screen opens click “Done”.
+- Make sure that the “SpectraMax M3” button in the top right corner on the program is a green checkmark (not red circle)
+  - If it’s red, click the “SpectraMax M3” button, click “COM1-SpectraMax M3”, then press “OK”
+
+ ![Picture7](https://github.com/user-attachments/assets/6de361db-2845-4ea7-83b0-7b49e11b0a85)
+
+  - Proceed once that button is green, red means the spec is not connected to the computer
+- Click on “New Plate” to begin a new 96 well plate reading
+- Select “Settings” in the top tool bar
+- Change Lm1 to 630 and Lm2 to 663
+  - Click “Okay”
+  - This is what the screen should look like once wavelengths are set and before running any plates
+ 
+![Picture1](https://github.com/user-attachments/assets/ca6db55b-5900-4285-a8e7-bd49dfe23002)
+
+- When running samples the first two wells will be blank acetone references
+  - To ensure the spec runs them as references they will have to be programed as “blanks”
+  - Click on “Template Editor” on the top bar
+  - Highlight cells A1 and A2 (these will be the blank cells)
+  - Click on “Plate Blanks” and the cells will be greyed out
+    - This is what all the samples will be referenced to
+- For now, leave cells A1 and A2 empty
+  - 200 μL of 100% acetone will be added right before it is placed in the spectrophotometer
+- The remaining cells will be filled with 100 µL of 100% acetone and 100 µL of sample
+  - The samples will have a 1:1 ratio unless the sample is clear; then the sample will not need the acetone dilution
+  - Be sure to record the dilution on the datasheet
+- Load all the samples in the plate BEFORE adding the acetone
+  - All samples will need to be ran twice and the average will be taken of the two after analysis
+  - Use the plastic cover to cover the samples already input in the plate to prevent evaporation of the acetone
+  - As you add the samples by line, cover the previous line with the plastic cover
+    - The best way to do this is hold the cover bent back with one hand and pipette with the other hand
+- Once all samples are loaded into the 96 well plate, the acetone dilution can be added
+  - This will be done using the multichannel pipettor
+  - Ensure the pipette is set to 100 µL
+  - Fill the acetone specific plastic well with a fair amount of acetone, enough for the pipettor to fill from
+    - These will be located in a box in the Bahr Lab that say “For Acetone”
+    - DO NOT use a regular plastic well, the acetone will melt and eat through the plastic
+  - Once you fill the pipette with 100 µL of acetone in each tip, fill the plate starting with row A
+    - For right handed people, the easiest way is to turn the plate sideways where the longest part of the plate is vertical, with “A,B,C, etc.” closest to you
+    - Work your way from row A to row H adding acetone to the sample
+    - Cover the previous row with the plastic cover as you finish each row to prevent evaporation
+    - For left handed people, turning the plate the opposite way with “A,B,C, etc.” furthest from you and work the plate from row A to row H, cover the plate as you go
+- Fill the blank cells, A1 and A2, with 200 µL of 100% acetone
+  - Please note, when using the multichannel pipettor to add acetone, you may have already added 100 μL to these cells, if so only add 100 μL more of 100% acetone
+  - Ensure these wells only have 200 μL of 100% acetone
+- Ensure the outside of the plate is dry, we do not want to put any moisture in the spec
+- The letters should be closest to the spec and then numbers on the side furthest away when inserting it into the spec
+  - Readings will be given in the exact order laid out on the computer
+  - Ensure you have some method of keeping track with which sample is in what well
+    - Making an excel sheet of the positions with the sample ID would be helpful
+- Select “Run Plate”, it takes about a minute to run the plate
+
+![Picture1](https://github.com/user-attachments/assets/e391c297-2990-486f-bb07-3f7f2d185450)
+
+- The top number in each cell is your first wavelength reading, 630, and the bottom number in each cell is your second wavelength reading, 663
+- Record all data
+- Repeat for any additional samples
+
+Be **VERY** careful with the 96 well plate, it has a glass bottom and we only have one
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
