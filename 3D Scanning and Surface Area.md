@@ -38,12 +38,12 @@ of the coral provides a more accurate surface area measurement, which is needed 
 2. Click on Einscan-SE (left logo)
 3. The scanner in the lab should already be calibrated, but if you want to redo the calibration just to make sure (or if it’s been a while since it’s been used):
   The calibration object is in the drawer to the left of the scanner/computer (it looks like the logo on the program's screen).
-  - Note: If the scanner has been relocated, then DEFINITELY RECALIBRATE.
-  - Follow directions on the screen
-  - If your scan is coming out yellow, then you need to redo calibration and white balance. There is something wrong with the white balance and that is why the background of the scanning area needs to be completely white.
-4. Click on Fixed Scan.
-5. Click on New Project (if you open the program before turning on the scanner you may not be able to click on new project, quit the program and re-open).
-6. Select Texture scan
+  -Note: If the scanner has been relocated, then DEFINITELY RECALIBRATE.
+  -Follow directions on the screen
+  -If your scan is coming out yellow, then you need to redo calibration and white balance. There is something wrong with the white balance and that is why the background of the scanning area needs to be completely white.
+5. Click on Fixed Scan.
+6. Click on New Project (if you open the program before turning on the scanner you may not be able to click on new project, quit the program and re-open).
+7. Select Texture scan
   - It will ask you if you want to restart the white balance.
   - It is recommended re-doing white balance whenever you open the program for the first scan, for subsequent scans in the same day, with the same lighting you do not have to re-do it.
   - To do the white balance hold up a white sheet of paper in between the scanner base and the scanner camera (the program also shows you a diagram).
