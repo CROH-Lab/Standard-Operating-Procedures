@@ -112,7 +112,9 @@ of the coral provides a more accurate surface area measurement, which is needed 
 
   - If your nubs are patchy live/dead areas: Proceed directly to just using the z-painting tool to select the areas of the nub that were live, and you want surface area for. Make sure to rotate the scan and ensure that the polyp valleys are well selected. E.g., avoid this:
 3. Rotate and paint until everything is well selected:
+
 <img width="110" alt="Picture12" src="https://github.com/user-attachments/assets/4a529a85-5735-4902-8978-2bc24a7bb3e6">
+
 4. Then compute the area of selection (see above)
 
 ### **<ins> Notes:**</ins>
