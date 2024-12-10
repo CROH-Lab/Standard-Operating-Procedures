@@ -215,7 +215,7 @@ Where:
 
 *Finally, the total chlorophyll is standardized for the surface area of the individual coral fragments.*
 
-### Quality Assurance and Control
+### **<ins>Quality Assurance and Control</ins>**
 *Proper Training*
 
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions.
