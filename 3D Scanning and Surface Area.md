@@ -33,7 +33,7 @@ of the coral provides a more accurate surface area measurement, which is needed 
 3.	Make sure the scanner is completely in the dark (under a black box). 
 4.	Make sure the background of the scanning area is completely white.
 
-### Step 2 - Running the software
+### **Step 2 - Running the software:**
 1. Open the Einscan-S software. If you do not have this installed, it can be downloaded [here](https://www.einscan.com/support/download/software/?scan_model=einscan-se)
 2. Click on Einscan-SE (left logo)
 3. The scanner in the lab should already be calibrated, but if you want to redo the calibration just to make sure (or if it’s been a while since it’s been used):
@@ -66,7 +66,7 @@ of the coral provides a more accurate surface area measurement, which is needed 
 14.	DO NOT globally optimize between scans. Optimizing increases the number of points and can overload the machine and invalidate the scans. 
   - If you find the scan looking abnormal, you may need to check if the scan will optimize by clicking the “Global Optimization” button, but don’t finalize the optimization. If the scans are not optimizing and look abnormal, recalibrate the machine.
 
-### Step 3 - Editing the final scan:
+### **Step 3 - Editing the final scan:**
 15. You may have had to place your coral on a pedestal to scan it (especially if it's something that couldn’t stand on its own like a branch). 
 16.	You can now delete the scans of the pedestal and any extra parts that are not useful. To do so: 
   - You can select the areas in the scan by holding down the shift button and making a circle with your mouse:
