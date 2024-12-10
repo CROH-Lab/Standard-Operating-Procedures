@@ -99,8 +99,6 @@ of the coral provides a more accurate surface area measurement, which is needed 
     - Calculate surface area of selection. Menu path: Filters -> Quality measures and computers -> Compute Area/perimeter of selection
     - The computed area will appear in the dialog box in the lower right-hand side. **The units are in square millimeters**.
 <img width="198" alt="Picture8" src="https://github.com/user-attachments/assets/496ef0ed-af20-4a00-b7a3-db65ce6f8c1e">
-
-
     - Deselect everything by pressing shift-D when the selection tool is engaged.
     - Click on the Selected connected components in a region button again to deactivate the tool.
     - Then use the z-painting tool to select the areas that you need to subtract. Menu path: Edit->z-painting tool. Then click on the red paintbrush icon. Increase hardness to 100 and adjust the size of the bubble as needed.
@@ -109,11 +107,6 @@ of the coral provides a more accurate surface area measurement, which is needed 
     - Once you have selected all the areas you want then compute the area/perimeter of selection again (step ii above).
     - Then subtract the numbers as needed to get your final surface areas![image](https://github.com/user-attachments/assets/585a7a91-f8fe-43a2-97e8-d6ba4d5e9dc6)
 
-
-
-
-   
-<img width="198" alt="Picture8" src="https://github.com/user-attachments/assets/1a93d8b8-883c-44b6-9237-634a923c4c92">
 
 
 
