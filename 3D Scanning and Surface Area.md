@@ -98,16 +98,23 @@ of the coral provides a more accurate surface area measurement, which is needed 
   - Select the entire scan surface using the “Selected connected components in a region” button and dragging across the whole scan to select everything. (Selected areas appear pink) 
     - Calculate surface area of selection. Menu path: Filters -> Quality measures and computers -> Compute Area/perimeter of selection
     - The computed area will appear in the dialog box in the lower right-hand side. **The units are in square millimeters**.
+    - 
 <img width="198" alt="Picture8" src="https://github.com/user-attachments/assets/496ef0ed-af20-4a00-b7a3-db65ce6f8c1e">
+
     - Deselect everything by pressing shift-D when the selection tool is engaged.
     - Click on the Selected connected components in a region button again to deactivate the tool.
     - Then use the z-painting tool to select the areas that you need to subtract. Menu path: Edit->z-painting tool. Then click on the red paintbrush icon. Increase hardness to 100 and adjust the size of the bubble as needed.
+    - 
 <img width="198" alt="Picture9" src="https://github.com/user-attachments/assets/0e460ae7-26f5-4f6e-8c69-1f43bf975352">
+
     - You can then toggle between using the paintbrush and rotating the scan by pressing the escape button.
     - Paint the areas that you want to calculate the area for:
+      
 <img width="198" alt="Picture10" src="https://github.com/user-attachments/assets/f93f1d10-3005-43a5-af2e-da9d5d7c5581">
+
     - Once you have selected all the areas you want then compute the area/perimeter of selection again (step ii above).
     - Then subtract the numbers as needed to get your final surface areaa
+      
 <img width="110" alt="Picture11" src="https://github.com/user-attachments/assets/763d6911-7dff-406f-a364-c33d43486e96">
 
   - If your nubs are patchy live/dead areas: Proceed directly to just using the z-painting tool to select the areas of the nub that were live, and you want surface area for. Make sure to rotate the scan and ensure that the polyp valleys are well selected. E.g., avoid this:
