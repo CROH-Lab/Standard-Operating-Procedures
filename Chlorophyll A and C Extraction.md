@@ -182,43 +182,60 @@ Measurement of the amount of chlorophyll present within symbionts.
 
 Be **VERY** careful with the 96 well plate, it has a glass bottom and we only have one
 
+### **<ins>Clean Up:</ins>**
+- For Cuvettes,
+  - For cuvette cleaning between samples, set-up aluminum foil or cleaning tray and wash with 70% ethanol, wipe dry and place upside down in cuvette holder to finish drying, repeat after every sample, keep cleaning/ethanol area separate from the samples
+- For 96 Well Plate,
+  - Clean the well plate between each run of samples
+  - First rinse with DI water and then ethanol
+  - Wipe each well with a Q-tip and ensure the well is completely dry
+- At end of day, turn off spec and log out of the computer
+- Please take everything with you from the spec room including any trash.
 
+##**<ins>Calculations</ins>**
+Standardize units chl a/chl c
+  - CHL per cell
+  - CHL per surface area (surface area will be calculated using the 3D scanner)
+Calculate the dilution factors:
 
+<img width="516" alt="Screenshot 2024-12-10 at 3 59 33 PM" src="https://github.com/user-attachments/assets/e1cb5049-a8fa-49f5-ba70-d75522f1f0a4">
 
+Where:
+**DF1** = Starting volume from coral processing / subsample for aliquot. Each sample was filled to a set volume mark with PBS solution and homogenized before removing aliquot
+**DF2** = Concentration of sample after prep for spectrometry. (algal pellet + acetone, should equal 1mL)
+**DF3** = (sample + acetone)/sample (IN SPEC)
+**Chl a** = Colecule that makes photosynthesis possible, chl concentrations without dilution factors using the equation: (11.43*A663)-(0.64*A630)
+**Chl c** = Accessory pigment used to pass on the light excitation to chlorophyll a in algae, chl concentrations without dilution factors using the equation: (27.09*A630)-(3.63*A663)
+**Chl a+c** = Total Chlorophyll, Chl a and Chl C2 added together without dilutions.
+**PW** = Pathway length (glass 96-well plate = 1.09cm, quartz 96-well plate = 1.25cm, cuvette = 1)
+**Sample** = Amount aliquoted after airbrushing.
+**Acetone** = Amount added to the cuvette prior to reading on the spec. (Depends on color/clarity of sample)
 
+<span style="color:red">**NOTE**</span>: DO NOT MULTIPLY BY 10 IF USING WELL PLATE
 
+*Finally, the total chlorophyll is standardized for the surface area of the individual coral fragments.*
 
+### Quality Assurance and Control
+*Proper Training*
 
+Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions.
 
+*Data Review*
 
+All laboratory data will be reviewed for completeness and transfer errors. Data will be reviewed by a second individual after entry into Excel spreadsheets by comparing the entered, electronic data to the original records (e.g., hand-written datasheets or laboratory notebooks).  Data will be summarized as descriptive statistics and in tabular and graphical form to allow visual inspection and verification, and comparison to expected or target values. 
+ 
+*Data Verification*
 
+Data will be checked for compliance with the procedures outlined in the SOPs.  Any deviations from those procedures and the impact on the quality of the data will be assessed and discussed with Task Members. Any laboratory data outliers will be flagged.
+ 
+*Data Validation*
 
+Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature.
 
+*Procedure Specific QA/QC Methods*
 
+Reference for chlorophyll pigments (i.e., acetone) are conducted every 5 samples to ensure the spectrophotometer is reading correctly.
 
+The spectrophotometer is inspected, calibrated, and/or maintained in accordance with the manufacturer’s instructions. All other instruments are calibrated according to calibration procedures described in the instrument manuals.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Lot numbers and expiration dates for consumables are recorded by personnel performing the testing on datasheets or logbooks, as appropriate. Reagents or standard solutions are not used beyond the expiration date printed on the label. All supplies, equipment, and consumables procured for the analysis of this study are documented, inspected, and accepted in accordance with the requirements of each.
