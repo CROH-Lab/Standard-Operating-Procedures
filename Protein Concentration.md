@@ -88,6 +88,7 @@ To determine the protein concentration of the coral host to determine coral heal
 
 ### **<ins>Analysis</ins>**
 **Calculation 1:** Dilutions factor
+
 **_Protein (mg/mL) =_** ![Screenshot 2024-12-16 at 4 25 46 PM](https://github.com/user-attachments/assets/3aae3c27-ef8c-413c-965d-1b6a899962cb)
 
 **_DFS =_** ![Screenshot 2024-12-16 at 4 28 58 PM](https://github.com/user-attachments/assets/3105a892-4716-421b-9cec-7b48d43bc0f1)
