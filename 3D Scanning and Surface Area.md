@@ -3,7 +3,7 @@
 ## Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Dr. Davies Lab at Boston University
 ## Last updated: December 9, 2024
 ## Pre-requisite SOP: NA
-## Saftey precautions: **Required PPE - <ins> enclosed shoes </ins>**
+## Safety precautions: **Required PPE - <ins> enclosed shoes </ins>**
 
 ## Purpose: 
 The surface area of the corals will be measured using a 3D scanner (EinScan-SE). More recent work has shown that 3D-scanned images 
