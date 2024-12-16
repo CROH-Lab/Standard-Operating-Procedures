@@ -28,7 +28,7 @@ To determine the protein concentration of the coral host to determine coral heal
 - Pipettes (5 mL & 1 mL) (VWR)
 - Plastic 96-well plate
 
-### **_CUVETTES ONLY_**
+## **_CUVETTES ONLY_**
 - Remove samples from freezer to thaw.
 - Turn on spectrophotometer.
   - For more information on turning on the spectrophotometer see Chlorophyll A & C Extraction SOP
@@ -56,7 +56,7 @@ To determine the protein concentration of the coral host to determine coral heal
   - NO liquid should be going in the spectrophotometer.
   - Read the samples and record all the data.
  
-### **_96-Well Plate ONLY_**
+## **_96-Well Plate ONLY_**
 - Remove samples from freezer to thaw.
 - Turn on the spectrophotometer (for mor information on turning on the spectrophotometer, see Chlorophyll A&C Extraction SOP).
 - Open Soft Max Pro on computer.
