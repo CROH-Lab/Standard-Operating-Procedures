@@ -181,7 +181,7 @@ Once the data has been reviewed and verified, it will be assessed to determine t
 
 ***Procedure Specific QA/QC Methods***
 
-**Personnel**
+*Personnel*
 
 Only personnel trained on the airbrush and airbrush related protocols and care will be allowed to wield the airbrush to prevent damages or degradation of the brush. The same individual performs tissue removal to decrease differences across members. Lot numbers and expiration dates for consumables are recorded by personnel performing the testing on datasheets or logbooks, as appropriate. 
 
