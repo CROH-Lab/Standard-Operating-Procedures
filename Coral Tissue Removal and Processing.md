@@ -193,7 +193,7 @@ The centrifuge will be properly balanced before each use to prevent damage to th
 
 Reagents or standard solutions are used beyond the expiration date printed on the label. All supplies, equipment, and consumables procured for the analysis of this study are documented, inspected, and accepted in accordance with the requirements of each. 
 
-###**<ins>Quick Guide to Aliquoting</ins>**
+### **<ins>Quick Guide to Aliquoting</ins>**
 1.	Place falcon tube sample in the Sonicator after it has been filled with PBS to make all samples equal in mL
   - Sonicator should be set to AMP 20% for 10 secs, do this twice
 2.	Take the sample out of the sonicator and vortex the tube for 5 seconds
