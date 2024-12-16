@@ -1,5 +1,6 @@
 # Coral Tissue Removal and Processing
 ## Prepared by: Coral Reef and Ocean Health Research Group
+## Last Updated: December 16, 2024
 ## Pre-requisite SOP: NA
 ## Safety precautions: **Required PPE - <ins>Enclosed shoes, gloves</ins>**
 ## <span style="color:red">Bleach handling</span>.
