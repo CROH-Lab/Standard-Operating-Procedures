@@ -1,7 +1,7 @@
 # Coral Bleaching
 ## Prepared by: Coral Reef and Ocean Health Research Group
 ## Pre-requisite SOP: NA
-## Saftey precautions: **Required PPE - <ins>Enclosed shoes, ankle-length pants, gloves, long hair tied back, lab coat</ins>**
+## Safety precautions: **Required PPE - <ins>Enclosed shoes, ankle-length pants, gloves, long hair tied back, lab coat</ins>**
 ## <span style="color:red">Bleach handling</span>.
 
 ## Purpose: 
