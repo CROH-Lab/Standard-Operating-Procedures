@@ -1,7 +1,7 @@
 # Chlorophyll A and C Extraction
 
 ## Prepared by: Coral Reef and Ocean Health Research Group; Procedure is adapted from Jeffrey and Humphrey (1975)
-##Last Updated: December 16, 2024
+## Last Updated: December 16, 2024
 ## Pre-requisite SOP: NA
 ## Safety precautions: **Required PPE - <ins>Enclosed shoes, ankle-length pants, gloves, long hair tied back, lab coat</ins>**
 
