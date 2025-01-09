@@ -31,7 +31,7 @@ Launch again. It should recognize the connection with the Diving-PAM. If yes, it
 
 ![Screenshot 2025-01-07 at 2 18 39 PM](https://github.com/user-attachments/assets/aa2c521e-fc62-4c5e-aa0f-e5d09dc00b1f)
 
-* *__DO NOT CHANGE ANY OF THE SETTINGS UNLESS YOU KNOW WHAT YOU ARE DOING.__*
+*__DO NOT CHANGE ANY OF THE SETTINGS UNLESS YOU KNOW WHAT YOU ARE DOING.__*
 
 4. Choose a coral to measure and record the ID number on the datasheet
 - Place coral in the measuring tank and find a place on the coral surface where the probe can be flush at 90 degrees to the coral. Do not measure tips of coral.
