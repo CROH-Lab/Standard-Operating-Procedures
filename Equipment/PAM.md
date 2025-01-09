@@ -1,4 +1,4 @@
-# 3D Pulse Amplitude Modulated Fluorometer (PAM): Measuring photosynthetic efficiency
+# Pulse Amplitude Modulated Fluorometer (PAM): Measuring photosynthetic efficiency
 
 ## Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Dr. Davies Lab at Boston University
 ## Last updated: January 7th, 2025
