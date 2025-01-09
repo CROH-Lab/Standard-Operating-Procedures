@@ -1,6 +1,6 @@
 # Pulse Amplitude Modulated Fluorometer (PAM): Measuring photosynthetic efficiency
 
-## Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Dr. Davies Lab at Boston University
+## Prepared by: Coral Reef and Ocean Health Research Group
 ## Last updated: January 7th, 2025
 ## Pre-requisite SOP: NA
 ## Safety precautions: **Required PPE - <ins> enclosed shoes </ins>**
