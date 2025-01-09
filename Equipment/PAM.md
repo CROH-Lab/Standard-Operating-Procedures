@@ -76,11 +76,15 @@ Launch again. It should recognize the connection with the Diving-PAM. If yes, it
 - Rinse in fresh water any of the components that were in contact with seawater. Generally, this is just the probe. Probe can be submerged in a beaker of water for several minutes
 - Leave probe and PAR sensor fiber optics in such a way as to avoid kinking the cables. Cover the PAM with a towel
 
-### Rapid photosynthetic efficiency (Fv/Fm) using PAM module
-1. Insert the fiber cable labelled "PAM end" into the fluorometer
+# Rapid photosynthetic efficiency (Fv/Fm) using PAM module
+1. Insert the fiber cable labelled "__to PAM__" into the fluorometer without kinking the cable. Leave the black cap on the end that is not plugged into the fluorometer
 2. Turn on the PAM using the power toggle switch on the left side
   - If the keys are locked on the module, toggle the power switch once to unlock the keys
-3. 
+3. Make sure that __*Ft*__ reads near 0
+  - If it is not reading near 0, go to menu > PAM settings > Adjust F-Offset > Yes.
+  - The bottom of the screen will start counting down while the machine is adjusting. Make sure the black cap is on the sensor, or your thumb is over the sensor.
+4. Once Ft is set, take the black cap off the sensor (or remove your thumb) and place the tubing extender over the sensor. This ensures the sensor is not scratched and every measurement is taken at the same distance.
+5. Find a flat surface on the coral and press F2 to get Fv/Fm.
 
 ### __Some tips:__
 - Y is the yield, or the capacity of the algae to fluoresce, this capacity is high at the start, all reaction centers are open and ready to fluorescence, as light is added the capacity decreases because the algae are fluorescing therefore the “capacity” is lower since it’s already happening. Same with Y(NPQ) that is the capacity or yield to do non-photochemical quenching.
