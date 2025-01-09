@@ -74,9 +74,15 @@ Launch again. It should recognize the connection with the Diving-PAM. If yes, it
 - On the Diving-PAM, touch the OFF “button” and verify that the green light is off
 - Close computer, turn ON room light, turn OFF red light, leave PAM and computer in charge
 - Rinse in fresh water any of the components that were in contact with seawater. Generally, this is just the probe. Probe can be submerged in a beaker of water for several minutes
-- Leave probe and PAR sensor fiber optics in such a way as to avoid kinking the cables. Cover the PAM with a towel  
+- Leave probe and PAR sensor fiber optics in such a way as to avoid kinking the cables. Cover the PAM with a towel
 
-###__Some tips:__
+### Rapid photosynthetic efficiency (Fv/Fm) using PAM module
+1. Insert the fiber cable labelled "PAM end" into the fluorometer
+2. Turn on the PAM using the power toggle switch on the left side
+  - If the keys are locked on the module, toggle the power switch once to unlock the keys
+3. 
+
+### __Some tips:__
 - Y is the yield, or the capacity of the algae to fluoresce, this capacity is high at the start, all reaction centers are open and ready to fluorescence, as light is added the capacity decreases because the algae are fluorescing therefore the “capacity” is lower since it’s already happening. Same with Y(NPQ) that is the capacity or yield to do non-photochemical quenching.
 - The battery will get weaker with repeated measurements. At its fullest, the value hovers around 13. Note that the battery does not get too low while taking measurements. Anything below 10 or 11 could affect measurements.
 - The SAT-Pulse chart shows a curve that should plateau at the top dotted line (this line represents Fm’ -- the maximal fluorescence in light). In most cases, if there is no plateau and instead a skew, it is possible the probe is not at 90 degrees to the sample. Check this.
@@ -85,7 +91,7 @@ Launch again. It should recognize the connection with the Diving-PAM. If yes, it
 
 ![Screenshot 2025-01-07 at 2 28 32 PM](https://github.com/user-attachments/assets/80f424cc-3906-4910-8b3e-ab325f9845a2)
 
-###Troubleshooting 
+### Troubleshooting 
 
 - If you get an error message about signal overflow, try decreasing the Gain* value or Meas. Light intensity. Adjust the f-offset anytime you change the Gain* or Meas. Light Intensity. 
 
