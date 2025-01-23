@@ -38,7 +38,7 @@ Proper coral processing and the storage of biological fractionates are important
 - 5mL pipette (VWR)
 
 ## DNA and RNA sampling
-- Fill a 250mL with 10% bleach, and two more 250mL beaker with DI or RODI water. Staiton them in the following order:
+- Fill a 250mL with 10% bleach, and two more 250mL beakers with DI or RODI water. Station them in the following order:
 
 | RODI water | 10% bleach | RODI water|
 |:---:|:---:|:---:|
@@ -47,10 +47,12 @@ Proper coral processing and the storage of biological fractionates are important
  - "Individual ID", "DNA sample", The date. Fill with ~750uL of DMSO
  - "Individual ID", "RNA sample", the date. Fill with ~750uL of RNALater
 2. Using a pair of bone shears or cuticle clippers, rinse the tool in the first beaker of RODI water, then swirl the tool in the 10% bleach solution, then rinse again in the second beaker of RODI water.
-3. Snip off 2-5mm of coral tissue and skeleton from the colony, making sure to use a distal portion of the coral. Add it to the NDA tube.
+3. Snip off 2-5mm of coral tissue and skeleton from the colony, making sure to use a distal portion of the coral. Add it to the DNA tube.
 4. Repeat step 2
 5. Repeat step 3, but place the new microfragment in the RNA tube.
+6. Place both tubes in a well-labeled box in the ultra-low freezer for storage.
 
+## Holobiont sampling
 ### **<ins>Sonicator</ins>**
 - Sonicator probe should already be vertical in housing with converter cable coming out the top, if not, then attach the probe to the converter with the supplied wrenches
 
@@ -74,6 +76,7 @@ Proper coral processing and the storage of biological fractionates are important
 - Homogenize the sample in the Falcon tube at AMP 20% with the timer set to 20 seconds.
   - If sample is greater than 40mL invert 5 times to ensure proper homogenization
 - Vortex for 5 seconds and take two 1mL slurry samples.
+- Vortex again and take two 5mL samples for biomass
 - Place sample in centrifuge for 5 minutes at 3000rpm (make sure sample is balanced – need the same volume in every Falcon tube).
 
 ![Picture1](https://github.com/user-attachments/assets/1b19e655-47ac-47c5-9538-f665aad52c56)
@@ -94,9 +97,10 @@ Proper coral processing and the storage of biological fractionates are important
 
 ![Picture1](https://github.com/user-attachments/assets/d33f09e1-27ff-45a7-ad35-9af3d518b5e3)
 
-- Pipette (or use graduated cylinder) 5mL of PBS solution into 50mL Falcon tube with the algae pellet.
+- Pipette (or use graduated cylinder) 5mL **(increased to 7mL)** of PBS solution into 50mL Falcon tube with the algae pellet.
 - Vortex Falcon tube for 1 minute until PBS/algae are well mixed.
-- Pipette 1000uL into tubes aliquoted for Chl-a and zoox counts and backups of each.
+- Pipette 1000uL into tubes aliquoted for Chl-a, carbohydrates, and backups of each.
+- Pipette 500uL into tubes aliquoted for symbiont density
 
 *Vortex between aliquots to ensure samples stay well mixed and integrated.*
 
