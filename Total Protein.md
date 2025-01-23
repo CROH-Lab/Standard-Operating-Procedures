@@ -9,7 +9,7 @@
 Total protein concentration is an estimation of soluble (water-soluble: enzymes, transport, communication) and insoluble (water-insoluble: structural) protein in a samples taken from coral.
 
 ### Materials:
-1. Pierce BCA Protein Assay Kit from Thermo Scientific([https://www.thermofisher.com/order/catalog/product/23225?SID=srch-srp-23225](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0011430_Pierce_BCA_Protein_Asy_UG.pdf)).
+1. (Pierce BCA Protein Assay Kit from Thermo Scientific](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0011430_Pierce_BCA_Protein_Asy_UG.pdf)).
 3. Clear 96 Well plate
 4. Incubator or Waterbath with range from 37°C to 50°C.
 5. Plate reader Spectrophotometer
