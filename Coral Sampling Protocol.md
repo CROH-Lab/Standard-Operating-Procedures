@@ -37,6 +37,19 @@ Proper coral processing and the storage of biological fractionates are important
 - 1000uL pipette (VWR)
 - 5mL pipette (VWR)
 
+## DNA and RNA sampling
+- Fill a 250mL with 10% bleach, and two more 250mL beaker with DI or RODI water. Staiton them in the following order:
+
+| RODI water | 10% bleach | RODI water|
+
+1. Label two 1.5mL Eppendorf tubes as follows:
+ - "Individual ID", "DNA sample", The date. Fill with ~750uL of DMSO
+ - "Individual ID", "RNA sample", the date. Fill with ~750uL of RNALater
+2. Using a pair of bone shears or cuticle clippers, rinse the tool in the first beaker of RODI water, then swirl the tool in the 10% bleach solution, then rinse again in the second beaker of RODI water.
+3. Snip off 2-5mm of coral tissue and skeleton from the colony, making sure to use a distal portion of the coral. Add it to the NDA tube.
+4. Repeat step 2
+5. Repeat step 3, but place the new microfragment in the RNA tube.
+
 ### **<ins>Sonicator</ins>**
 - Sonicator probe should already be vertical in housing with converter cable coming out the top, if not, then attach the probe to the converter with the supplied wrenches
 
