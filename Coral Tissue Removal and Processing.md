@@ -151,7 +151,7 @@
 - Clean up all supplies (e.g., tubes, pipettes, pipette tips and put back in correct locations).
 - Rinse out the used 50mL Eppendorf tubes with RO water, clean off sharpie labels with ethanol, and place in re-use, drying rack.
 
-###**<ins>Waste Disposal Clean-up:</ins>**
+### **<ins>Waste Disposal Clean-up:</ins>**
 - Bleach, RO, and biological material can go down the drain. Run water when pouring out waste.
 - Ethanol waste needs to be put in the waste container under the hood (labeled with ethanol).
 - Rinse used tubes and bottles with a 10% bleach and RO solution and dry on drying rack.
@@ -162,7 +162,7 @@
 
 *Make sure to re-fill PBS bottles at end of the day for the next user. To make more PBS, add 5g for every 500mL of water.*
 
-###**<ins>Quality Assurance and Quality</ins>**
+### **<ins>Quality Assurance and Quality</ins>**
 *Proper Training*
 
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions.
