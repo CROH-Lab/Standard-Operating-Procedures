@@ -39,7 +39,8 @@
 **<ins>Notes</ins>**
 - Before beginning, make sure all Falcon tubes and Eppendorf tubes are pre-labeled and ready to go.
 - Never reach a hand into the bag of Eppendorf tubes. Wear gloves and shake tubes out of the bag onto a paper towel. Never put tubes back into the Eppendorf bag to reduce contamination.
-- To make the PBS solution add 5g of powder to 500 ml of DI water OR 2 tablets to 500 ml of DI water (brown bottles and squirt bottles are 500 ml). 
+- To make the PBS solution add 5g of powder to 500 ml of DI water OR 2 tablets to 500 ml of DI water (brown bottles and squirt bottles are 500 ml).
+- **_Make sure a DNA and RNA sample have been taken from frags before airbrushing_**
 
 **<ins>Airbrush Set-up:</ins>**
 - Place airbrush motor under the hood.
