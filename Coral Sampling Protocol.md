@@ -24,4 +24,7 @@ Proper coral processing and the storage of biological fractionates are important
 13. Kim wipes
 14. 2 Containers with ice
 
+### Equipment:
+1. 
+
 
