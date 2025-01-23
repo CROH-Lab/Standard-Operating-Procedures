@@ -2,15 +2,14 @@
 
 ### Prepared by: Coral Reef and Ocean Health Research Group; Adapted from [Thurber et al., 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9636870/)
 ### Last updated: January 23, 2025
-### Pre-requisite SOP: NA
+### Pre-requisite SOP: [Coral Tissue Removal and Processing](
 ### Safety precautions: **Required PPE - <ins> enclosed shoes </ins>**
 
 ## Purpose: 
-The surface area of the corals will be measured using a 3D scanner (EinScan-SE). More recent work has shown that 3D-scanned images 
-of the coral provides a more accurate surface area measurement, which is needed to standardize physiological measurements.
+Proper coral processing and the storage of biological fractionates are important for downstream analysis as they pertain to physiological and -omic responses of corals to their environment, whether natural or artificially manipulated. This protocol will guide the currently supported methods for storing several coral fractionates (e.g. protein, carbohydrates, DNA, RNA, chlorophyll, biomass slurry, and symbionts). 
 
 ### Materials:
-1. Scanner manual - can be found [here](https://support.einscan.com/en/support/solutions/60000333808manual/?scan_model=einscan-se&download_option=manual)
+1. 50mL falcon tube with frozen 
 2. Calibration object (Ex. a die with a known area)
 3. Manilla file folder
 4. Pedestal for coral branch
