@@ -41,7 +41,7 @@ Proper coral processing and the storage of biological fractionates are important
 - Fill a 250mL with 10% bleach, and two more 250mL beaker with DI or RODI water. Staiton them in the following order:
 
 | RODI water | 10% bleach | RODI water|
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 
 1. Label two 1.5mL Eppendorf tubes as follows:
  - "Individual ID", "DNA sample", The date. Fill with ~750uL of DMSO
