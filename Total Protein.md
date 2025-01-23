@@ -19,10 +19,7 @@ Total protein concentration is an estimation of soluble (water-soluble: enzymes,
 9. 1.5ml microfuge tubes
 10. DI water
 
-[Pierce BCA Protein Assay Kit](/Users/hputnam/MyProjects/urol-e5/protocols/images/Pierce_BCA_Protein_Assay_UG.pdf).
-![alt text here](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/images/BCA_protocol.png)
-
-**Adult Tissue Sample Preparation for Insoluble Protein from Holobiont**
+## **Adult Tissue Sample Preparation for Insoluble Protein from Holobiont**
 
 1. Thaw a 500 μL aliquot of tissue homogenate.
 2. Vortex to re-suspend the symbiont cell pellet.
@@ -32,7 +29,7 @@ Total protein concentration is an estimation of soluble (water-soluble: enzymes,
 8. Add 280 μL of 0.1M HCl to the tube to neutralize the sample. Add this volume in small amounts and continue to test the pH of the sample using pH paper. pH needs to be at 7.0 to move onto the next steps.
 9. **_It is critical to record exactly how much volume of NaOH and HCl was added_**
 
-**Adult Tissue Sample Preparation for Soluble Protein from Host**
+## **Adult Tissue Sample Preparation for Soluble Protein from Host**
 1. Thaw the 500 μL aliquot of host only supernatant.
 2. Follow the aliquoting instructions in the e5 downstream analysis section of the [Airbrushing Protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Airbrushing.md)
 
@@ -41,7 +38,7 @@ Total protein concentration is an estimation of soluble (water-soluble: enzymes,
 *These standards can be made during the 4 hour incubation period in the sample preparation section.*
 2. Use the following table as a guide to prepare a set of protein standards. For this project we will use the microplate procedure. Diluent is DI water Type II. Each vial will be a sterile 1.5 mL microcentrifuge tube. Label the cap of the microcentrifuge$
 
-<a name="Table"></a> **Standard Table**
+**Standard Table**
 
 | Vial | Volume of Diluent (μL) | Volume of Source of BSA (μL) | Final BSA Concentration (μg/mL) |
 |------|------------------------|------------------------------|---------------------------------|
