@@ -62,7 +62,7 @@
 
 *Keep airbrush tip all the way closed (all the way to the right) – should already be like that when you set-up and break-down, don’t adjust if you don’t have to.*
 
-###**<ins>Airbrush - Removing Coral Tissue:</ins>**
+### **<ins>Airbrush - Removing Coral Tissue:</ins>**
 - Take coral sample out of whirlpack and place in Ziploc bag (save whirlpack for the coral skeleton)
 - Place coral in bottom corner of Ziploc bag to maximize surface area being sprayed
 - Slider to close Ziplock should be at top so you can zip your hand inside to make sure spray isn’t coming out of bag
@@ -77,7 +77,7 @@
 - If applicable, carefully remove the coral from the plug following airbrushing. Remove any remaining glue from the coral fragments with careful force or bone cutters.
   - If plugs do not easily come off continue to skeleton bleaching protocol.
 
-###**<ins>Airbrush Clean-up</ins>**
+### **<ins>Airbrush Clean-up</ins>**
 - Turn airbrush motor off.
 - Hold down toggle until air is released (at 0).
 - Keep cord attached to compressor but remove cord from airbrush pen and place pen in airbrush box (wipe down with Kimwipe and ethanol).
@@ -91,7 +91,7 @@
 
 <img width="336" alt="Picture1" src="https://github.com/user-attachments/assets/8667b268-6f92-407c-a4b7-1b546ba29514" />
 
-###**<ins>Sonicator</ins>**
+### **<ins>Sonicator</ins>**
 - Sonicator probe should already be vertical in housing with converter cable coming out the top, if not, then attach the probe to the converter with the supplied wrenches
 
 ![Picture1](https://github.com/user-attachments/assets/754b1e81-2aa0-499b-92c4-6243cd33882f)
