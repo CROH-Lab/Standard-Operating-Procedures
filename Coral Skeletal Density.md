@@ -15,7 +15,7 @@ The purpose of this procedure is to measure the density of the coral fragment. C
 - Weigh boats
 - Paper towels
 
-###**<ins>Equipment</ins>**
+### **<ins>Equipment</ins>**
 - Electric balance (VWR, VWR-4002B2)
 
 ### **<ins>Pre-procedure</ins>**
