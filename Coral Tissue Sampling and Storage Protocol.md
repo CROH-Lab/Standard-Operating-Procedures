@@ -5,7 +5,7 @@
 ### Pre-requisite SOP: [Coral Tissue Removal and Processing](https://github.com/CROH-Lab/Standard-Operating-Procedures/blob/main/Coral%20Tissue%20Removal%20and%20Processing.md)
 ### Safety precautions: **Required PPE - <ins> enclosed shoes </ins>**
 
-[Sample Storage Table](#Sample Storage Table)
+- [**Sample Storage Table**](#Sample Storage Table)
 
 ## Purpose: 
 Proper coral processing and the storage of biological fractionates are important for downstream analysis as they pertain to physiological and -omic responses of corals to their environment, whether natural or artificially manipulated. This protocol will use the currently supported methods for collecting and storing several coral fractionates (e.g. protein, carbohydrates, DNA, RNA, chlorophyll, biomass slurry, and symbionts). 
