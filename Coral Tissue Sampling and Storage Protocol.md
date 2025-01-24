@@ -177,4 +177,6 @@ Reagents or standard solutions are used beyond the expiration date printed on th
 <a name="Table"></a> **Sample Storage Table**
 
 | Sample Type | Concentration Recommended | Storage Medium (short-term) | Sotrage Temp (short-term) | Storage Medium (mid-term) | Storage Temp (mid-term) | Sotrage Medium (long-term) | Storage Temp (long-term) | Links | Notes|
+|:-----------:|:-------------------------:|:---------------------------:|:-------------------------:|:-------------------------:|:-----------------------:|:-----------------------------:|:------------------------:|:-----:|:----:|
+
 
