@@ -105,7 +105,7 @@ Launch again. It should recognize the connection with the Diving-PAM. If yes, it
 
 ![Screenshot 2025-01-07 at 2 34 54 PM](https://github.com/user-attachments/assets/988d19d8-0de8-4229-80f0-f250dcdc5ac9)![Screenshot 2025-01-07 at 2 35 11 PM](https://github.com/user-attachments/assets/0e47b2d1-14e9-4803-a3e5-3f9dcded1a59)
 
-###Quality Assurance and Control Measures 
+### Quality Assurance and Control Measures 
 
 __*Proper Training*__
 
