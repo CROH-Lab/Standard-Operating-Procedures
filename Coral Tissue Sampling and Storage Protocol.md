@@ -178,5 +178,6 @@ Reagents or standard solutions are used beyond the expiration date printed on th
 
 | Sample Type | Concentration Recommended | Storage Medium (short-term) | Sotrage Temp (short-term) | Storage Medium (mid-term) | Storage Temp (mid-term) | Sotrage Medium (long-term) | Storage Temp (long-term) | Links | Notes|
 |:-----------:|:-------------------------:|:---------------------------:|:-------------------------:|:-------------------------:|:-----------------------:|:-----------------------------:|:------------------------:|:-----:|:----:|
+|Protein|>1mg/mL|PBS, can add anti-microbial agent|4ºC|PBS, or 25-50% glycerin|-20ºC|PBS, 25-50% glycerin, or LN|-80ºC - -196ºC|[Thermofischer](https://assets.thermofisher.com/TFS-Assets/LSG/Application-Notes/TR0043-Protein-storage.pdf)|Can add 1-5mg/mL of BSA to low concentration protein samples for stability. Glycerin helps stop ice crystal formation during rapid freezing|
 
 
