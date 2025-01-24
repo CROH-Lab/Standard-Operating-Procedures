@@ -74,7 +74,7 @@ Measurement of the amount of chlorophyll present within symbionts.
   - All zooxanthellae will be in the pellet and the chlorophyll will be in the supernatant.
   - Store samples on ice and cover (use a black ice bucket, need to stay in the dark, no light) for transport into the CORE lab
 
-###**<ins>Using the Spectrophotometer _FOR_Cuvette Readings</ins>**
+### **<ins>Using the Spectrophotometer _FOR_Cuvette Readings</ins>**
 - Turn on computer
 - Open Soft Max Pro on computer- if this screen opens click “Done”.
 - Make sure that the “SpectraMax M3” button in the top right corner on the program is a green checkmark (not red circle)
@@ -121,7 +121,7 @@ Measurement of the amount of chlorophyll present within symbionts.
   - Repeat this for every 7-10 samples
   - DISCLAIMER: sometimes when you set the new reference point, it changes the previous samples slightly (~0.001). This is ok, continue with reading the next 10 samples at this new calibration and do not change the readings of the previous samples. 
 
-###**<ins>Using the Spectrophotometer _FOR_96 Well Plate Readings</ins>**
+### **<ins>Using the Spectrophotometer _FOR_96 Well Plate Readings</ins>**
 - Turn on computer
 - Open Soft Max Pro on computer- if this screen opens click “Done”.
 - Make sure that the “SpectraMax M3” button in the top right corner on the program is a green checkmark (not red circle)
@@ -193,7 +193,7 @@ Be **VERY** careful with the 96 well plate, it has a glass bottom and we only ha
 - At end of day, turn off spec and log out of the computer
 - Please take everything with you from the spec room including any trash.
 
-##**<ins>Calculations</ins>**
+## **<ins>Calculations</ins>**
 Standardize units chl a/chl c
   - CHL per cell
   - CHL per surface area (surface area will be calculated using the 3D scanner)
