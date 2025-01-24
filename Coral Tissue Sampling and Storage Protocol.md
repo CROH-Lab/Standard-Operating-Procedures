@@ -84,7 +84,7 @@ Proper coral processing and the storage of biological fractionates are important
 
 ![Picture1](https://github.com/user-attachments/assets/1b19e655-47ac-47c5-9538-f665aad52c56)
 
-- Pipette 1000uL (1mL) of coral supernatant into Eppendorf tubes for each aliquot (e.g., protein) one for actual analysis, one for backup.
+- Pipette 1000uL (1mL) of coral supernatant (e.g. protein) into two Eppendorf tubes.
 
 ![Picture1](https://github.com/user-attachments/assets/37752511-a9a3-4f0c-add6-d45fac556024)
 
@@ -103,7 +103,7 @@ Proper coral processing and the storage of biological fractionates are important
 - Pipette (or use graduated cylinder) 5mL **(increased to 7mL)** of PBS solution into 50mL Falcon tube with the algae pellet.
 - Vortex Falcon tube for 1 minute until PBS/algae are well mixed.
 - Pipette 1000uL into tubes aliquoted for Chl-a, carbohydrates, and backups of each.
-- Pipette 500uL into tubes aliquoted for symbiont density
+- Pipette 500uL into tubes aliquoted for symbiont density, and a back up.
 
 *Vortex between aliquots to ensure samples stay well mixed and integrated.*
 
