@@ -41,7 +41,7 @@ The purpose of this procedure is to measure the density of the coral fragment. C
   - Clear/wipe out the weigh boat in between samples to remove remaining coral debris.
 - Record the mass of the dry coral skeleton and then subtract the weight boat’s mass.
 
-### m**<ins>Step 3: Density Calculation</ins>**
+### **<ins>Step 3: Density Calculation</ins>**
 - Average the volumes for each coral skeleton.
 - Average mass for each coral skeleton.
 - Calculate the density of the coral using the following equation:
