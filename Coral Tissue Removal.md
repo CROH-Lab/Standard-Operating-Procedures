@@ -36,13 +36,13 @@
 - 1000uL pipette (VWR)
 - Airbrush (Paasche, Millennium Set)
 
-**<ins>Notes</ins>**
+** <ins>Notes</ins>**
 - Before beginning, make sure all Falcon tubes and Eppendorf tubes are pre-labeled and ready to go.
 - Never reach a hand into the bag of Eppendorf tubes. Wear gloves and shake tubes out of the bag onto a paper towel. Never put tubes back into the Eppendorf bag to reduce contamination.
 - To make the PBS solution add 5g of powder to 500 ml of DI water OR 2 tablets to 500 ml of DI water (brown bottles and squirt bottles are 500 ml).
 - **_Make sure a DNA and RNA sample have been taken from frags before airbrushing_**
 
-**<ins>Airbrush Set-up:</ins>**
+** <ins>Airbrush Set-up:</ins>**
 - Place airbrush motor under the hood.
 - Unwrap chord and attach actual airbrush from kit and screw the fat end of the cord into the motor and the smaller end of the cord into the brush.
 
@@ -83,7 +83,7 @@
 - Hold down toggle until air is released (at 0).
 - Keep cord attached to compressor but remove cord from airbrush pen and place pen in airbrush box (wipe down with Kimwipe and ethanol).
 
-###**<ins>Airbrush Troubleshooting:</ins>**
+### **<ins>Airbrush Troubleshooting:</ins>**
 - If the airbrush is spraying liquid when it should be spraying air (i.e., when you press directly down it should be air and when you press down and pull back it should be liquid from the attached bottle (PBS or ethanol)) then:
   - Remove the red back piece (labeled 1).
   - Unscrew the first metal piece (labeled 2).
