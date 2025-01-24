@@ -27,7 +27,7 @@ Proper coral processing and the storage of biological fractionates are important
   - one to rinse ethanol into (ethanol waste)
   - one to rinse RO water and biological waste into (sink waste)
 15. Kim wipes
-16. Two buckets of ice (one for alloquatting, one for homogenizing)
+16. Two buckets of ice (one for aliquotting, one for homogenizing)
 
 ### **<ins>Equipment:</ins>**
 - Sonicator and housing
