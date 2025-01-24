@@ -1,9 +1,11 @@
-# Protocol for sampling coral tissue
+# Protocol for sampling and storing coral tissue
 
 ### Prepared by: Coral Reef and Ocean Health Research Group; Adapted from [Thurber et al., 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9636870/)
 ### Last updated: January 23, 2025
 ### Pre-requisite SOP: [Coral Tissue Removal and Processing](https://github.com/CROH-Lab/Standard-Operating-Procedures/blob/main/Coral%20Tissue%20Removal%20and%20Processing.md)
 ### Safety precautions: **Required PPE - <ins> enclosed shoes </ins>**
+
+[Sample Storage Table](#Sample Storage Table)
 
 ## Purpose: 
 Proper coral processing and the storage of biological fractionates are important for downstream analysis as they pertain to physiological and -omic responses of corals to their environment, whether natural or artificially manipulated. This protocol will use the currently supported methods for collecting and storing several coral fractionates (e.g. protein, carbohydrates, DNA, RNA, chlorophyll, biomass slurry, and symbionts). 
@@ -168,5 +170,8 @@ Reagents or standard solutions are used beyond the expiration date printed on th
 6.	Carefully pour out the rest of the liquid into a waste container, do so slowly and steadily to not remove the pellet
 7.	Pipette 5 mL of PBS into the falcon tube with the pellet
 8.	Vortex the mixture for 1 minute
-9.	Pipette 1 mL of the solution into each of the Chlorophyll and Zoox tubes, there are 2 tubes of each so 4 tubs and 4 mL in total 
+9.	Pipette 1 mL of the solution into each of the Chlorophyll and Zoox tubes, there are 2 tubes of each so 4 tubs and 4 mL in total
+
+
+<a name="Sample Storage Table"></a> **Sample Storage**
 
