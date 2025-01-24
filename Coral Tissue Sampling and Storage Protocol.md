@@ -5,31 +5,30 @@
 ### Pre-requisite SOP: [Coral Tissue Removal and Processing](https://github.com/CROH-Lab/Standard-Operating-Procedures/blob/main/Coral%20Tissue%20Removal%20and%20Processing.md)
 ### Safety precautions: **Required PPE - <ins> enclosed shoes </ins>**
 
-- [**Sample Storage Table**](#Table)
+### Contents
+[**Sample Storage Table**](#Table)
 
 ## Purpose: 
 Proper coral processing and the storage of biological fractionates are important for downstream analysis as they pertain to physiological and -omic responses of corals to their environment, whether natural or artificially manipulated. This protocol will use the currently supported methods for collecting and storing several coral fractionates (e.g. protein, carbohydrates, DNA, RNA, chlorophyll, biomass slurry, and symbionts). 
 
 ### Materials:
 1. 50mL Falcon tubes with airbrushed tissue
-2. 1000uL pipetter
-3. 1000uL pipette tips
-4. 5mL pipetter
-5. 5mL pipette tips
-6. Pipette disposal bin
-7. 1.5mL Eppendorf tubes
-8. Sharpie
-9. Bone shears or cuticle clippers
-10. Gloves
-11. 1M PBS
-12. 10% bleach
-13. 70% ethanol solution
-14. DI or RODI water
-15. Two labeled 250mL tri-corner beakers:
+2. 1000uL pipette tips
+3. 5mL pipette tips
+4. Pipette disposal bin
+5. 1.5mL Eppendorf tubes
+6. Sharpie
+7. Bone shears or cuticle clippers
+8. Gloves
+9. 1M PBS
+10. 10% bleach
+11. 70% ethanol solution
+12. DI or RODI water
+13. Two labeled 250mL tri-corner beakers:
   - one to rinse ethanol into (ethanol waste)
   - one to rinse RO water and biological waste into (sink waste)
-15. Kim wipes
-16. Two buckets of ice (one for aliquotting, one for homogenizing)
+14. Kim wipes
+15. Two buckets of ice (one for aliquotting, one for homogenizing)
 
 ### **<ins>Equipment:</ins>**
 - Sonicator and housing
@@ -40,19 +39,21 @@ Proper coral processing and the storage of biological fractionates are important
 - 5mL pipette (VWR)
 
 ## DNA and RNA sampling
-- Fill a 250mL with 10% bleach, and two more 250mL beakers with DI or RODI water. Station them in the following order:
+- Fill a 250mL beaker with 10% bleach, and two more 250mL beakers with DI or RODI water. Station them in the following order:
 
 | RODI water | 10% bleach | RODI water|
 |:---:|:---:|:---:|
 
 1. Label two 1.5mL Eppendorf tubes as follows:
- - "Individual ID", "DNA sample", The date. Fill with ~750uL of DMSO
- - "Individual ID", "RNA sample", the date. Fill with ~750uL of RNALater
-2. Using a pair of bone shears or cuticle clippers, rinse the tool in the first beaker of RODI water, then swirl the tool in the 10% bleach solution, then rinse again in the second beaker of RODI water.
-3. Snip off 2-5mm of coral tissue and skeleton from the colony, making sure to use a distal portion of the coral. Add it to the DNA tube.
+ - "Individual ID", "DNA sample", The date.
+   - Fill with ~750uL of DMSO
+ - "Individual ID", "RNA sample", the date.
+   - Fill with ~750uL of RNALater
+2. Using a pair of bone shears or cuticle clippers, rinse the tool in the first beaker of RODI water, then swirl the tool in the 10% bleach solution, then rinse again in the second beaker of RODI water. Dab dry with kim wipes.
+3. Snip off ~2-5mm of coral tissue and skeleton from the colony, making sure to use a distal portion of the coral. Add it to the DNA tube.
 4. Repeat step 2
-5. Repeat step 3, but place the new microfragment in the RNA tube.
-6. Place both tubes in a well-labeled box in the ultra-low freezer for storage.
+5. Repeat step 3, but take the sample from a different place as the DNA sample. Place the new microfragment in the RNA tube.
+6. Place both tubes in a labeled cryobox in the preferred method of storage (Reference [Sample Storage Table](#Table).
 
 ## Holobiont sampling
 ### **<ins>Sonicator</ins>**
@@ -173,5 +174,7 @@ Reagents or standard solutions are used beyond the expiration date printed on th
 9.	Pipette 1 mL of the solution into each of the Chlorophyll and Zoox tubes, there are 2 tubes of each so 4 tubs and 4 mL in total
 
 
-<a name="Table"></a> **Sample Storage**
+<a name="Table"></a> **Sample Storage Table**
+
+| Sample Type | Concentration Recommended | Storage Medium (short-term) | Sotrage Temp (short-term) | Storage Medium (mid-term) | Storage Temp (mid-term) | Sotrage Medium (long-term) | Storage Temp (long-term) | Links | Notes|
 
