@@ -182,6 +182,7 @@ Reagents or standard solutions are used beyond the expiration date printed on th
 Chlorophyll|NA|NA|NA|PBS|-20ºC|PBS|-80ºC|[Therber et al., 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9636870/#:~:text=If%20samples%20are%20intended%20to,are%20the%20safest%20holding%20temperatures.)|Chlorophyll is complicated. Store in dark to avoid photodegradation, and do not store extracted chlorophyll samples for long periods of time before analysis. Can add MgCO3 for pH stability|
 Tissue slurry|NA|PBS|4ºC|PBS|-20ºC|PBS|-80ºC|[Therber et al., 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9636870/#:~:text=If%20samples%20are%20intended%20to,are%20the%20safest%20holding%20temperatures.)|This cannot be used as back up DNA or RNA sample|
 Biomass|NA|PBS|4ºC|PBS|-20ºC|PBS|-80ºC|[Therber et al., 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9636870/#:~:text=If%20samples%20are%20intended%20to,are%20the%20safest%20holding%20temperatures.)|This cannot be used as back up DNA or RNA sample|
-
+DNA|NA|70-100% ethanol, DNA/RNA Shield, 20% salt-saturated DMSO|4ºC - 23ºC|100% ethanol, DNA/RNA Shield, 20% salt-saturated DMSO|-20ºC|100% ethanol, DNA/RNA Shield, 20% salt-saturated DMSO, LN|-80ºC - -196ºC|[Therber et al., 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9636870/#:~:text=If%20samples%20are%20intended%20to,are%20the%20safest%20holding%20temperatures.)|Rapid storage at desired temperature is key|
+RNA|NA|DNA/RNA Shield, or RNALater|4ºC|DNA/RNA Shield, or RNALater|-20ºC|RNALater|-80ºC|[Therber et al., 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9636870/#:~:text=If%20samples%20are%20intended%20to,are%20the%20safest%20holding%20temperatures.)|Flash freezing is okay, but RNALater is the most cost-effective method compared to DNA/RNA Shield and LN|
 
 
