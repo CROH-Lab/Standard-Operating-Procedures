@@ -1,14 +1,5 @@
 # Standard protocol for dry tissue biomass and ash-free dry weight 
 
-Original: 20190131    
-Last Revised: 20221223
-
-Contents  
-- [**Materials**](#Materials)    
-- [**Protocol**](#Protocol)  
-- [**Table**](#Table)  
-- [**References**](#References)  
-
 ## Materials
   - Aluminum pans
   - Drying oven (60°C)
