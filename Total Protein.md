@@ -55,6 +55,7 @@ Total protein concentration is an estimation of soluble (water-soluble: enzymes,
 1. Use the following formula to determine the total volume of WR required:
 (# standards + # unknowns) x (# replicates) x (volume of WR per sample) = total volume WR required
 For this project, we will use 9 standards and 200 μL of WR is required for each sample in the microplate procedure.
+
 |(9 standards + # samples) x (2 replicates) x (200 μL of WR) = total volume WR required|
 |--------------------------------------------------------------------------------------|
 |(9 standards + 10 samples) x (2 replicates) x (200 μL of WR) = 7,600 μL WR|
