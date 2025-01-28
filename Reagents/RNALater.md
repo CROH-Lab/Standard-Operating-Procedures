@@ -1,7 +1,7 @@
 # RNALater protocol
 
-### Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Dr. Davies Lab at Boston University
-### Last updated: December 9, 2024
+### Prepared by: Coral Reef and Ocean Health Research Group
+### Last updated: January 28, 2025
 ### Pre-requisite SOP: NA
 ### Safety precautions: **Required PPE - <ins> enclosed shoes, gloves </ins>**
 
