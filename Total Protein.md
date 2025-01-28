@@ -56,11 +56,11 @@ Total protein concentration is an estimation of soluble (water-soluble: enzymes,
 (# standards + # unknowns) x (# replicates) x (volume of WR per sample) = total volume WR required
 For this project, we will use 9 standards and 200 μL of WR is required for each sample in the microplate procedure.
 
-|(9 standards + # samples) x (2 replicates) x (200 μL of WR) = total volume WR required|
-|--------------------------------------------------------------------------------------|
-|(9 standards + 10 samples) x (2 replicates) x (200 μL of WR) = 7,600 μL WR|
-|(9 standards + 20 samples) x (2 replicates) x (200 μL of WR) = 11,600 μL WR|
-|(9 standards + 40 samples) x (2 replicates) x (200 μL of WR) = 19,600 μL WR|
+|(9 standards + # samples) x (2 replicates) x (200 μL of WR)| = total volume WR required|
+|-----------------------------------------------------------|--------------------------|
+|(9 standards + 10 samples) x (2 replicates) x (200 μL of WR)| = 7,600 μL WR|
+|(9 standards + 20 samples) x (2 replicates) x (200 μL of WR)| = 11,600 μL WR|
+|(9 standards + 40 samples) x (2 replicates) x (200 μL of WR)| = 19,600 μL WR|
 
 3. Prepare WR by mixing 50 parts of BCA Reagent A with 1 part of BCA Reagent B (50:1, Reagent A:B) in a clean protein-free container of the appropriate size, based on how many samples are going to be run.
 
