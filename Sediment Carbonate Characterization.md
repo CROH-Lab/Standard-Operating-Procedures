@@ -27,7 +27,7 @@ The purpose of this procedure is to analyze the composition of sediment based on
 2. Once dry, grind sediment to a fine powder with grinder. Place ground samples into glass vials labeled with site name. Ensure glass vials are full of ground sample (~25 - 30g of sediment).
 3. Weigh ceramic crucibles and record weights. Record which crucible number corresponds to each sample in notebook for proper identification (crucibles cannot be labeled as Sharpie, etc. will burn off).
 
-|![Picture1](https://github.com/user-attachments/assets/b79a56b8-4822-492e-ab1f-ac84d48e3a98)||![Picture1](https://github.com/user-attachments/assets/cf2bb9d7-947f-4f1a-ab17-893eb00248c3)|![Picture1](https://github.com/user-attachments/assets/e333aad3-e35d-4f28-965e-626f0449333a)|
+|![Picture1](https://github.com/user-attachments/assets/b79a56b8-4822-492e-ab1f-ac84d48e3a98)|![Picture1](https://github.com/user-attachments/assets/cf2bb9d7-947f-4f1a-ab17-893eb00248c3)|![Picture1](https://github.com/user-attachments/assets/e333aad3-e35d-4f28-965e-626f0449333a)|
 |:---:|:---:|:---:|
 
 
