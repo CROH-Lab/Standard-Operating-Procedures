@@ -8,18 +8,6 @@
 ## Purpose: 
 Measuring coral biomass serves several crucial purposes in standardizing other biological metrics measured to understand coral response to stressors.
 
-Assessing Reef Health:
-Coral Cover: Coral biomass directly reflects the amount of living coral present on a reef. This is a fundamental indicator of reef health, as high coral cover is essential for supporting diverse marine life.   
-Disease and Stress: Declining coral biomass can signal the presence of diseases, bleaching events, or other stressors impacting the reef.
-Predicting Ecosystem Function:
-Biodiversity: Healthy coral reefs support high biodiversity. Coral biomass provides a proxy for the overall health and function of the entire reef ecosystem.   
-Carbon Storage: Corals play a vital role in carbon sequestration. Measuring biomass helps estimate the carbon stored within the reef structure, contributing to global carbon budgets.   
-Fisheries: Coral reefs provide critical habitat for many fish species. Coral biomass is linked to fish abundance and diversity, which is essential for sustainable fisheries.   
-Monitoring and Conservation:
-Tracking Change: Long-term monitoring of coral biomass allows scientists to track changes in reef health over time and assess the effectiveness of conservation efforts.   
-Prioritizing Conservation: Identifying areas with high coral biomass helps prioritize conservation efforts and guide the allocation of resources.
-By understanding coral biomass, scientists and managers can gain valuable insights into the health and resilience of coral reefs, which are vital for the well-being of our oceans and the planet.
-
 ## Materials
   - Aluminum pans
   - Drying oven (60°C)
