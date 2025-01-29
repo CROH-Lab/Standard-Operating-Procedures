@@ -49,10 +49,28 @@ The purpose of this procedure is to analyze the composition of sediment based on
 |![Picture1](https://github.com/user-attachments/assets/e29cdcf6-5b0a-4c50-9cab-749dfec64eee)|![Picture1](https://github.com/user-attachments/assets/e7bed73b-e2d1-44bd-827f-22f56127a2d3)|![Picture1](https://github.com/user-attachments/assets/3143c8cd-2f68-4106-acb2-a573a34127cc)|
 |:---:|:---:|:---:|
 
+### Quality Assurance and Control Methods
+Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Quality control measures are outlined in each protocol to ensure data generated are of accurate quality. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions. Data must be entered in Excel spreadsheets by one individual and QA-QC checked by a different individual.  
+ 
+*Data Review*
 
+All laboratory data will be reviewed for completeness and transfer errors. Data will be reviewed by a second individual after entry into Excel spreadsheets by comparing the entered, electronic data to the original records (e.g., hand-written datasheets or laboratory notebooks).  Data will be summarized as descriptive statistics and in tabular and graphical form to allow visual inspection and verification, and comparison to expected or target values.   
+ 
+*Data Verification*
 
+Data will be checked for compliance with the procedures outlined in the SOPs and OPs.  Any deviations from those procedures and the impact on the quality of the data will be assessed and discussed with Task Members. Any laboratory data outliers will be flagged. 
+ 
+*Data Validation*
 
+Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as with water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature. 
 
+**_Procedure Specific QA/QC Methods_**
 
+*Equipment Management*
 
+The electronic balance will be properly cleaned and calibrated before and after each use to prevent inaccurate measures of sample weight. No hot items will be placed on the balance to prevent damage to the mechanics. The oven will be placed is a proper place away from flammable or combustible materials. Care will be take not to overfill the oven as this may lead to uneven sample burning.
+
+*General Practices*
+
+Crucibles will be allowed to cool in a clean, dry place that is out of direct drafts. A lid or cover will be placed over the crucibles as they cool to prevent debris or other particulate from landing in the samples and skewing the data. Crucibles are never to be touched with ungloved hands as skin oils may add additional mass to the crucible. 
 
