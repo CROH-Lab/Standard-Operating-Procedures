@@ -11,8 +11,10 @@
 ## Running EasyCheck
 1. Open Guavasoft. 
 2. Open easyCheck. 
-3. Fill wash tubes according to diagram on the laminated cheatsheet. 
-4. Indicate capillary park position (does not have to be position 9 for easyCheck). 
+3. Fill wash tubes according to diagram on the laminated cheatsheet.
+4. Fill tube with 1:20 ratio of beads:dilutent (kept in the refridgerator).
+5. Indicate the position of the tube that contains the bead mixture. 
+6. Indicate capillary park position (does not have to be position 9 for easyCheck). 
 
 ## Aquiring Samples
 
