@@ -28,7 +28,7 @@ The purpose of this procedure is to analyze the composition of sediment based on
 3. Weigh ceramic crucibles and record weights. Record which crucible number corresponds to each sample in notebook for proper identification (crucibles cannot be labeled as Sharpie, etc. will burn off).
 
 |![Picture1](https://github.com/user-attachments/assets/0cbd42ea-376c-4155-99be-681f14a77663)|![Picture1](https://github.com/user-attachments/assets/cf2bb9d7-947f-4f1a-ab17-893eb00248c3)|![Picture1](https://github.com/user-attachments/assets/e333aad3-e35d-4f28-965e-626f0449333a)|
-||||
+|:---:|:---:|:---:|
 
 
 
