@@ -1,4 +1,4 @@
-# Standard protocol for characterizing sediment composition through controlled bruns
+# Standard protocol for characterizing sediment composition through controlled burns
 
 ### Prepared by: Coral Reef and Ocean Health Research Group
 ### Last updated: July, 2023
