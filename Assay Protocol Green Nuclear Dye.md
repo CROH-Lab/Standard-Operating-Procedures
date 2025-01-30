@@ -1,6 +1,6 @@
 # Live Cell Staining Protocol
 1. Dilute BioTracker Nuclear Dye (1000X) to a final concentration of 1X in cell culture medium. For example, add 1uL of dye to 1mL of culture medium )the optimal probe concentration may vary by cell type.
-  **OPTIONAL** You can include verapamil in the staining solution to improve probe retention by live cells. The optimal concentration of verapamil may vary by cell type. It is recommended to test concentrations between 10-100uM. 
+  **OPTIONAL:** You can include verapamil in the staining solution to improve probe retention by live cells. The optimal concentration of verapamil may vary by cell type. It is recommended to test concentrations between 10-100uM. 
 2. Centrifuge cells at 5000 rpm for 5 minutes.    
 3. Remove Medium from cells and replace with diluted BioTracker Nuclear Dye. Intubate at 37C for 10 minutes or longer.
    **NOTE:** BioTracker Nuclear Dyes do not show obvious toxcicity after overnight incubation, but with longer incubation times it may stain structures other than the nucleus.
