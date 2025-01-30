@@ -30,10 +30,10 @@ The purpose of this procedure is to analyze the composition of sediment based on
 |![Picture1](https://github.com/user-attachments/assets/b79a56b8-4822-492e-ab1f-ac84d48e3a98)|![Picture1](https://github.com/user-attachments/assets/cf2bb9d7-947f-4f1a-ab17-893eb00248c3)|![Picture1](https://github.com/user-attachments/assets/e333aad3-e35d-4f28-965e-626f0449333a)|
 |:---:|:---:|:---:|
 
-### *Compositoin Burns*
+### *Composition Burns*
 - 100°C for 10 hours
   - Use drying oven
-  - After 10 hours at 100°C,  place crucibles into desiccator with vent overnight Cool overnight in the oven. Once cool, weigh crucibles and record weights (removal of all moisture)
+  - After 10 hours at 100°C, place crucibles into desiccator with vent overnight. Cool overnight in the oven. Once cool, weigh crucibles and record weights (removal of all moisture)
 - 500°C for 12 hours
   - Use muffle furnace. Place crucibles inside before turning on, but allow at least 45 minutes for furnace to reach temperature before starting 12-hr timer.
   - After 12 hours at 500°C, use gloves and tongs to transfer crucibles to desiccator with vent overnight Cool overnight in the muffle furnace or until furnace is cool.
@@ -68,7 +68,7 @@ Once the data has been reviewed and verified, it will be assessed to determine t
 
 *Equipment Management*
 
-The electronic balance will be properly cleaned and calibrated before and after each use to prevent inaccurate measures of sample weight. No hot items will be placed on the balance to prevent damage to the mechanics. The oven will be placed is a proper place away from flammable or combustible materials. Care will be take not to overfill the oven as this may lead to uneven sample burning.
+The electronic balance will be properly cleaned and calibrated before and after each use to prevent inaccurate measures of sample weight. No hot items will be placed on the balance to prevent damage to the mechanics. The oven will be placed is a proper place away from flammable or combustible materials. Care will be takeen not to overfill the oven as this may lead to uneven sample burning.
 
 *General Practices*
 
