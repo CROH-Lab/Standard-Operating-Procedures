@@ -29,7 +29,7 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 3. Add the sample and impactor to the vial and close it with the other end-plug. Shake the vial to make sure the impactor has room to move back and forth.
 
 |![Picture1](https://github.com/user-attachments/assets/df9c3bd6-e22d-472c-9900-635855673dcf)|![Picture1](https://github.com/user-attachments/assets/c84f9cf1-439c-4c30-9f7d-945c0edf6f87)|
-|![Picture1](https://github.com/user-attachments/assets/b2d5bf95-3c43-4d52-b7b5-81abd5de2fde)|![Picture1](https://github.com/user-attachments/assets/fe0a4f38-3d71-4c31-ae67-c954deab7761)|
+![Picture1](https://github.com/user-attachments/assets/b2d5bf95-3c43-4d52-b7b5-81abd5de2fde)|![Picture1](https://github.com/user-attachments/assets/fe0a4f38-3d71-4c31-ae67-c954deab7761)|
 
 
 
