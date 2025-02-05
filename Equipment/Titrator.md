@@ -132,7 +132,7 @@ Calcification rates can be calculated from the difference between TA measured at
 Total alkalinity anomaly calculation:
 ![Screenshot 2025-02-05 at 12 45 10 PM](https://github.com/user-attachments/assets/d3959b58-1a4b-461f-988c-ac058973bbfd)
 
-Gnet = net calcification rate  (umol CaCO<sub>3</sub> g<sup>-1</sup> h<sup>-1</sup>)
+G<sub>net</sub> = net calcification rate  (umol CaCO<sub>3</sub> g<sup>-1</sup> h<sup>-1</sup>)
 
 ρ<sub>w</sub> = seawater density (kg L<sup>-1</sup>)
 
