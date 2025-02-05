@@ -4,9 +4,7 @@
 ## Pre-requisite SOP: NA
 ## Safety precautions: **Required PPE - <ins>Enclosed shoes, ankle-length pants, gloves, long hair tied back, lab coat</ins>**
 ## Caution: 
-<span style="color:red"> 
-Bleach handling 
-</span>
+<span style="color:red"> Bleach handling </span>
 
 ## Purpose: 
 
