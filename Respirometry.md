@@ -6,7 +6,7 @@
 ### Safety precautions: **Required PPE - <ins> none </ins>**
 
 ## Purpose: 
-•	The purpose of this SOP is to detail the methods for setting up and using the Automated intermittent respirometry software, AutoResp™ 2.3.0. This software is owned by Loligo Systems. AutoResp™ 2.3.0 is user-friendly Windows software to be used with Loligo’s automated intermittent respirometry systems allowing users to jump-start oxygen consumption measurements in aquatic organisms. The computerized multi-channel systems with fiber optic oxygen sensing technology offer unbeaten efficiency, accuracy, and time resolution of aquatic respiration data.
+The purpose of this SOP is to detail the methods for setting up and using the Automated intermittent respirometry software, AutoResp™ 2.3.0. This software is owned by Loligo Systems. AutoResp™ 2.3.0 is user-friendly Windows software to be used with Loligo’s automated intermittent respirometry systems allowing users to jump-start oxygen consumption measurements in aquatic organisms. The computerized multi-channel systems with fiber optic oxygen sensing technology offer unbeaten efficiency, accuracy, and time resolution of aquatic respiration data.
   - [AutoResp™ User Manual](https://loligosystems.com/media/cxqnbvfh/autoresp-user-manual-230.pdf)
   - [Witrox User Manual](https://loligosystems.com/media/v41dxbua/quick-guide-witroxview-1_2.pdf)
   - [Netio User Guide](https://www.netio-products.com/files/download/sw/version/NETIO-4x-MANUAL-en_1-3-0.pdf)
