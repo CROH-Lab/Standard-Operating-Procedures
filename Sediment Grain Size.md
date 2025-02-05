@@ -1,4 +1,4 @@
-# Sediment grain size
+# Sediment grain size determination using the sieving method
 
 ### Prepared by: Coral Reef and Ocean Health Research Group
 ### Last updated: February 5
