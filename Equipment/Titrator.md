@@ -136,7 +136,7 @@ G<sub>net</sub> = net calcification rate  (umol CaCO<sub>3</sub> g<sup>-1</sup> 
 
 ρ<sub>w</sub> = seawater density (kg L<sup>-1</sup>)
 
-`$\delta$`TA = difference between TA<sub>final</sub> minus TA<sub>initial</sub> (umol kg<sup>-1</sup>)
+$\delta$TA = difference between TA<sub>final</sub> minus TA<sub>initial</sub> (umol kg<sup>-1</sup>)
 
 v = volume of seawater (L)
 
