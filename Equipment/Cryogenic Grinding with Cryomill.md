@@ -19,7 +19,7 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 3. Vial impactor extractor
 4. Vial opener/extractor 
 
-### Step 1: Sample Preperation
+### Step 1: Sample Preparation
 1. Dry sediment sample in the drying oven at 80°C for 24-48 hours until dry.
 2. To load a vial, first assemble it halfway by pushing an end-plug into a center cylinder.
 
