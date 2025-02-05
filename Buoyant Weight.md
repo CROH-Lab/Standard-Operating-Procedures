@@ -1,5 +1,8 @@
 ### Set-up and Procedure of Buoyant Weighing
 - The buoyant weighing station may already be set up in the lab
+
+ ![Picture1](https://github.com/user-attachments/assets/21c77ab7-c0c9-43b1-86ac-8526d680d74a)
+
  
 - If not, place the metal stand on a level laboratory bench
 - Place the scale on top of the metal stand
@@ -8,6 +11,9 @@
   - The hook will fit through the grate on the stand
 - Ensure the scale is level by adjusting the feet until the bubble is within the desired circle
 
+![Picture1](https://github.com/user-attachments/assets/26bef53d-3eee-41dc-952c-5224129fc4cf)
+
+
 - Calibrate the OHAUS scale every time the scale is moved
   - Make sure the two travel locks (one underneath the metal plate and one on the bottom of the scale) are both unlocked
   - Hold the menu button for two seconds and release, the screen should say CAL
@@ -15,6 +21,9 @@
   - Next choose either yes or no for whatever calibration weight you possess (we currently have a 200g so hit no for 400 g and then yes for 200g)
   - Place the weight on the scale and it will calibrate with – C – on the screen until its done
 - Sit the wire on the hook and zero the scale
+
+![Picture1](https://github.com/user-attachments/assets/67a57225-507f-4c06-a750-dfe85f824043)
+
 
 - Fill the bin with water and place it directly under the scale
 - Secure the coral to the end of the string and ensure the entire coral is submerged in the water
@@ -33,6 +42,7 @@
       Wa=Ww+(Va∙Dw)
       Substituting the density of aragonite (Da= 2.93/cc) and an approximate value for seawater (Dw=1.03) the equation for total dry weight of the skeletal material (Wa)
       Wa=1.54∙Ww
+  
 ### Break Down of Buoyant Weighing Station
 - Removed all samples and stored them as needed by the experiment
 - Dump the water bin down the sink
