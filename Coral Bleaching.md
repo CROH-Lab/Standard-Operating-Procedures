@@ -3,8 +3,9 @@
 ## Last Updated: December 16, 2024
 ## Pre-requisite SOP: NA
 ## Safety precautions: **Required PPE - <ins>Enclosed shoes, ankle-length pants, gloves, long hair tied back, lab coat</ins>**
-## <font color=#FF0000>Caution:</font> Bleach handling
-
+```
+## - Caution: Bleach handling
+```
 ## Purpose: 
 
 To remove all remaining biological tissue from the coral to prepare it for skeletal measurements
