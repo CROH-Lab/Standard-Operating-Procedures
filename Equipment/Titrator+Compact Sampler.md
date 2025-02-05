@@ -2,7 +2,7 @@
 
 ### Prepared by: Coral Reef and Ocean Health Research Group
 ### Last updated: February 5, 2025
-### Pre-requisite SOP: [Titrator.md](Equipment/Titrator.md)
+### Pre-requisite SOP: [Titrator SOP](Equipment/Titrator.md)
 ### Safety precautions: **Required PPE - <ins> gloves, closed-toe shoes </ins>**
 
 ## Purpose: 
