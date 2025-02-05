@@ -127,7 +127,7 @@ Note: Every 5 samples place pH probe cap with storage solution for approximately
 ### Calculating Calcification
 Calcification rates can be calculated using the total alkalinity (TA) technique, which was developed by Chisholm & Gattuso (1991). Water samples collected for TA at the beginning and end of the incubation from each treatment should be collected with borosilicate glass, sealed with no air space, and stored in the dark. Store at 4°C if not processing right away. Make sure that water samples are at room temperature prior to TA analysis with above protocol.
 
-Calcification rates can be calculated from the difference between TA measured at the beginning and the end of each incubation period (dTA). These changes should be corrected for blank values from filtered seawater only incubations. This accounts for changes that may occur in the water samples that are not caused by the corals (i.e., background calcification or air exchange). Calcification rates must be normalized to skeleton dry weight (see Buoyant weight SOP).
+Calcification rates can be calculated from the difference between TA measured at the beginning and the end of each incubation period ($\delta$ TA). These changes should be corrected for blank values from filtered seawater only incubations. This accounts for changes that may occur in the water samples that are not caused by the corals (i.e., background calcification or air exchange). Calcification rates must be normalized to skeleton dry weight (see Buoyant weight SOP).
 
 Total alkalinity anomaly calculation:
 ![Screenshot 2025-02-05 at 12 45 10 PM](https://github.com/user-attachments/assets/d3959b58-1a4b-461f-988c-ac058973bbfd)
