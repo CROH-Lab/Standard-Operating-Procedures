@@ -1,3 +1,22 @@
+# Buoyant Weight SOP
+
+### Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Dr. Jokeil, 1978
+### Last updated: February 5, 2025
+### Pre-requisite SOP: NA
+### Safety precautions: **Required PPE - <ins> gloves, enclosed shoes </ins>**
+
+## Purpose: 
+To record the weight of a living coral to collect coral skeletal growth 
+
+### Materials:
+1. Scanner manual - can be found [here](https://support.einscan.com/en/support/solutions/60000333808manual/?scan_model=einscan-se&download_option=manual)
+2. Calibration object (Ex. a die with a known area)
+3. Manilla file folder
+4. Pedestal for coral branch
+5. Dry coral skeletons
+6. Hard drive
+7. White background
+
 ### Set-up and Procedure of Buoyant Weighing
 - The buoyant weighing station may already be set up in the lab
 
