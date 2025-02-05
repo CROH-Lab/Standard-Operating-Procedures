@@ -127,7 +127,7 @@ Note: Every 5 samples place pH probe cap with storage solution for approximately
 ### Calculating Calcification
 Calcification rates can be calculated using the total alkalinity (TA) technique, which was developed by Chisholm & Gattuso (1991). Water samples collected for TA at the beginning and end of the incubation from each treatment should be collected with borosilicate glass, sealed with no air space, and stored in the dark. Store at 4°C if not processing right away. Make sure that water samples are at room temperature prior to TA analysis with above protocol.
 
-Calcification rates can be calculated from the difference between TA measured at the beginning and the end of each incubation period (TA). These changes should be corrected for blank values from filtered seawater only incubations. This accounts for changes that may occur in the water samples that are not caused by the corals (i.e., background calcification or air exchange). Calcification rates must be normalized to skeleton dry weight (see Buoyant weight SOP).
+Calcification rates can be calculated from the difference between TA measured at the beginning and the end of each incubation period (dTA). These changes should be corrected for blank values from filtered seawater only incubations. This accounts for changes that may occur in the water samples that are not caused by the corals (i.e., background calcification or air exchange). Calcification rates must be normalized to skeleton dry weight (see Buoyant weight SOP).
 
 Total alkalinity anomaly calculation:
 ![Screenshot 2025-02-05 at 12 45 10 PM](https://github.com/user-attachments/assets/d3959b58-1a4b-461f-988c-ac058973bbfd)
@@ -139,12 +139,27 @@ v = volume of seawater (L)
 W = coral dry weight converted from buoyant weight (g)
 t = incubation time in hours
 
+seawater density ~35 sal and 25-27°C = 1.023
 
+### Quality Assurance and Control Methods
+Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Quality control measures are outlined in each protocol to ensure data generated are of accurate quality. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions. Data must be entered in Excel spreadsheets by one individual and QA-QC checked by a different individual.  
+ 
+_Data Review_
 
+All laboratory data will be reviewed for completeness and transfer errors. Data will be reviewed by a second individual after entry into Excel spreadsheets by comparing the entered, electronic data to the original records (e.g., hand-written datasheets or laboratory notebooks).  Data will be summarized as descriptive statistics and in tabular and graphical form to allow visual inspection and verification, and comparison to expected or target values.   
+ 
+_Data Verification_
 
+Data will be checked for compliance with the procedures outlined in the SOPs and OPs.  Any deviations from those procedures and the impact on the quality of the data will be assessed and discussed with Task Members. Any laboratory data outliers will be flagged. 
+ 
+_Data Validation_
 
+Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as with water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature. 
 
+_**Procedure Specific QA/QC Methods**_
 
+_Titrator_
 
+The titrator will only be used by technicians trained on proper care and maintenance. If any error or complications with the equipment arise, all use of the titrator will be halted until a qualified technician troubleshoots and resolves the issue. This will prevent inaccurate readings and measures from occurring. All corrective actions will be documented with the equipment log. The pH probe will be maintained in the manufacturer recommended solutions to prevent probe degradation. If the probe is not maintaining stability, the electrode fluid will be partially flushed. 
 
 
