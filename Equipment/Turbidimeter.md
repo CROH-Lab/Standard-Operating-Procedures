@@ -115,7 +115,7 @@ _Additional Information_
 
 [FT1600 Field Measurement of Turbidity](https://floridadep.gov/dear/quality-assurance/documents/ft-1600-field-measurement-turbidity)
 
-[HACH 2100Q Portable Turbidimeter](Equipment/Manuals/HACH 2100Q.pdf)
+[HACH 2100Q Portable Turbidimeter](Equipment/Manuals/HACH_2100Q.pdf)
 
 
 
