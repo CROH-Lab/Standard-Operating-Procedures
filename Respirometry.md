@@ -20,7 +20,9 @@ The purpose of this SOP is to detail the methods for setting up and using the Au
 
 ### Background Theory:
 **Intermittent Respirometry**
-AutoResp™ is based on the principle of intermittent respirometry aiming at combining the best of both of the above methods 1) closed and 2) flow-through respirometry. 
+AutoResp™ is based on the principle of intermittent respirometry aiming at combining the best of both of the above methods
+  1) closed
+  2) flow-through respirometry. 
 
 The experimental animal is placed in a sealed chamber with ports for recirculating the (closed) volume of water inside the chamber during measurements to avoid gradients (mixing) and to maintain adequate flow past oxygen probes with self-consumption of oxygen. 
 
