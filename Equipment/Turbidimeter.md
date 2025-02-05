@@ -112,6 +112,6 @@ Record all maintenance and repair notes in logbook (dates, repair, technicians, 
 _Additional Information_
 [FT1000 General Field Testing and Measurement](https://floridadep.gov/dear/quality-assurance/documents/ft-1000-general-field-testing-and-measurement)
 [FT1600 Field Measurement of Turbidity](https://floridadep.gov/dear/quality-assurance/documents/ft-1600-field-measurement-turbidity)
-[HACH 2100Q Portable Turbidimeter](
+[HACH 2100Q Portable Turbidimeter](Equipment/Manuals/DOC0225380041_6ed.pdf)
 
 
