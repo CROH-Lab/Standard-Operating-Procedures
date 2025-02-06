@@ -15,7 +15,7 @@
  4. Electrode solution
  5. Probe storage solution 
 
-### Equipemnt:
+### Equipment:
 1. Bench Top pH meter (Thermo Scientific, Orion Star A111)
 2. Probe- BNMD 9157 Triode
 
