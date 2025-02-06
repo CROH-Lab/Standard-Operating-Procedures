@@ -27,7 +27,7 @@ We have three YSI Sonde’s that can be used to monitor water quality parameters
 15. Kim Wipes
 16. Tap Water  
 
-### Equipemnt:
+### Equipment:
 1. Thermometer
 2. YSI
 
