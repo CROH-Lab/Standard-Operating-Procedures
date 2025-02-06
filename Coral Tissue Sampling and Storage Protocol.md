@@ -44,13 +44,15 @@ Proper coral processing and the storage of biological fractionates are important
 - 5mL pipette (VWR)
 
 ## DNA and RNA sampling
+
+### Method 1:
 - Fill a 250mL beaker with 10% bleach, and two more 250mL beakers with DI or RODI water. Station them in the following order:
 
 | RODI water | 10% bleach | RODI water|
 |:---:|:---:|:---:|
 
 1. Label two 1.5mL Eppendorf tubes as follows:
- - "Individual ID", "DNA sample", The date.
+ - "Individual ID", "DNA sample", the date.
    - Fill with ~750uL of DMSO
  - "Individual ID", "RNA sample", the date.
    - Fill with ~750uL of RNALater
@@ -59,6 +61,21 @@ Proper coral processing and the storage of biological fractionates are important
 4. Repeat step 2
 5. Repeat step 3, but take the sample from a different place as the DNA sample. Place the new microfragment in the RNA tube.
 6. Place both tubes in a labeled cryobox in the preferred method of storage (Reference [Sample Storage Table](#Table).
+
+### Method 2:
+1. Label two 1.5mL Eppendorf tubes as follows:
+ - "Individual ID", "DNA sample", the date.
+   - Fill with ~750uL of DMSO
+ - "Individual ID", "RNA sample", the date.
+   - Fill with ~750uL of RNALater
+Using a sterile syringe (gauge between 25G - 23G)
+2. Locate a healthy-looking portion of the coral
+    - Preferably with no signs of disease or damage
+3. Asperate the syringe to about 1mL
+4. Stick the tip of the syringe into the tissue multiple times (4x - 10x)
+     - If the polyps are large, stick the syringe directly into the polyp, aspirate the syringe to collect the tissue sample
+5. Transfer the collected tissue from the coral into the appropriate storage buffer by expelling the syringe to zero to deposit the collected tissue.
+- If more tissue is required, use a second sterile syringe and repeat steps 2-4. 
 
 ## Holobiont sampling
 ### **<ins>Sonicator</ins>**
@@ -83,13 +100,13 @@ Proper coral processing and the storage of biological fractionates are important
 - Rinse Sonicator with bleach then RO water at AMP 20% with the timer set to 10 seconds by pressing “Stop/Start” button.
 - Homogenize the sample in the Falcon tube at AMP 20% with the timer set to 20 seconds.
   - If sample is greater than 40mL invert 5 times to ensure proper homogenization
-- Vortex for 5 seconds and take two 1mL slurry samples.
-- Vortex again and take two 5mL samples for biomass
+- Vortex for 10 seconds and transfer 10mL of the slurry into a falcon tube labeled appropriately.
+- Vortex again and take one 5mL samples for biomass
 - Place sample in centrifuge for 5 minutes at 3000rpm (make sure sample is balanced – need the same volume in every Falcon tube).
 
 ![Picture1](https://github.com/user-attachments/assets/1b19e655-47ac-47c5-9538-f665aad52c56)
 
-- Pipette 1000uL (1mL) of coral supernatant (e.g. protein) into two Eppendorf tubes.
+- Pipette 1000uL (1mL) of coral supernatant (e.g. protein) into an Eppendorf tubes.
 
 ![Picture1](https://github.com/user-attachments/assets/37752511-a9a3-4f0c-add6-d45fac556024)
 
@@ -105,10 +122,10 @@ Proper coral processing and the storage of biological fractionates are important
 
 ![Picture1](https://github.com/user-attachments/assets/d33f09e1-27ff-45a7-ad35-9af3d518b5e3)
 
-- Pipette (or use graduated cylinder) 5mL **(increased to 7mL)** of PBS solution into 50mL Falcon tube with the algae pellet.
+- Pipette (or use graduated cylinder) 5mL of PBS solution into 50mL Falcon tube with the algae pellet.
 - Vortex Falcon tube for 1 minute until PBS/algae are well mixed.
-- Pipette 1000uL into tubes aliquoted for Chl-a, carbohydrates, and backups of each.
-- Pipette 500uL into tubes aliquoted for symbiont density, and a back up.
+- Pipette 1000uL into tubes aliquoted for Chl-a and carbohydrates.
+- Pipette 500uL into tubes aliquoted for symbiont density.
 
 *Vortex between aliquots to ensure samples stay well mixed and integrated.*
 
