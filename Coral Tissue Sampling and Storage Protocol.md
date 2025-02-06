@@ -1,4 +1,3 @@
-Layout: Post
 # Protocol for sampling and storing coral tissue
 
 ### Prepared by: Coral Reef and Ocean Health Research Group; Adapted from [Thurber et al., 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9636870/)
@@ -16,7 +15,7 @@ Layout: Post
 [**Sample Storage Table**](#Table)
 
 ## Purpose: 
-Proper coral processing and the storage of biological fractionates are important for downstream analysis as they pertain to physiological and -omic responses of corals to their environment, whether natural or artificially manipulated. This protocol will use the currently supported methods for collecting and storing several coral fractionates (e.g. protein, carbohydrates, DNA, RNA, chlorophyll, biomass slurry, and symbionts). 
+Proper coral processing and the storage of biological fractionates are important for downstream analysis as they pertain to physiological and -omic responses of corals to their environment, whether natural or artificially manipulated. This protocol will use the currently supported methods for collecting and storing several coral fractionates (e.g. protein, DNA, RNA, etc.).
 
 ### Materials:
 1. 50mL Falcon tubes with airbrushed tissue
