@@ -1,3 +1,4 @@
+Layout: Post
 # Protocol for sampling and storing coral tissue
 
 ### Prepared by: Coral Reef and Ocean Health Research Group; Adapted from [Thurber et al., 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9636870/)
