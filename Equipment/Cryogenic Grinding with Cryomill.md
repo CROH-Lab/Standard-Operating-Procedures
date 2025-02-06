@@ -13,7 +13,7 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 2. [Freezer/Mill Quickstart Guide]([https://pim-resources.coleparmer.com/instruction-manual/6875-freezermill-manual.pdf](https://pim-resources.coleparmer.com/instruction-manual/6875-quick-start-guide.pdf))
 3. [6875 Freezer/Mill manual](https://pim-resources.coleparmer.com/instruction-manual/6875-freezermill-manual.pdf)
 
-### Equipemnt:
+### Equipment:
 1. Spex 6875 Freezer/Mill®
 2. Large Grinding Vial
 3. Vial impactor extractor
