@@ -4,7 +4,7 @@
 ### Last updated: January 23, 2025
 ### Pre-requisite SOP:
 |Click below|
--------------
+|-----------|
 |[Coral Tissue Removal](https://github.com/CROH-Lab/Standard-Operating-Procedures/blob/main/Coral%20Tissue%20Removal%20and%20Processing.md)|
 |[DMSO](Reagents/DMSO.md)|
 |[RNALater](Reagents/RNALater.md)|
