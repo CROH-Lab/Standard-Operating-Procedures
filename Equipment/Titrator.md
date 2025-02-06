@@ -14,7 +14,7 @@ To assess the buffering capacity of a seawater sample
 3. Stir bar
 4. Bubbler
 
-### Equipemnt:
+### Equipment:
 1. Titrator (Metrohm, EcoTitrator)
 2. Water Bath (VWR)
 3. Scale (VWR , VWR-224AC)
