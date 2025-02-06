@@ -1,4 +1,4 @@
-# Titrator and COmpact Sampler SOP
+# Titrator and Compact Sampler SOP
 
 ### Prepared by: Coral Reef and Ocean Health Research Group
 ### Last updated: February 5, 2025
