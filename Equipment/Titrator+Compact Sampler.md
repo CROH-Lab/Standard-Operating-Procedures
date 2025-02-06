@@ -150,8 +150,6 @@ V<sub>vessel</sub> is the volume of the experimental vessel (in mL); V<sub>coral
 
 For more information about the technique and equation reference Chisholm & Gattuso (1991) or Cohen et al., (2017) Measuring coral calcification under ocean acidification: methodological considerations for the Ca-uptake and total alkalinity anomaly technique. 
 
-![image](https://github.com/user-attachments/assets/294bb5ca-7356-4af4-b541-1bd792b033f5)
-
 ### Quality Assurance and Control Methods
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Quality control measures are outlined in each protocol to ensure data generated are of accurate quality. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions. Data must be entered in Excel spreadsheets by one individual and QA-QC checked by a different individual.  
  
