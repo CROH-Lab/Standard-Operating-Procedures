@@ -16,7 +16,7 @@ To determine the turbidity levels of a water sample
 5. Kim wipes
 6. DI water
 
-### Equipemnt:
+### Equipment:
 1. HACH 2100Q Portable Turbidimeter and Kit
 
 ### Calibration:
