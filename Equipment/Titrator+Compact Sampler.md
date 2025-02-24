@@ -171,7 +171,9 @@ _Titrator_
 
 The titrator will only be used by technicians trained in proper care and maintenance. If any error or complications with the equipment arise, all use of the titrator will be halted until a qualified technician troubleshoots and resolves the issue. This will prevent inaccurate readings and measures from occurring. All corrective actions will be documented with the equipment log. The pH probe will be maintained in the manufacturer recommended solutions to prevent probe degradation. If the probe is not maintaining stability, the electrode fluid will be partially flushed. 
 
+_Endpoints_
 
+If the titrator doesn't return a value for **TA** or **FTA**, recalibrate the probes and run the samples again. The titator uses the first pH endpoint to calculate TA and a second pH endpoint at 4 to calculate FTA. If the probe is not properly calibrated, these values can be affected.
 
 
 
