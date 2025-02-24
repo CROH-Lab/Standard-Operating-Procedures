@@ -6,7 +6,7 @@
 ### Safety precautions: **Required PPE - <ins> gloves, closed-toe shoes </ins>**
 
 ## Purpose: 
-The purpose of this SOP is to help the user properly measure the pH. 
+The purpose of this SOP is to help the user properly measure the pH and total alkalinity of a water sample. 
 
 ### Equipment:
 1. Titrator (Metrohm, EcoTitrator)
