@@ -9,7 +9,7 @@
 Measuring coral biomass serves several crucial purposes in standardizing other biological metrics measured to understand coral response to stressors.
 
 ## Materials
-  - Aluminum pans
+  - Aluminum pans (43mm) 
   - Drying oven (60°C)
   - Muffle furnace (450°C)
   - Analytical balance (resolution = 0.0001 g)
@@ -28,11 +28,11 @@ Measuring coral biomass serves several crucial purposes in standardizing other b
 	    - Start run of  450°C for 4h.
 4. After, remove from the muffle furnace, place in a glass desiccator and transport to the scale room.
 	*Take care after this point that pans are not touched without gloves on, and that pans are ALWAYS sat on burned aluminum foil on tabletops and in ovens/furnaces/scales*
-5. Record weight of burned pans on 4-decimal place scale (= “C” in Table 1.) Make sure you are using clean gloves or tweezers to weight the pans.
-6. Keep pans in desiccator until used
+5. Record weight of burned pans on 4-decimal place scale (= “C” in Table 1.) Make sure you are using clean gloves or tweezers to weight the pans. Only touch the tab of the pan; limit contamination. Record the weight after the number stabilizes for at least 30 seconds. 
+6. Keep pans in desiccator until used. If you weigh right before sampling, keep a piece of aluminum foil over aluminum weighing pans to prevent contamination. 
 7. Remove frozen tissue homogenate from freezer and thaw.
 8. Vortex tissue homogenate and pipet 5 mL (use 5mL pipet) into a 15-mL falcon tube.
-9. Centrifuge the 15-mL tubes (in LTER lab) for 3 min. (0.03 on display) at 3500 min<sup>-1</sup>.
+9. Centrifuge the 15-mL tubes for 3 min. at 3500 min<sup>-1</sup>.
 10. Line cafeteria trays with aluminum foil and fill with empty pre-burned pans, using tweezers to transfer pans.
 11. After centrifuging 15-mL tubes, pipet 4 mL of supernatant (host fraction) into a pre-burned pan. Record the pan number used for each sample, and indicate in notebook that this is the host fraction for that sample.
 12. Discard the remaining <1 mL of supernatant, being careful not to lose the pellet.
