@@ -51,7 +51,7 @@ Total protein concentration is an estimation of soluble (water-soluble: enzymes,
 8. Add 280 μL of 0.1M HCl to the tube to neutralize the sample. Add this volume in small amounts and continue to test the pH of the sample using pH paper. pH needs to be at 7.0 to move onto the next steps.
 9. **_It is critical to record exactly how much volume of NaOH and HCl was added_**
 
-**Preparation of the BCA Working Reagent (WR)**
+## **Preparation of the BCA Working Reagent (WR)**
 1. Use the following formula to determine the total volume of WR required:
 (# standards + # unknowns) x (# replicates) x (volume of WR per sample) = total volume WR required
 For this project, we will use 9 standards and 200 μL of WR is required for each sample in the microplate procedure.
@@ -64,7 +64,7 @@ For this project, we will use 9 standards and 200 μL of WR is required for each
 
 3. Prepare WR by mixing 50 parts of BCA Reagent A with 1 part of BCA Reagent B (50:1, Reagent A:B) in a clean protein-free container of the appropriate size, based on how many samples are going to be run.
 
-**Microplate Procedure (Sample to WR ratio = 1:8) from Pierce BCA Protein Assay Kit:**
+## **Microplate Procedure (Sample to WR ratio = 1:8) from Pierce BCA Protein Assay Kit:**
 1. Pipette 25 μL of each standard or unknown sample replicate into a microplate well (working range = 20–2000 μg/mL). (For example,Thermo ScientificTM PierceTM 96–Well Plates, Product No. 15041).
 2. Add 200 μL of the WR to each well and mix plate thoroughly on a plate shaker for 30 seconds.
 3. Cover plate and incubate at 37°C for 30 minutes.
