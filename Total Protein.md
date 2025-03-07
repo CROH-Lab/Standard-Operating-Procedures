@@ -65,6 +65,8 @@ For this project, we will use 9 standards and 200 μL of WR is required for each
 5. Subtract the average 562 nm absorbance measurement of the Blank standard replicates from the 562 nm measurements of all other individual standard and unknown sample replicates.
 6. Prepare a standard curve by plotting the average Blank–corrected 562 nm measurement for each BSA standard vs. its concentration in μg/mL. Use the standard curve to determine the protein concentration of each unknown sample.
 
+----------------------
+
 # FOR INSOLUBLE PROTEIN
 
 ## **Adult Tissue Sample Preparation for Insoluble Protein from Holobiont**
