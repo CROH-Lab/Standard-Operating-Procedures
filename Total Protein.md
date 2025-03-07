@@ -65,7 +65,7 @@ For this project, we will use 9 standards and 200 μL of WR is required for each
 5. Subtract the average 562 nm absorbance measurement of the Blank standard replicates from the 562 nm measurements of all other individual standard and unknown sample replicates.
 6. Prepare a standard curve by plotting the average Blank–corrected 562 nm measurement for each BSA standard vs. its concentration in μg/mL. Use the standard curve to determine the protein concentration of each unknown sample.
 
-**___**
+___
 
 # FOR INSOLUBLE PROTEIN
 
@@ -79,7 +79,14 @@ For this project, we will use 9 standards and 200 μL of WR is required for each
 8. Add 280 μL of 0.1M HCl to the tube to neutralize the sample. Add this volume in small amounts and continue to test the pH of the sample using pH paper. pH needs to be at 7.0 to move onto the next steps.
 9. **_It is critical to record exactly how much volume of NaOH and HCl was added_**
 
-
+## **Microplate Procedure (Sample to WR ratio = 1:8) from Pierce BCA Protein Assay Kit:**
+1. Pipette 25 μL of each standard or unknown sample replicate into a microplate well (working range = 20–2000 μg/mL). (For example,Thermo ScientificTM PierceTM 96–Well Plates, Product No. 15041).
+2. Add 200 μL of the WR to each well and mix plate thoroughly on a plate shaker for 30 seconds.
+3. Cover plate and incubate at 37°C for 30 minutes.
+4. Cool plate to 24ºC. Measure the absorbance at or near 562 nm on a plate reader.
+  - Wavelengths from 540–590 nm have been used successfully with this method.
+5. Subtract the average 562 nm absorbance measurement of the Blank standard replicates from the 562 nm measurements of all other individual standard and unknown sample replicates.
+6. Prepare a standard curve by plotting the average Blank–corrected 562 nm measurement for each BSA standard vs. its concentration in μg/mL. Use the standard curve to determine the protein concentration of each unknown sample.
 
 4. <a name="References"></a> **References**
 [Pierce BCA Protein Assay](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0011430_Pierce_BCA_Protein_Asy_UG.pdf)
