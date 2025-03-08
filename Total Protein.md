@@ -19,7 +19,7 @@ Total protein concentration is an estimation of soluble (water-soluble: enzymes,
 9. 1.5ml microfuge tubes
 10. DI water
 
-**Preparation of Diluted Albumin (BSA) Standards**
+## **Preparation of Diluted Albumin (BSA) Standards**
 1. Dilute the contents of one Albumin Standard (BSA) ampule into several clean vials, preferably using the same diluent as the samples.
 *These standards can be made during the 4 hour incubation period in the sample preparation section.*
 2. Use the following table as a guide to prepare a set of protein standards. For this project we will use the microplate procedure. Diluent is DI water Type II or RODI water. Each vial will be a sterile 1.5 mL microcentrifuge tube. Label the cap of the microcentrifuge$
