@@ -67,7 +67,7 @@ For this project, we will use 9 standards and 200 μL of WR is required for each
 
 ___
 
-# FOR INSOLUBLE PROTEIN
+# *FOR INSOLUBLE PROTEIN ONLY*
 
 ## **Adult Tissue Sample Preparation for Insoluble Protein from Holobiont**
 
