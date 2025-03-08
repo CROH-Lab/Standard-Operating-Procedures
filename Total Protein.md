@@ -51,7 +51,7 @@ For this project, we will use 9 standards and 200 μL of WR is required for each
 
 3. Prepare WR by mixing 50 parts of BCA Reagent A with 1 part of BCA Reagent B (50:1, Reagent A:B) in a clean protein-free container of the appropriate size, based on how many samples are going to be run.
 
-# FOR SOLUBLE PROTEIN
+# _*FOR SOLUBLE PROTEIN ONLY*_
 
 ## **Adult Tissue Sample Preparation for Soluble Protein from Host**
 1. Thaw the 500 μL aliquot of host only supernatant.
