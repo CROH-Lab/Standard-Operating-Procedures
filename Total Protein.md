@@ -19,11 +19,6 @@ Total protein concentration is an estimation of soluble (water-soluble: enzymes,
 9. 1.5ml microfuge tubes
 10. DI water
 
-# FOR SOLUBLE PROTEIN
-
-## **Adult Tissue Sample Preparation for Soluble Protein from Host**
-1. Thaw the 500 μL aliquot of host only supernatant.
-
 **Preparation of Diluted Albumin (BSA) Standards**
 1. Dilute the contents of one Albumin Standard (BSA) ampule into several clean vials, preferably using the same diluent as the samples.
 *These standards can be made during the 4 hour incubation period in the sample preparation section.*
@@ -55,6 +50,11 @@ For this project, we will use 9 standards and 200 μL of WR is required for each
 |(9 standards + 40 samples) x (2 replicates) x (200 μL of WR)| = 19,600 μL WR + 100 μL for pipette error|
 
 3. Prepare WR by mixing 50 parts of BCA Reagent A with 1 part of BCA Reagent B (50:1, Reagent A:B) in a clean protein-free container of the appropriate size, based on how many samples are going to be run.
+
+# FOR SOLUBLE PROTEIN
+
+## **Adult Tissue Sample Preparation for Soluble Protein from Host**
+1. Thaw the 500 μL aliquot of host only supernatant.
 
 ## **Microplate Procedure (Sample to WR ratio = 1:8) from Pierce BCA Protein Assay Kit:**
 1. Pipette 25 μL of each standard or unknown sample replicate into a microplate well (working range = 20–2000 μg/mL). (For example,Thermo ScientificTM PierceTM 96–Well Plates, Product No. 15041).
