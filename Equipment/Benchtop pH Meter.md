@@ -58,6 +58,7 @@
 - If storage solution is low, see rack above the meter and replenish with Ag/AgCl solution through fill port using a pipette. 
 
 <a name = "Quality"></a> **Quality Assurance and Control**
+
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Quality control measures are outlined in each protocol to ensure data generated are of accurate quality. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions. Data must be entered in Excel spreadsheets by one individual and QA-QC checked by a different individual.  
  
 _Data Review_ 
