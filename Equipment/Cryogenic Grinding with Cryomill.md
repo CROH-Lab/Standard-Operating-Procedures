@@ -11,6 +11,7 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 ----
 
 **Content**
+
 [Materials](#Materials)
 
 [Equipment](#Equipment)
