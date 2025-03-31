@@ -9,8 +9,8 @@
  The purpose of this SOP is to help the user properly measure the pH. 
 
  ## Contents:
- [A. Materials](#Materials)
- B. Equipment
+ - [A. Materials](#Materials)
+ - [B. Equipment](#Equipment)
  C. Step 1: Calibration
  D. Step 2: Sample measurement
  E. Step 3: Clean up and storage
@@ -22,7 +22,7 @@
  4. Electrode solution
  5. Probe storage solution 
 
-### Equipment:
+ ### <a name="Equipment"></a> Equipment:
 1. Bench Top pH meter (Thermo Scientific, Orion Star A111)
 2. Probe- BNMD 9157 Triode
 
