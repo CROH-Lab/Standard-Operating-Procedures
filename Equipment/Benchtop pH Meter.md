@@ -33,6 +33,8 @@
  1. Bench Top pH meter (Thermo Scientific, Orion Star A111)
  2. Probe- BNMD 9157 Triode
 
+----
+
 <a name = "Calibration"></a> **Calibration:**
  - Turn the meter on with the power button. <img width="35" alt="Picture1" src="https://github.com/user-attachments/assets/bcf26283-ebc5-4950-8160-930105f599dc" />
  - Remove from storage solution by carefully unscrewing the cap.
