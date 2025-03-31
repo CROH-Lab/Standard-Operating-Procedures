@@ -1,11 +1,11 @@
  # Benchtop pH Meter SOP
  
- ### Prepared by: Coral Reef and Ocean Health Research Group
- ### Last updated: February 5, 2025
- ### Pre-requisite SOP: NA
- ### Safety precautions: **Required PPE - <ins> gloves, closed-toe shoes </ins>**
+ ## Prepared by: Coral Reef and Ocean Health Research Group
+ ## Last updated: February 5, 2025
+ ## Pre-requisite SOP: NA
+ ## Safety precautions: **Required PPE - <ins> gloves, closed-toe shoes </ins>**
  
- ## Purpose: 
+ ### Purpose: 
  The purpose of this SOP is to help the user properly measure the pH. 
 
  ### Contents:
