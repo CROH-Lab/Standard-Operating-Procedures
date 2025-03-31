@@ -49,7 +49,7 @@
 - Rinse with DI water into waste beaker.
 - Repeat until all samples are processed.
 
-### Step 3: Clean up and Storage
+<a name = "Clean"></a> **Clean up and Storage**
 - When finished rinse probe with DI water and blot dry with a Kim wipe
 - Carefully place probe in storage solution container and ensure it is fully submerged
 - Close fill port
