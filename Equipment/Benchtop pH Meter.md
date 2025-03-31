@@ -11,9 +11,9 @@
  ### Contents:
  - [A. Materials](#Materials)
  - [B. Equipment](#Equipment)
- C. Step 1: Calibration
- D. Step 2: Sample measurement
- E. Step 3: Clean up and storage
+ - [C. Step 1: Calibration](#Calibration)
+ - [D. Step 2: Sample measurement]
+ - E. Step 3: Clean up and storage
 
  ### <a name="Materials"></a> Materials:
  1. Glass beakers
@@ -26,7 +26,7 @@
 1. Bench Top pH meter (Thermo Scientific, Orion Star A111)
 2. Probe- BNMD 9157 Triode
 
-### Step 1: Calibration
+### Step 1: <a name = "Calibration"><a/> Calibration:
 - Turn the meter on with the power button. <img width="35" alt="Picture1" src="https://github.com/user-attachments/assets/bcf26283-ebc5-4950-8160-930105f599dc" />
 - Remove from storage solution by carefully unscrewing the cap.
 - Remove fill port plug to allow gas exchange and probe equilibration.
