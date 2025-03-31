@@ -10,7 +10,14 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 
 ----
 
-### Materials:
+**Content**
+[Materials](#Materials)
+
+[Equipment](#Equipment)
+
+Sample Preparation
+
+<a name = "Materials"></a> **Materials**
 1. Sample sediment
 2. [Freezer/Mill Quickstart Guide]([https://pim-resources.coleparmer.com/instruction-manual/6875-freezermill-manual.pdf](https://pim-resources.coleparmer.com/instruction-manual/6875-quick-start-guide.pdf))
 3. [6875 Freezer/Mill manual](https://pim-resources.coleparmer.com/instruction-manual/6875-freezermill-manual.pdf)
