@@ -39,7 +39,7 @@
  - Press enter <img width="25" alt="Picture1" src="https://github.com/user-attachments/assets/1245dcd9-f2a6-4708-847a-dc91cf95ab09" /> to finish the calibration process.
  - Check that the SLP is above 95.0 to ensure a good calibration. Once this is done, the meter is calibrated and ready for use.  
 
-<a name = "Sample"></a> Measurement:
+<a name = "Sample"></a> Sample Measurement:
 - Rinse the probe with DI water into the waste beaker.
 - Gently blot the outside of the probe with a kim wipe to remove excess water to prevent and discrepancies in pH measures. <img width="28" alt="Picture1" src="https://github.com/user-attachments/assets/fac78220-f75c-4c22-b88a-ed549c9fc5e0" />
 - Lower the pH probe into the sample beaker and press measure  .
