@@ -8,7 +8,7 @@
  ## Purpose: 
  The purpose of this SOP is to help the user properly measure the pH. 
 
- ## Contents:
+ ### Contents:
  - [A. Materials](#Materials)
  - [B. Equipment](#Equipment)
  C. Step 1: Calibration
