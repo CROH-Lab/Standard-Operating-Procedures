@@ -15,7 +15,8 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 
 [Equipment](#Equipment)
 
-Sample Preparation
+[Sample Preparation](#Sample)
+
 
 <a name = "Materials"></a> **Materials**
 1. Sample sediment
@@ -24,7 +25,7 @@ Sample Preparation
 
 ----
 
-### Equipment:
+<a name = "Equipment"></a> **Equipment**
 1. Spex 6875 Freezer/Mill®
 2. Large Grinding Vial
 3. Vial impactor extractor
@@ -32,7 +33,7 @@ Sample Preparation
 
 ----
 
-### Step 1: Sample Preparation
+<a name = "Sample"></a> **Sample Preparation**
 1. Dry sediment sample in the drying oven at 80°C for 24-48 hours until dry.
 2. To load a vial, first assemble it halfway by pushing an end-plug into a center cylinder.
 
