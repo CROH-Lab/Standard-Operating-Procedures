@@ -9,11 +9,11 @@
  The purpose of this SOP is to help the user properly measure the pH. 
 
  ### Contents:
-[A. Materials](#Materials)
-[B. Equipment](#Equipment)
-[C. Calibration](#Calibration)
-[D. Sample measurement](#Sample)
-[E. Step 3: Clean up and storage](#Clean)
+- A. [Materials](#Materials)
+- B. [Equipment](#Equipment)
+- C. [Calibration](#Calibration)
+- D. [Sample measurement](#Sample)
+- E. [Clean up and storage](#Clean)
 
  ### <a name="Materials"></a> Materials:
  1. Glass beakers
