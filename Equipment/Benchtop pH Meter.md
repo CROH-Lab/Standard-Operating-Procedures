@@ -26,7 +26,7 @@
 
 ----
 
-<a name="Materials"></a> ### **A. Materials:**
+<a name="Materials"></a> **A. Materials:**
  1. Glass beakers
  2. Rinse bottle (DI water)
  3. pH buffers (4.00, 7.00, and 10.00)
@@ -35,7 +35,7 @@
 
 ----
 
-<a name="Equipment"></a> ### **B. Equipment:**
+<a name="Equipment"></a> **B. Equipment:**
  1. Bench Top pH meter (Thermo Scientific, Orion Star A111)
  2. Probe- BNMD 9157 Triode
 
@@ -93,7 +93,7 @@ _Data Validation_
 
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as with water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature. 
 
-   <a name = "Procedure"></a> _**F.1 Procedure Specific QA/QC**_
+- <a name = "Procedure"></a> _**F.1 Procedure Specific QA/QC**_
 
 _Calibration_
 
