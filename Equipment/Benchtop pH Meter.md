@@ -17,7 +17,7 @@
 - [Sample Measurement](#Sample)
 - [Clean up and storage](#Clean)
 - [QA/QC](#Quality)
-  - [Procedure Specific QA/QC](#Procedure)
+ - [Procedure Specific QA/QC](#Procedure)
 
 ----
 
