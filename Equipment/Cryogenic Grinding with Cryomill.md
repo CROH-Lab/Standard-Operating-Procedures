@@ -20,14 +20,14 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 
 ----
 
-<a name = "Materials"></a> **Materials**
+<a name = "Materials"></a> **A. Materials**
 1. Sample sediment
 2. [Freezer/Mill Quickstart Guide]([https://pim-resources.coleparmer.com/instruction-manual/6875-freezermill-manual.pdf](https://pim-resources.coleparmer.com/instruction-manual/6875-quick-start-guide.pdf))
 3. [6875 Freezer/Mill manual](https://pim-resources.coleparmer.com/instruction-manual/6875-freezermill-manual.pdf)
 
 ----
 
-<a name = "Equipment"></a> **Equipment**
+<a name = "Equipment"></a> **B. Equipment**
 1. Spex 6875 Freezer/Mill®
 2. Large Grinding Vial
 3. Vial impactor extractor
@@ -35,7 +35,7 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 
 ----
 
-<a name = "Sample"></a> **Sample Preparation**
+<a name = "Sample"></a> **C. Sample Preparation**
 1. Dry sediment sample in the drying oven at 80°C for 24-48 hours until dry.
 2. To load a vial, first assemble it halfway by pushing an end-plug into a center cylinder.
 
@@ -52,7 +52,7 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 
 ----
 
-### Step 2. Add Liquid Nitrogen (LN)
+<a name = "Step 2. Add Liquid Nitrogen (LN)
 1.	Unlatch the lid of the mill and slowly open it. Manually pour liquid nitrogen (LN) from the portable Dewar until it is approximately on third full. Initially LN will boil off vigorously, but as the tub cools the boiling will subside. Add more LN gradually, to avoid splashing and boiling over. When boiling is subdued, push the lid down gently until the bottom of the latch can be engaged.
 2.	The mill should be filled until the LN level reaches approximately 2 inches below the lip of the tub. _**Always close the lid slowly to avoid splashing**_
 
