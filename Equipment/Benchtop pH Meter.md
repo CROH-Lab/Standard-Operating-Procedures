@@ -35,7 +35,7 @@
 
 ----
 
-<a name="Equipment"></a> **B. Equipment:**
+<a name="Equipment"></a> _**B. Equipment:**_
  1. Bench Top pH meter (Thermo Scientific, Orion Star A111)
  2. Probe- BNMD 9157 Triode
 
