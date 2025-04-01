@@ -1,9 +1,9 @@
 # Grinding sediment with Cryomill
 
-## Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Spex 6875 Freezer/Mill Manual
-## Last updated: February 4
-## Pre-requisite SOP: NA
-## Safety precautions: **Required PPE - <ins> cryogenic gloves, lab coat, closed-toe shoes, long pants, optional face shield </ins>**
+### Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Spex 6875 Freezer/Mill Manual
+### Last updated: February 4
+### Pre-requisite SOP: NA
+### Safety precautions: **Required PPE - <ins> cryogenic gloves, lab coat, closed-toe shoes, long pants, optional face shield </ins>**
 
 ### Purpose: 
 The purpose of this SOP is to help the user properly use the Spex Freezer/Mill to grind sediment using liquid nitrogen and a magnetic grinder 
