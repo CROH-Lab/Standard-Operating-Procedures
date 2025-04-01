@@ -12,7 +12,9 @@
 
  #### Contents:
 A. [Materials](#Materials)
+
 B. [Equipment](#Equipment)
+
 - [Calibration](#Calibration)
 - [Sample Measurement](#Sample)
 - [Clean up and storage](#Clean)
