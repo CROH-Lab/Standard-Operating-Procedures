@@ -11,15 +11,18 @@
 ----
 
  #### Contents:
-A. [Materials](#Materials)
+[A. Materials](#Materials)
 
-B. [Equipment](#Equipment)
+[B. Equipment](#Equipment)
 
-- [Calibration](#Calibration)
-- [Sample Measurement](#Sample)
-- [Clean up and storage](#Clean)
-- [QA/QC](#Quality)
-  - [Procedure Specific QA/QC](#Procedure)
+[C. Calibration](#Calibration)
+
+[D. Sample Measurement](#Sample)
+
+[E. Clean up and storage](#Clean)
+
+F. [QA/QC](#Quality)
+- [F.1 Procedure Specific QA/QC](#Procedure)
 
 ----
 
