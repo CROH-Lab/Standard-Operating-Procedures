@@ -93,11 +93,11 @@ _Data Validation_
 
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as with water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature. 
 
-- <a name = "Procedure"></a> _**F.1 Procedure Specific QA/QC**_
+<a name = "Procedure"></a> _**F.1 Procedure Specific QA/QC**_
 
 _Calibration_
 
-A 3-point calibration should be performed prior to each use to ensure the pH meter provides and accurate pH value. pH standards should be replaced regularly and stored in a safe area to prevent changes in the chemistry of the solutions. 
+A 3-point calibration should be performed prior to each use to ensure the pH meter provides an accurate pH value. pH standards should be replaced regularly and stored in a safe area to prevent changes in the chemistry of the solutions. 
 
 _Probe Maintenance_
 
