@@ -21,7 +21,7 @@
 
 [E. Clean up and storage](#Clean)
 
-F. [QA/QC](#Quality)
+[F. QA/QC](#Quality)
 - [F.1 Procedure Specific QA/QC](#Procedure)
 
 ----
