@@ -76,7 +76,7 @@ Proper coral processing and the storage of biological fractionates are important
 ### C. DNA and RNA Sampling
 
 <a name = "Method1"><a/> 
-### C.1. Method 1:
+### <ins>C.1. Method 1:</ins>
 - Fill a 250mL beaker with 10% bleach, and two more 250mL beakers with DI or RODI water. Station them in the following order:
 
 | RODI water | 10% bleach | RODI water|
