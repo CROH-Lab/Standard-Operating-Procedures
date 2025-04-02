@@ -16,7 +16,7 @@ Proper coral processing and the storage of biological fractionates are important
 
 ----
 
-#### Contents
+### Contents
 
 [A. Materials](#Materials)
 
@@ -61,7 +61,8 @@ Proper coral processing and the storage of biological fractionates are important
 
 ----
 
-<a name="Equipment"></a> **B. Equipment:**
+<a name="Equipment"></a> 
+### B. Equipment:
 1. Sonicator and housing
 2. Vortex (Four E’s Scientific, Vortex Mixer)
 3. Centrifuge (VWR, Clinical Centrifuge)
@@ -71,9 +72,11 @@ Proper coral processing and the storage of biological fractionates are important
 
 ----
 
-<a name = "DNA"></a> **C. DNA and RNA Sampling**
+<a name = "DNA"></a> 
+### C. DNA and RNA Sampling
 
-<a name = "Method1"><a/> **C.1. Method 1:**
+<a name = "Method1"><a/> 
+### C.1. Method 1:
 - Fill a 250mL beaker with 10% bleach, and two more 250mL beakers with DI or RODI water. Station them in the following order:
 
 | RODI water | 10% bleach | RODI water|
@@ -90,7 +93,8 @@ Proper coral processing and the storage of biological fractionates are important
 5. Repeat step 3, but take the sample from a different place as the DNA sample. Place the new microfragment in the RNA tube.
 6. Place both tubes in a labeled cryobox in the preferred method of storage (Reference [Sample Storage Table](#Table).
 
-<a name = "Method2"><a/> **C.2. Method 2:**
+<a name = "Method2"><a/> 
+### C.2. Method 2:
 1. Label two 1.5mL Eppendorf tubes as follows:
    - "Individual ID", "DNA sample", the date.
      - Fill with ~750uL of DMSO
@@ -107,9 +111,11 @@ Using a sterile syringe (gauge between 25G - 23G)
 
 ----
 
-<a name = "Holobiont"></a> **D. Holobiont Sampling**
+<a name = "Holobiont"></a> 
+### D. Holobiont Sampling
 
-<a name =  "Sonicator"></a> **<ins>D.1. Sonicator</ins>**
+<a name =  "Sonicator"></a> 
+### <ins>D.1. Sonicator</ins>
 - Sonicator probe should already be vertical in housing with converter cable coming out the top, if not, then attach the probe to the converter with the supplied wrenches
 
 ![Picture1](https://github.com/user-attachments/assets/754b1e81-2aa0-499b-92c4-6243cd33882f)
@@ -173,7 +179,8 @@ Using a sterile syringe (gauge between 25G - 23G)
 
 ----
 
-<a name = "Waste"></a> **Waste Disposal Clean-up:**
+<a name = "Waste"></a> 
+### Waste Disposal Clean-up:
 - Bleach, RO, and biological material can go down the drain. Run water when pouring out waste.
 - Ethanol waste needs to be put in the waste container under the hood (labeled with ethanol).
 - Rinse used tubes and bottles with a 10% bleach and RO solution and dry on drying rack.
@@ -186,7 +193,8 @@ Using a sterile syringe (gauge between 25G - 23G)
 
 ----
 
-<a name = "Quality"></a> **F. Quality Assurance and Quality**
+<a name = "Quality"></a> 
+### F. Quality Assurance and Quality
 *Proper Training*
 
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions.
@@ -203,7 +211,8 @@ Data will be checked for compliance with the procedures outlined in the SOPs.  A
 
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature.
 
-<a name = "Procedure"></a> _**F.1. Procedure Specific QA/QC**_
+<a name = "Procedure"></a> 
+### F.1. Procedure Specific QA/QC
 
 *Personnel*
 
@@ -217,7 +226,8 @@ The centrifuge will be properly balanced before each use to prevent damage to th
 
 Reagents or standard solutions are used beyond the expiration date printed on the label. All supplies, equipment, and consumables procured for the analysis of this study are documented, inspected, and accepted in accordance with the requirements of each. 
 
-<a name = "Quick"></a> **</ins>F.2. Quick Guide to Aliquoting</ins>**
+<a name = "Quick"></a> 
+### F.2. Quick Guide to Aliquoting
 1.	Place falcon tube sample in the Sonicator after it has been filled with PBS to make all samples equal in mL
     - Sonicator should be set to AMP 20% for 10 secs, do this twice
 2.	Take the sample out of the sonicator and vortex the tube for 5 seconds
