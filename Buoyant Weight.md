@@ -85,6 +85,8 @@ To record the weight of a living coral to collect coral skeletal growth
   - The hook is very easy to lose, so be careful with it
 - Store scale and metal stand in the corner of the lab beside the freezer
 
+----
+
 <a name = "QA/QC"></a>
 ### <ins>Quality Assurance and Control Methods</ins>
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Quality control measures are outlined in each protocol to ensure data generated are of accurate quality. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions. Data must be entered in Excel spreadsheets by one individual and QA-QC checked by a different individual.  
