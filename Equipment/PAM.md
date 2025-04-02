@@ -107,7 +107,7 @@ Launch again. It should recognize the connection with the Diving-PAM. If yes, it
 5. Find a flat surface on the coral and press F2 to get Fv/Fm.
 
 <a name = "Tips"></a>
-### <ins>Some tips/ins>
+### <ins>Some tips</ins>
 - Y is the yield, or the capacity of the algae to fluoresce, this capacity is high at the start, all reaction centers are open and ready to fluorescence, as light is added the capacity decreases because the algae are fluorescing therefore the “capacity” is lower since it’s already happening. Same with Y(NPQ) that is the capacity or yield to do non-photochemical quenching.
 - The battery will get weaker with repeated measurements. At its fullest, the value hovers around 13. Note that the battery does not get too low while taking measurements. Anything below 10 or 11 could affect measurements.
 - The SAT-Pulse chart shows a curve that should plateau at the top dotted line (this line represents Fm’ -- the maximal fluorescence in light). In most cases, if there is no plateau and instead a skew, it is possible the probe is not at 90 degrees to the sample. Check this.
