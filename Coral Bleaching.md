@@ -35,7 +35,7 @@ To remove all remaining biological tissue from the coral to prepare it for skele
 ----
 
 <a name = "Bleach"></a>
-### ins>Bleaching Process</ins>
+### <ins>Bleaching Process</ins>
 - Create 10% bleach solution in a container. Use DI water.
   - For example – using a 500mL graduated cylinder; add 50mL of bleach to 450mL of DI water.
   - Create as much 10% bleach solution as needed to bleach all samples.
