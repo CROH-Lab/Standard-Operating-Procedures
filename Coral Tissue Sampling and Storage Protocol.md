@@ -18,29 +18,29 @@ Proper coral processing and the storage of biological fractionates are important
 
 ### Contents:
 
-[A. Materials](#Materials)
+[Materials](#Materials)
 
-[B. Equipment](#Equipment)
+[Equipment](#Equipment)
 
-[C. DNA and RNA Sampling](#DNA)
+[DNA and RNA Sampling](#DNA)
 
-- [C.1. Method 1](#Method1)
-- [C.2. Method 2](#Method2)
+- [Method 1](#Method1)
+- [Method 2](#Method2)
 
-[D. Holobiont Sampling](#Holobiont)
+[Holobiont Sampling](#Holobiont)
 
-[E. Waste Disposal Clean-up](#Waste)
+[Waste Disposal Clean-up](#Waste)
 
-[F. QA/QC](#Quality)
-- [F.1. Procedure Specific QA/QC](#Procedure)
-- [F.2. Quick Guide to Aliquoting](#Quick)
+[QA/QC](#Quality)
+- [Procedure Specific QA/QC](#Procedure)
+- [Quick Guide to Aliquoting](#Quick)
 
 [**Sample Storage Table**](#Table)
 
 ----
 
 <a name="Materials"></a> 
-### <ins>A. Materials:</ins>
+### <ins>Materials:</ins>
 1. 50mL Falcon tubes with airbrushed tissue
 2. 1000uL pipette tips
 3. 5mL pipette tips
@@ -62,7 +62,7 @@ Proper coral processing and the storage of biological fractionates are important
 ----
 
 <a name="Equipment"></a> 
-### <ins>B. Equipment:</ins>
+### <ins>Equipment:</ins>
 1. Sonicator and housing
 2. Vortex (Four E’s Scientific, Vortex Mixer)
 3. Centrifuge (VWR, Clinical Centrifuge)
@@ -73,10 +73,10 @@ Proper coral processing and the storage of biological fractionates are important
 ----
 
 <a name = "DNA"></a> 
-### <ins>C. DNA and RNA Sampling</ins>
+### <ins>DNA and RNA Sampling</ins>
 
 <a name = "Method1"><a/> 
-### C.1. Method 1:
+### <ins>Method 1:</ins>
 - Fill a 250mL beaker with 10% bleach, and two more 250mL beakers with DI or RODI water. Station them in the following order:
 
 | RODI water | 10% bleach | RODI water|
@@ -94,7 +94,7 @@ Proper coral processing and the storage of biological fractionates are important
 6. Place both tubes in a labeled cryobox in the preferred method of storage (Reference [Sample Storage Table](#Table).
 
 <a name = "Method2"><a/> 
-### C.2. Method 2:
+### <ins>Method 2:</ins>
 1. Label two 1.5mL Eppendorf tubes as follows:
    - "Individual ID", "DNA sample", the date.
      - Fill with ~750uL of DMSO
@@ -112,10 +112,10 @@ Using a sterile syringe (gauge between 25G - 23G)
 ----
 
 <a name = "Holobiont"></a> 
-### <ins>D. Holobiont Sampling</ins>
+### <ins>Holobiont Sampling</ins>
 
 <a name =  "Sonicator"></a> 
-### D.1. Sonicator
+### <ins>Sonicator</ins>
 - Sonicator probe should already be vertical in housing with converter cable coming out the top, if not, then attach the probe to the converter with the supplied wrenches
 
 ![Picture1](https://github.com/user-attachments/assets/754b1e81-2aa0-499b-92c4-6243cd33882f)
@@ -180,7 +180,7 @@ Using a sterile syringe (gauge between 25G - 23G)
 ----
 
 <a name = "Waste"></a> 
-### <ins>E. Waste Disposal Clean-up:</ins>
+### <ins>Waste Disposal Clean-up:</ins>
 - Bleach, RO, and biological material can go down the drain. Run water when pouring out waste.
 - Ethanol waste needs to be put in the waste container under the hood (labeled with ethanol).
 - Rinse used tubes and bottles with a 10% bleach and RO solution and dry on drying rack.
@@ -194,7 +194,7 @@ Using a sterile syringe (gauge between 25G - 23G)
 ----
 
 <a name = "Quality"></a> 
-### <ins>F. Quality Assurance and Quality</ins>
+### <ins>Quality Assurance and Quality</ins>
 *Proper Training*
 
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions.
@@ -212,7 +212,7 @@ Data will be checked for compliance with the procedures outlined in the SOPs.  A
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature.
 
 <a name = "Procedure"></a> 
-### F.1. Procedure Specific QA/QC
+### <ins>Procedure Specific QA/QC</ins>
 
 *Personnel*
 
