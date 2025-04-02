@@ -20,7 +20,7 @@ The purpose of this protocol is to convert large sediment samples into a fine po
 
 [Quality Assurance and Control Methods](#QA/QC)
 - [Procedure-specific QA/QC Methods:](#Procedure)
-- 
+
 ----
 
 <a name = "Equipment"></a> 
