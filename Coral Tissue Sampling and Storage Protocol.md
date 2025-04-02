@@ -29,6 +29,8 @@ Proper coral processing and the storage of biological fractionates are important
 
 [D. Holobiont Sampling](#Holobiont)
 
+[E. Waste Disposal Clean-up](#Clean)
+
 [**Sample Storage Table**](#Table)
 
 ----
@@ -101,6 +103,7 @@ Using a sterile syringe (gauge between 25G - 23G)
 ----
 
 <a name = "Holobiont"></a> **D. Holobiont Sampling**
+
 <a name =  "Sonicator"></a> **<ins>D.1. Sonicator</ins>**
 - Sonicator probe should already be vertical in housing with converter cable coming out the top, if not, then attach the probe to the converter with the supplied wrenches
 
@@ -163,7 +166,9 @@ Using a sterile syringe (gauge between 25G - 23G)
 - Clean up all supplies (e.g., tubes, pipettes, pipette tips and put back in correct locations).
 - Rinse out the used 50mL Eppendorf tubes with RO water, clean off sharpie labels with ethanol, and place in re-use, drying rack.
 
-### **<ins>Waste Disposal Clean-up:</ins>**
+----
+
+<a name = "Waste"></a> **Waste Disposal Clean-up:**
 - Bleach, RO, and biological material can go down the drain. Run water when pouring out waste.
 - Ethanol waste needs to be put in the waste container under the hood (labeled with ethanol).
 - Rinse used tubes and bottles with a 10% bleach and RO solution and dry on drying rack.
@@ -174,7 +179,9 @@ Using a sterile syringe (gauge between 25G - 23G)
 
 *Make sure to re-fill PBS bottles at end of the day for the next user. To make more PBS, add 5g for every 500mL of water.*
 
-### **<ins>Quality Assurance and Quality</ins>**
+----
+
+<a name = "Quality"></a> **Quality Assurance and Quality**
 *Proper Training*
 
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions.
