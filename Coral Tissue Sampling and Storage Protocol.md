@@ -72,10 +72,10 @@ Proper coral processing and the storage of biological fractionates are important
 |:---:|:---:|:---:|
 
 1. Label two 1.5mL Eppendorf tubes as follows:
- - "Individual ID", "DNA sample", the date.
-   - Fill with ~750uL of DMSO
- - "Individual ID", "RNA sample", the date.
-   - Fill with ~750uL of RNALater
+   - "Individual ID", "DNA sample", the date.
+     - Fill with ~750uL of DMSO
+   - "Individual ID", "RNA sample", the date.
+     - Fill with ~750uL of RNALater
 2. Using a pair of bone shears or cuticle clippers, rinse the tool in the first beaker of RODI water, then swirl the tool in the 10% bleach solution, then rinse again in the second beaker of RODI water. Dab dry with kim wipes.
 3. Snip off ~2-5mm of coral tissue and skeleton from the colony, making sure to use a distal portion of the coral. Add it to the DNA tube.
 4. Repeat step 2
