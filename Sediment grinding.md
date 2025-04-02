@@ -1,23 +1,45 @@
 # Sediment grinding using a manual grinder
 
-### Prepared by: Coral Reef and Ocean Health Research Group
-### Last updated: February 5, 2025
-### Pre-requisite SOP: NA
-### Safety precautions: **Required PPE - <ins> enclosed shoes </ins>**
+## Prepared by: Coral Reef and Ocean Health Research Group
+## Last updated: February 5, 2025
+## Pre-requisite SOP: NA
+## Safety precautions: **Required PPE - <ins> enclosed shoes </ins>**
 
-## Purpose: 
+### Purpose: 
 The purpose of this protocol is to convert large sediment samples into a fine powder for analysis.
 
-### Equipment:
+----
+
+### Content:
+
+[Equipment](#Equipment)
+
+[Preparing to Grind Sediment](#Preparing)
+
+[Grinding the Sediment](#Grinding)
+
+[Quality Assurance and Control Methods](#QA/QC)
+- [Procedure-specific QA/QC Methods:](#Procedure)
+- 
+----
+
+<a name = "Equipment"></a> 
+### <ins>Equipment</ins>
 1. IKA A11 Basic Grinder
 
-### Preparing to Grind Sediment:
+----
+
+<a name = "Preparing"></a> 
+### <ins>Preparing to Grind Sediment</ins>
 - Get dried sediment samples
 - Weigh out at least 12g of sample with a weigh boat (exact weight does not matter)
 - Plug in grinder, unscrew bottom light gray part
 - Add weighed sample to gray bottom and reassemble 
 
-### Grinding the sediment:
+----
+
+<a name = "Grinding"></a> 
+### <ins>Grinding the Sediment</ins>
 - To grind, hold “on” button while pushing down on the entire top part
   - An orange light under the “on” button indicates the grinder is too hot or not assembled correctly
     - Make sure the gray tab on the back (under the power cord) is pushed down
@@ -36,7 +58,10 @@ The purpose of this protocol is to convert large sediment samples into a fine po
   - For the bottom part: Use a wet sponge, rinse, and dry with a paper towel
   - For the top part around the blade: Use a paintbrush followed by a paper towel
 
-### Quality Assurance and Control Methods
+----
+
+<a name = "QA/QC"></a>
+### <ins>Quality Assurance and Control Methods</ins>
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Quality control measures are outlined in each protocol to ensure data generated are of accurate quality. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions. Data must be entered in Excel spreadsheets by one individual and QA-QC checked by a different individual.  
  
 _Data Review_
@@ -51,7 +76,8 @@ _Data Validation_
 
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as with water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature. 
 
-_**Procedure Specific QA/QC Methods**_
+<a name = "Procedure"></a> 
+### <ins>Procedure-specific QA/QC Methods:</ins>
 
 _Equipment Maintenance_
 
