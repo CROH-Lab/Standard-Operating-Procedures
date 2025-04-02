@@ -29,7 +29,10 @@ Proper coral processing and the storage of biological fractionates are important
 
 [D. Holobiont Sampling](#Holobiont)
 
-[E. Waste Disposal Clean-up](#Clean)
+[E. Waste Disposal Clean-up](#Waste)
+
+[F. QA/QC](#Quality)
+- [F.1 Procedure Specific QA/QC](#Procedure)
 
 [**Sample Storage Table**](#Table)
 
@@ -181,7 +184,7 @@ Using a sterile syringe (gauge between 25G - 23G)
 
 ----
 
-<a name = "Quality"></a> **Quality Assurance and Quality**
+<a name = "Quality"></a> **F. Quality Assurance and Quality**
 *Proper Training*
 
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions.
@@ -198,7 +201,7 @@ Data will be checked for compliance with the procedures outlined in the SOPs.  A
 
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature.
 
-**_Procedure Specific QA/QC Methods_**
+<a name = "Procedure"></a> _**F.1 Procedure Specific QA/QC**_
 
 *Personnel*
 
