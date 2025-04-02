@@ -16,7 +16,7 @@ Proper coral processing and the storage of biological fractionates are important
 
 ----
 
-### Contents
+### Contents:
 
 [A. Materials](#Materials)
 
