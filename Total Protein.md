@@ -1,14 +1,33 @@
 # Soluble and Insoluble Protein Concentration Protocol
 
-### Prepared by: Putnam Lab; Adapted from Pierce BCA Protein Assay
-### Last updated: January 23, 2025
-### Pre-requisite SOP: [Pierce BCA Protein Assay](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0011430_Pierce_BCA_Protein_Asy_UG.pdf)
-### Safety precautions: **Required PPE - <ins> enclosed shoes </ins>**
+## Prepared by: Putnam Lab; Adapted from Pierce BCA Protein Assay
+## Last updated: January 23, 2025
+## Pre-requisite SOP: [Pierce BCA Protein Assay](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0011430_Pierce_BCA_Protein_Asy_UG.pdf)
+## Safety precautions: **Required PPE - <ins> enclosed shoes </ins>**
 
-## Purpose:
+### Purpose:
 Total protein concentration is an estimation of soluble (water-soluble: enzymes, transport, communication) and insoluble (water-insoluble: structural) protein in a samples taken from coral.
 
-### Materials:
+----
+
+### Context:
+
+[Materials](#Materials)
+
+[Preparation of Diluted Albumin (BSA) Standards](#Preparation)
+- [Standards Table](#Standards)
+- [Preparation of the BCA Working Reagent (WR)](#WR)
+
+[FOR SOLUBLE PROTEIN ONLY](#Soluble)
+
+[FOR INSOLUBLE PROTEIN ONLY](#Insoluble)
+
+[References](#References)
+
+----
+
+<a name = "Materials"></a> 
+### <ins>Materials</ins>
 1. [Pierce BCA Protein Assay Kit from Thermo Scientific](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0011430_Pierce_BCA_Protein_Asy_UG.pdf).
 3. Clear 96 Well plate
 4. Incubator or Waterbath with range from 37°C to 50°C.
@@ -19,12 +38,16 @@ Total protein concentration is an estimation of soluble (water-soluble: enzymes,
 9. 1.5ml microfuge tubes
 10. DI water
 
-## **Preparation of Diluted Albumin (BSA) Standards**
+----
+
+<a name = "Preparation"></a> 
+### <ins>Preparation of Diluted Albumin (BSA) Standards</ins>
 1. Dilute the contents of one Albumin Standard (BSA) ampule into several clean vials, preferably using the same diluent as the samples.
 *These standards can be made during the 4 hour incubation period in the sample preparation section.*
 2. Use the following table as a guide to prepare a set of protein standards. For this project we will use the microplate procedure. Diluent is DI water Type II or RODI water. Each vial will be a sterile 1.5 mL microcentrifuge tube. Label the cap of the microcentrifuge$
 
-**Standard Table**
+<a name = "Standards"></a>
+### <ins>Standards Table</ins>
 
 | Vial | Volume of Diluent (μL) | Volume of Source of BSA (μL) | Final BSA Concentration (μg/mL) |
 |------|------------------------|------------------------------|---------------------------------|
@@ -38,7 +61,8 @@ Total protein concentration is an estimation of soluble (water-soluble: enzymes,
 | H    | 400                    | 100 of vial G dilution       | 25                              |
 | I    | 400                    | 0 (Blank)                    | 0                               |
 
-## **Preparation of the BCA Working Reagent (WR)**
+<a name = "WR"></a> 
+### <ins>Preparation of the BCA Working Reagent (WR)</ins>
 1. Use the following formula to determine the total volume of WR required:
 (# standards + # unknowns) x (# replicates) x (volume of WR per sample) = total volume WR required
 For this project, we will use 9 standards and 200 μL of WR is required for each sample in the microplate procedure.
@@ -51,7 +75,10 @@ For this project, we will use 9 standards and 200 μL of WR is required for each
 
 3. Prepare WR by mixing 50 parts of BCA Reagent A with 1 part of BCA Reagent B (50:1, Reagent A:B) in a clean protein-free container of the appropriate size, based on how many samples are going to be run.
 
-# _*FOR SOLUBLE PROTEIN ONLY*_
+---
+
+<a name = "Soluble"></a>
+### <ins>FOR SOLUBLE PROTEIN ONLY</ins>
 
 ## **Adult Tissue Sample Preparation for Soluble Protein from Host**
 1. Thaw the 500 μL aliquot of host only supernatant.
@@ -67,7 +94,8 @@ For this project, we will use 9 standards and 200 μL of WR is required for each
 
 ___
 
-# *FOR INSOLUBLE PROTEIN ONLY*
+<a name = "Insoluble"></a>
+### <ins>FOR INSOLUBLE PROTEIN ONLY</ins>
 
 ## **Adult Tissue Sample Preparation for Insoluble Protein from Holobiont**
 
@@ -88,5 +116,8 @@ ___
 5. Subtract the average 562 nm absorbance measurement of the Blank standard replicates from the 562 nm measurements of all other individual standard and unknown sample replicates.
 6. Prepare a standard curve by plotting the average Blank–corrected 562 nm measurement for each BSA standard vs. its concentration in μg/mL. Use the standard curve to determine the protein concentration of each unknown sample.
 
-4. <a name="References"></a> **References**
+----
+
+<a name="References"></a> 
+### <ins>References</ins>
 [Pierce BCA Protein Assay](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0011430_Pierce_BCA_Protein_Asy_UG.pdf)
