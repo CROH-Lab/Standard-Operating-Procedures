@@ -36,18 +36,18 @@ To remove all remaining biological tissue from the coral to prepare it for skele
 
 <a name = "Bleach"></a>
 ### <ins>Bleaching Process</ins>
-- Create 10% bleach solution in a container. Use DI water.
-  - For example – using a 500mL graduated cylinder; add 50mL of bleach to 450mL of DI water.
-  - Create as much 10% bleach solution as needed to bleach all samples.
-- Pour 10% bleach solution into coral sample bags. Keep corals in their sample bag and then place them into container. This will reduce mix up of samples.
-  - The sample bag labels may dissolve, but still be legible. Make sure to re-label after bleaching and drying.
-- Let the corals sit in the bleach solution for up to 48 hours, and check progress around 24 hours.
-  - They can sit for longer than 48 hours; be sure to record how long they were bleached.
-### **<ins>Rinsing and Drying After Bleaching</ins>**
-- After bleaching, rinse the coral with water. Gently scrub coral with a designated soft toothbrush to not compromise the structural integrity of the coral skeleton.
-- If applicable, remove coral from plug. Remove remaining glue on coral using careful force or bone cutters.
-- Set corals on towels to dry. Be sure to continue properly labeling the corals.
-  - Be careful not to mix up samples. Work with 1-2 at a time to reduce mix up.
+  - Create 10% bleach solution in a container. Use DI water.
+    - For example – using a 500mL graduated cylinder; add 50mL of bleach to 450mL of DI water.
+    - Create as much 10% bleach solution as needed to bleach all samples.
+  - Pour 10% bleach solution into coral sample bags. Keep corals in their sample bag and then place them into container. This will reduce mix up of samples.
+    - The sample bag labels may dissolve, but still be legible. Make sure to re-label after bleaching and drying.
+  - Let the corals sit in the bleach solution for up to 48 hours, and check progress around 24 hours.
+    - They can sit for longer than 48 hours; be sure to record how long they were bleached.
+- **<ins>Rinsing and Drying After Bleaching</ins>**
+  - After bleaching, rinse the coral with water. Gently scrub coral with a designated soft toothbrush to not compromise the structural integrity of the coral skeleton.
+  - If applicable, remove coral from plug. Remove remaining glue on coral using careful force or bone cutters.
+  - Set corals on towels to dry. Be sure to continue properly labeling the corals.
+    - Be careful not to mix up samples. Work with 1-2 at a time to reduce mix up.
 
  ----
  
