@@ -1,15 +1,41 @@
 # 3D Scanning and Surface Area Measurements
 
-### Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Dr. Davies Lab at Boston University
-### Last updated: December 9, 2024
-### Pre-requisite SOP: NA
-### Safety precautions: **Required PPE - <ins> enclosed shoes </ins>**
+## Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Dr. Davies Lab at Boston University
+## Last updated: December 9, 2024
+## Pre-requisite SOP: NA
+## Safety precautions: **Required PPE - <ins> enclosed shoes </ins>**
 
-## Purpose: 
+### Purpose: 
 The surface area of the corals will be measured using a 3D scanner (EinScan-SE). More recent work has shown that 3D-scanned images 
 of the coral provides a more accurate surface area measurement, which is needed to standardize physiological measurements.
 
-### Materials:
+----
+
+### Content:
+
+[Materials](#Materials)
+
+[Equipment and Software](#Equipment)
+
+[Step 1: Scanner setup](#Scanner)
+
+[Step 2: Running the software](#Running)
+
+[Step 3: Editing the final scan](#Editing)
+
+[Step 4: Saving and Exporting Final Scan](#Saving)
+
+[Step 5: Calculating the Surface Area Using Meshlab](#Calculating)
+
+[Notes](#Notes)
+
+[Quality Assurance and Control Methods](#QA/QC)
+- [Procedure-Specific QA/QC Methods](#Procedure)
+
+----
+
+<a name = "Materials"></a> 
+### <ins>Materials</ins>
 1. Scanner manual - can be found [here](https://support.einscan.com/en/support/solutions/60000333808manual/?scan_model=einscan-se&download_option=manual)
 2. Calibration object (Ex. a die with a known area)
 3. Manilla file folder
@@ -18,7 +44,10 @@ of the coral provides a more accurate surface area measurement, which is needed 
 6. Hard drive
 7. White background
 
-### Equipemnt and Software:
+----
+
+<a name = "Equipment"></a> 
+### <ins>Equipemnt and Software</ins>
 1. Einscan-SE 3D Scanner V2
 ([link here](https://www.matterhackers.com/store/l/einscan-se-desktop-3d-scanner-v2/sk/M21W1D74?rcode=PMAX_3DSCANNERS&gad_source=1&gclid=Cj0KCQiAx9q6BhCDARIsACwUxu7pOD51OZK9U7pb7UIQv4JnsGah-zn-YAVN4FoepX1He3ohGdny0QIaApx_EALw_wcB))
 2. Einscan-S software
@@ -26,13 +55,19 @@ of the coral provides a more accurate surface area measurement, which is needed 
 
 ### Notes: Glue broken corals together with coral glue if necessary.
 
-### **<ins>Step 1 - Scanner setup:</ins>**
+----
+
+<a name = "Scanner"></a> 
+### <ins>Step 1: Scanner setup</ins>
 1.	Ensure that all the power and computer connection cables are plugged in (scanner power, cable from scanner to computer, and cable from scanner base to scanner camera). 
 2.	Turn the scanner on by touching the power button (it’s touch-sensitive) 
 3.	Make sure the scanner is completely in the dark (under a black box). 
 4.	Make sure the background of the scanning area is completely white.
 
-### **<ins>Step 2 - Running the software:</ins>**
+----
+
+<a name = "Running"></a>
+### <ins>Step 2: Running the software</ins>
 1. Open the Einscan-S software. If you do not have this installed, it can be downloaded [here](https://www.einscan.com/support/download/software/?scan_model=einscan-se)
 2. Click on Einscan-SE (left logo)
 3. The scanner in the lab should already be calibrated, but if you want to redo the calibration just to make sure (or if it’s been a while since it’s been used):
@@ -65,7 +100,10 @@ of the coral provides a more accurate surface area measurement, which is needed 
 14.	DO NOT globally optimize between scans. Optimizing increases the number of points and can overload the machine and invalidate the scans. 
     - If you find the scan looking abnormal, you may need to check if the scan will optimize by clicking the “Global Optimization” button, but don’t finalize the optimization. If the scans are not optimizing and look abnormal, recalibrate the machine.
 
-### **<ins>Step 3 - Editing the final scan:</ins>**
+----
+
+<a name = "Editing"></a>
+### <ins>Step 3 - Editing the final scan</ins>
 15. You may have had to place your coral on a pedestal to scan it (especially if it's something that couldn’t stand on its own like a branch). 
 16.	You can now delete the scans of the pedestal and any extra parts that are not useful. To do so: 
   - You can select the areas in the scan by holding down the shift button and making a circle with your mouse:
@@ -77,7 +115,10 @@ of the coral provides a more accurate surface area measurement, which is needed 
 
 <img width="110" alt="Picture6" src="https://github.com/user-attachments/assets/0d9117ef-5a3b-4f92-b3fe-01917b74cc8a">
 
-### **<ins>Step 4 - Saving and Exporting Final Scan:</ins>**
+----
+
+<a name = "Saving"></a>
+### <ins>Step 4: Saving and Exporting Final Scan</ins>
 1. Once you’re satisfied with your scan, click on Global Optimization on the right-hand side of the screen and then click the check mark
 2.	Click on Mesh in the right-hand side of the screen
 3.	Select watertight model 
@@ -87,14 +128,17 @@ of the coral provides a more accurate surface area measurement, which is needed 
 7.	When saving also select the “.ply” option 
 8.	To start new scan go back to “scan” and click the project icon, work, new work, and start new scan. 
 
-### **<ins>Step 5 - Calculating the Surface Area Using Meshlab:</ins>**
+----
+
+<a name = "Calculating"></a>
+### <ins>Step 5: Calculating the Surface Area Using Meshlab</ins>
 1. Open the “.ply” (or .stl file also work) using MeshLab. 
 2.	Use the appropriate method for selected the surfaces that you want to measure the area of: 
   - If your coral nubs were essentially all live tissue: then then easiest route may be to calculate the surface area of the entire scan and then subtract the surface area of any spots that were not coral (e.g., the bottom of the nubbin/branch) 
 
 <img width="198" alt="Picture7" src="https://github.com/user-attachments/assets/a1113b79-830e-4c0e-bf27-8d4469006c33">
 
-  - Select the entire scan surface using the “Selected connected components in a region” button and dragging across the whole scan to select everything. (Selected areas appear pink) 
+  - Select the entire scan surface using the “Selected connected components in a region” button and dragging across the whole scan to select everything. (Selected areas appear pink)
     - Calculate surface area of selection. Menu path: Filters -> Quality measures and computers -> Compute Area/perimeter of selection
     - The computed area will appear in the dialog box in the lower right-hand side. **The units are in square millimeters**.
       
@@ -111,8 +155,8 @@ of the coral provides a more accurate surface area measurement, which is needed 
       
 <img width="198" alt="Picture10" src="https://github.com/user-attachments/assets/f93f1d10-3005-43a5-af2e-da9d5d7c5581">
 
-  _ Once you have selected all the areas you want then compute the area/perimeter of selection again (step ii above).
-  _ Then subtract the numbers as needed to get your final surface areaa
+  - Once you have selected all the areas you want then compute the area/perimeter of selection again (step ii above).
+  - Then subtract the numbers as needed to get your final surface areaa
       
 <img width="110" alt="Picture11" src="https://github.com/user-attachments/assets/763d6911-7dff-406f-a364-c33d43486e96">
 
@@ -123,12 +167,18 @@ of the coral provides a more accurate surface area measurement, which is needed 
 
 4. Then compute the area of selection (see above)
 
-### **<ins> Notes:**</ins>
+---
+
+<a name = "Notes"></a>
+### <ins> Notes</ins>
   - For larger colonies turn down the brightness to help with detail (intricate branching) and increase number of turntable steps to the maximum and scan coral 5+ times depending on coral.
   - Ensure the color of your scan is correct before saving. A yellow scan means the white balance, or the background is incorrect.
   - *Please move all saved scans to hard drive after finishing a session* The computer does not have enough power or storage to hold and access a lot of scans.
 
-### **<ins> Quality Assurance and Control:</ins>**
+----
+
+<a name = "QA/QC"></a>
+### <ins> Quality Assurance and Control</ins>
 _Proper Training_
 
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions.
@@ -145,7 +195,8 @@ _Data Validation_
 
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature.
 
-_Procedure Specific QA/QC Methods_
+<a name = "Procedure"></a> 
+### <ins>Procedure-Specific QA/QC Methods</ins>
 
 _3D Scanner_
 
