@@ -10,24 +10,38 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 
 ----
 
-**Content**
+### Content:
 
 [Materials](#Materials)
 
 [Equipment](#Equipment)
 
-[Sample Preparation](#Sample)
+[Step 1: Sample Preparation](#Sample)
+
+[Step 2. Add Liquid Nitrogen](#LN)
+
+[Step 3: Load vial into cryomill](#Cryomill)
+
+[Step 4: Run Grinding Program](#Run)
+
+[Step 5: Remove vial from cryomill](#Vial)
+
+[Quality Assurance and Control Methods](#QA/QC)
+- [Procedure Specific QA/QC Methods:](#Procedure)
+
 
 ----
 
-<a name = "Materials"></a> **A. Materials**
+<a name = "Materials"></a> 
+### <ins>A. Materials</ins>
 1. Sample sediment
 2. [Freezer/Mill Quickstart Guide]([https://pim-resources.coleparmer.com/instruction-manual/6875-freezermill-manual.pdf](https://pim-resources.coleparmer.com/instruction-manual/6875-quick-start-guide.pdf))
 3. [6875 Freezer/Mill manual](https://pim-resources.coleparmer.com/instruction-manual/6875-freezermill-manual.pdf)
 
 ----
 
-<a name = "Equipment"></a> **B. Equipment**
+<a name = "Equipment"></a> 
+### <ins>B. Equipment</ins>
 1. Spex 6875 Freezer/Mill®
 2. Large Grinding Vial
 3. Vial impactor extractor
@@ -35,7 +49,8 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 
 ----
 
-<a name = "Sample"></a> **C. Sample Preparation**
+<a name = "Sample"></a> 
+### <ins>C. Step 1: Sample Preparation</ins>
 1. Dry sediment sample in the drying oven at 80°C for 24-48 hours until dry.
 2. To load a vial, first assemble it halfway by pushing an end-plug into a center cylinder.
 
@@ -52,13 +67,15 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 
 ----
 
-<a name = "Step 2. Add Liquid Nitrogen (LN)
+<a name = "LN"></a> 
+### <ins>Step 2. Add Liquid Nitrogen (LN)</ins>
 1.	Unlatch the lid of the mill and slowly open it. Manually pour liquid nitrogen (LN) from the portable Dewar until it is approximately on third full. Initially LN will boil off vigorously, but as the tub cools the boiling will subside. Add more LN gradually, to avoid splashing and boiling over. When boiling is subdued, push the lid down gently until the bottom of the latch can be engaged.
 2.	The mill should be filled until the LN level reaches approximately 2 inches below the lip of the tub. _**Always close the lid slowly to avoid splashing**_
 
 ----
 
-### Step 3: Load vial into cryomill
+<a name = "Cryomill"></a>
+### <ins>Step 3: Load vial into cryomill</ins>
 1.	Using cryogenic gloves, unlatch and lift the lid of the mill, and turn the gate handle to open the vial chamber.
 2.	Place the vial in the chamber with either gloved hands or the vial extractor. Close the chamber and tighten it against the vial by turning the gate handle clockwise, but do not overtighten the gate. Lock the gate by folding down the handle.  
 3.	With the vial or vials in place, loosen the coil gate handle a turn or two counterclockwise, align the handle with the slot, close the gate, and turn the handle clockwise until the gate is in snug contact with the vial. To lock the gate, fold down the gate handle against the gate. Do not overtighten the gate, as this can crack the vial’s center tube.
@@ -67,7 +84,8 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 
 ----
 
-### Step 4: Run Grinding Program
+<a name = "Run"></a>
+### <ins>Step 4: Run Grinding Program</ins>
 1.	Power the ON switch on the back of the mill to boot up the computer
 2.	Go the Control Panel and set your run parameters (pre-cool time, run time, cool time, cycles, and rate)
 Pre-cool: recommended 10 minutes for each new sample, brings sample down to LN temp
@@ -80,7 +98,8 @@ Rate: The number of cycles per second (2 times the impacts per second)
 
 ----
 
-### Step 5: Remove vial from cryomill
+<a name = "Vial"></a>
+### <ins>Step 5: Remove vial from cryomill</ins>
 1.	At the conclusion of the grinding cycle, unlatch the lid and allow it to rise at its own speed.
 2.	Using a gloved hand, twist the latch and open the gate to the vial chamber. Press the extractor up against the vial and turn the knob to secure the extractor on the vial.  
 3.	Pull the vial out and place it in the holding rack. Close the mill lid to conserve LN.
@@ -93,7 +112,8 @@ Rate: The number of cycles per second (2 times the impacts per second)
 
 ----
 
-### Quality Assurance and Control Methods
+<a name = "QA/QC"></a>
+### <ins>Quality Assurance and Control Methods</ins>
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Quality control measures are outlined in each protocol to ensure data generated are of accurate quality. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions. Data must be entered in Excel spreadsheets by one individual and QA-QC checked by a different individual.  
  
 _Data Review_
@@ -108,7 +128,8 @@ _Data Validation_
 
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as with water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature. 
 
-_**Procedure Specific QA/QC Methods:**_
+<a name = "Procedure"></a> 
+### Procedure Specific QA/QC Methods:
 
 _Sample preparation
 
