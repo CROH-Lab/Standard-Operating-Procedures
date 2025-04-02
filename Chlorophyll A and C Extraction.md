@@ -5,11 +5,40 @@
 ## Pre-requisite SOP: NA
 ## Safety precautions: **Required PPE - <ins>Enclosed shoes, ankle-length pants, gloves, long hair tied back, lab coat</ins>**
 
-## Purpose: 
-
+### Purpose: 
 Measurement of the amount of chlorophyll present within symbionts.
 
-### Materials:
+----
+
+### Content:
+
+[Materials](#Materials)
+
+[Equipment](#Equipment)
+
+[Part 1: 24 Hours Before](#24)
+
+- [FOR CUVETTE SAMPLING](#Cuvette)
+
+- [FOR 96 WELL PLATE SAMPLING](#96)
+
+[Part 2: 24 Hours Later](#Later)
+
+- [Using the Spectrophotometer _FOR_Cuvette Readings](#SpecC)
+
+- [Using the Spectrophotometer _FOR_96 Well Plate Readings](#SpecP)
+
+[Clean-up](#Clean)
+
+[Calculations](#Calculations)
+
+[Quality Assurance and Control Methods](#QA/QC)
+- [Procedure-specific QA/QC Methods:](#Procedure)
+
+----
+
+<a name = "Materials"></a> 
+### <ins>Materials</ins>
 1. Thawed samples (24 Hours Before)
 2. 90% acetone (located under the hood)
 3. 100% acetone (located under the hood)
@@ -32,14 +61,22 @@ Measurement of the amount of chlorophyll present within symbionts.
 20. Aluminum foil/cleaning tray
 21. Q-tips (QUARTZ 96 Well Plate cleaning)
 
-### Equipemnt:
+----
+
+<a name = "Equipment"></a> 
+### <ins>Equipment</ins>
 1. 1mL pipette (VWR)
 2. Multi-channel Pipette (VWR)
 3. Centrifuge (Labnet, Spectrafuge 24D)
 4. Vortex (4 E’s Scientific, Vortex Mixer)
 
-### **<ins>Part I: 24 Hours Before</ins>**
-## **FOR CUVETTE SAMPLING**
+----
+
+<a name = "24"></a>
+### **<ins>Part 1: 24 Hours Before</ins>**
+
+<a name = "Cuvette"></a>
+### <ins>**FOR CUVETTE SAMPLING**</ins>
 - Thaw the sample, vortex, and then aliquot a subsample (1 mL) and place into a 1.5 mL Eppendorf tube (may already be done from coral processing).
 
 <img width="81" alt="Picture1" src="https://github.com/user-attachments/assets/30b22f23-e61e-4199-a03d-ceeaf1b22a63">
@@ -53,7 +90,8 @@ Measurement of the amount of chlorophyll present within symbionts.
 
  <img width="105" alt="Picture2" src="https://github.com/user-attachments/assets/ea5a743d-5491-4c05-afb6-82e91bbcd44f">
 
-## **FOR 96 WELL PLATE SAMPLING:**
+<a name = "96"></a>
+### <ins>**FOR 96 WELL PLATE SAMPLING**</ins>
 - Thaw the sample, vortex, and then aliquot a subsample (1 mL) and place into a 1.5 mL Eppendorf tube (may already be done from coral processing).
 
 <img width="81" alt="Picture1" src="https://github.com/user-attachments/assets/30b22f23-e61e-4199-a03d-ceeaf1b22a63">
@@ -67,14 +105,20 @@ Measurement of the amount of chlorophyll present within symbionts.
 
  <img width="105" alt="Picture2" src="https://github.com/user-attachments/assets/ea5a743d-5491-4c05-afb6-82e91bbcd44f">
 
-### **<ins>Part II: 24 Hours Later</ins>**
+----
+
+<a name = "Later"></a>
+### <ins>Part 2: 24 Hours Later</ins>
 - Remove samples from freezer and place on ice
 - Remove plastic cover and turn on spectrophotometer - (button on back, needs 15 minutes to turn on).
 - Centrifuge samples at 5000rpm for 2mins.
   - All zooxanthellae will be in the pellet and the chlorophyll will be in the supernatant.
   - Store samples on ice and cover (use a black ice bucket, need to stay in the dark, no light) for transport into the CORE lab
 
-### **<ins>Using the Spectrophotometer _FOR_Cuvette Readings</ins>**
+----
+
+<a name = "SpecC"></a>
+### <ins>Using the Spectrophotometer _FOR_Cuvette Readings</ins>
 - Turn on computer
 - Open Soft Max Pro on computer- if this screen opens click “Done”.
 - Make sure that the “SpectraMax M3” button in the top right corner on the program is a green checkmark (not red circle)
@@ -121,7 +165,8 @@ Measurement of the amount of chlorophyll present within symbionts.
   - Repeat this for every 7-10 samples
   - DISCLAIMER: sometimes when you set the new reference point, it changes the previous samples slightly (~0.001). This is ok, continue with reading the next 10 samples at this new calibration and do not change the readings of the previous samples. 
 
-### **<ins>Using the Spectrophotometer _FOR_96 Well Plate Readings</ins>**
+<a name = "SpecP"></a>
+### <ins>Using the Spectrophotometer _FOR_96 Well Plate Readings</ins>
 - Turn on computer
 - Open Soft Max Pro on computer- if this screen opens click “Done”.
 - Make sure that the “SpectraMax M3” button in the top right corner on the program is a green checkmark (not red circle)
@@ -183,7 +228,10 @@ Measurement of the amount of chlorophyll present within symbionts.
 
 Be **VERY** careful with the 96 well plate, it has a glass bottom and we only have one
 
-### **<ins>Clean Up:</ins>**
+----
+
+<a name = "Clean"></a>
+### <ins>Clean-up</ins>
 - For Cuvettes,
   - For cuvette cleaning between samples, set-up aluminum foil or cleaning tray and wash with 70% ethanol, wipe dry and place upside down in cuvette holder to finish drying, repeat after every sample, keep cleaning/ethanol area separate from the samples
 - For 96 Well Plate,
@@ -193,7 +241,10 @@ Be **VERY** careful with the 96 well plate, it has a glass bottom and we only ha
 - At end of day, turn off spec and log out of the computer
 - Please take everything with you from the spec room including any trash.
 
-## **<ins>Calculations</ins>**
+----
+
+<a name = "Calculations"></a>
+## <ins>Calculations</ins>
 Standardize units chl a/chl c
   - CHL per cell
   - CHL per surface area (surface area will be calculated using the 3D scanner)
@@ -216,7 +267,10 @@ Where:
 
 *Finally, the total chlorophyll is standardized for the surface area of the individual coral fragments.*
 
-### **<ins>Quality Assurance and Control</ins>**
+----
+
+<a name = "QA/QC"></a>
+### <ins>Quality Assurance and Control Methods</ins>
 *Proper Training*
 
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions.
@@ -233,7 +287,8 @@ Data will be checked for compliance with the procedures outlined in the SOPs.  A
 
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature.
 
-*Procedure Specific QA/QC Methods*
+<a name = "Procedure"></a> 
+### <ins>Procedure-specific QA/QC Methods:</ins>
 
 Reference for chlorophyll pigments (i.e., acetone) are conducted every 5 samples to ensure the spectrophotometer is reading correctly.
 
