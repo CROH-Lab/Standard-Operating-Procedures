@@ -5,12 +5,33 @@
 ## Safety precautions: **Required PPE - <ins>Enclosed shoes, gloves</ins>**
 ## <span style="color:red">Bleach handling</span>.
 
-## Purpose: 
-
+### Purpose: 
 - Removal of coral tissue for analysis
 - Proper homogenization and aliquoting of sample for analysis
 
-### **<ins>Materials:</ins>**
+----
+
+###Contents:
+
+[Materials](#Materials)
+
+[Equipment](#Equipment)
+
+[Notes](#Notes)
+
+[Airbrush Set-up](#Airbrush)
+
+[Removing Coral Tissue](#Tissue)
+
+[Airbrush Clean-up](#Clean)
+
+[Quality Assurance and Control Methods](#QA/QC)
+- [Procedure-specific QA/QC Methods:](#Procedure)
+
+----
+
+<a name = "Materials"></a> 
+### <ins>Materials</ins>
 - Two buckets of ice (one for airbrushing, one for homogenizing)
 - 10% bleach solution
 - 70% ethanol solution
@@ -28,7 +49,10 @@
 - Pipette disposal bin
 - Graduated cylinder
 
-### **<ins>Equipment:</ins>**
+----
+
+<a name = "Equipment"></a> 
+### <ins>Equipment</ins>
 - Sonicator and housing
 - Vortex (Four E’s Scientific, Vortex Mixer)
 - Centrifuge (VWR, Clinical Centrifuge)
@@ -36,13 +60,19 @@
 - 1000uL pipette (VWR)
 - Airbrush (Paasche, Millennium Set)
 
-** <ins>Notes</ins>**
+----
+
+<a names = "Notes"></a>
+### <ins>Notes</ins>
 - Before beginning, make sure all Falcon tubes and Eppendorf tubes are pre-labeled and ready to go.
 - Never reach a hand into the bag of Eppendorf tubes. Wear gloves and shake tubes out of the bag onto a paper towel. Never put tubes back into the Eppendorf bag to reduce contamination.
 - To make the PBS solution add 5g of powder to 500 ml of DI water OR 2 tablets to 500 ml of DI water (brown bottles and squirt bottles are 500 ml).
 - **_Make sure a DNA and RNA sample have been taken from frags before airbrushing_**
 
-** <ins>Airbrush Set-up:</ins>**
+----
+
+<a name = "Airbrush"></a>
+### <ins>Airbrush Set-up:</ins>
 - Place airbrush motor under the hood.
 - Unwrap chord and attach actual airbrush from kit and screw the fat end of the cord into the motor and the smaller end of the cord into the brush.
 
@@ -63,7 +93,10 @@
 
 *Keep airbrush tip all the way closed (all the way to the right) – should already be like that when you set-up and break-down, don’t adjust if you don’t have to.*
 
-### **<ins>Airbrush - Removing Coral Tissue:</ins>**
+----
+
+<a name = "Tissue"></a>
+### <ins>Removing Coral Tissue:</ins>
 - Take coral sample out of whirlpack and place in Ziploc bag (save whirlpack for the coral skeleton)
 - Place coral in bottom corner of Ziploc bag to maximize surface area being sprayed
 - Slider to close Ziplock should be at top so you can zip your hand inside to make sure spray isn’t coming out of bag
@@ -78,7 +111,10 @@
 - If applicable, carefully remove the coral from the plug following airbrushing. Remove any remaining glue from the coral fragments with careful force or bone cutters.
   - If plugs do not easily come off continue to skeleton bleaching protocol.
 
-### **<ins>Airbrush Clean-up</ins>**
+----
+
+<a name = "Clean"></a>
+### <ins>Airbrush Clean-up</ins>
 - Turn airbrush motor off.
 - Hold down toggle until air is released (at 0).
 - Keep cord attached to compressor but remove cord from airbrush pen and place pen in airbrush box (wipe down with Kimwipe and ethanol).
@@ -92,7 +128,10 @@
 
 <img width="336" alt="Picture1" src="https://github.com/user-attachments/assets/8667b268-6f92-407c-a4b7-1b546ba29514" />
 
-### **<ins>Quality Assurance and Quality</ins>**
+----
+
+<a name = "QA/QC"></a>
+### <ins>Quality Assurance and Control Methods</ins>
 *Proper Training*
 
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions.
@@ -109,7 +148,8 @@ Data will be checked for compliance with the procedures outlined in the SOPs.  A
 
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature.
 
-**_Procedure Specific QA/QC Methods_**
+<a name = "Procedure"></a> 
+### <ins>Procedure-specific QA/QC Methods:</ins>
 
 *Personnel*
 
