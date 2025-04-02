@@ -43,7 +43,7 @@ To remove all remaining biological tissue from the coral to prepare it for skele
     - The sample bag labels may dissolve, but still be legible. Make sure to re-label after bleaching and drying.
   - Let the corals sit in the bleach solution for up to 48 hours, and check progress around 24 hours.
     - They can sit for longer than 48 hours; be sure to record how long they were bleached.
-- <ins>Rinsing and Drying After Bleaching</ins>
+- Rinsing and Drying After Bleaching
   - After bleaching, rinse the coral with water. Gently scrub coral with a designated soft toothbrush to not compromise the structural integrity of the coral skeleton.
   - If applicable, remove coral from plug. Remove remaining glue on coral using careful force or bone cutters.
   - Set corals on towels to dry. Be sure to continue properly labeling the corals.
