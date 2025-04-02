@@ -1,17 +1,36 @@
 # Buoyant Weight SOP
 
-### Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Dr. Jokeil, 1978
-### Last updated: February 5, 2025
-### Pre-requisite SOP: NA
-### Safety precautions: **Required PPE - <ins> gloves, enclosed shoes </ins>**
+## Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Dr. Jokeil, 1978
+## Last updated: February 5, 2025
+## Pre-requisite SOP: NA
+## Safety precautions: **Required PPE - <ins> gloves, enclosed shoes </ins>**
 
-## Purpose: 
+### Purpose: 
 To record the weight of a living coral to collect coral skeletal growth 
 
-### Equipment:
+----
+
+### Content:
+
+[Equipment](#Equipment)
+
+[Set-up and Procedure](#SetUp)
+
+[Break Down of Buoyant Weighing Station](#Break)
+
+[Quality Assurance and Control Methods](#QA/QC)
+- [Procedure Specific QA/QC Methods:](#Procedure)
+
+----
+
+<a name = "Equipment"></a> 
+### <ins>Equipment</ins>
 1. Scale (Ohaus, Scout SPX422)
 
-### Set-up and Procedure of Buoyant Weighing
+----
+
+<a name = "SetUp"></a>
+### <ins>Set-up and Procedure</ins>
 - The buoyant weighing station may already be set up in the lab
 
  ![Picture1](https://github.com/user-attachments/assets/21c77ab7-c0c9-43b1-86ac-8526d680d74a)
@@ -55,15 +74,19 @@ To record the weight of a living coral to collect coral skeletal growth
       Wa=Ww+(Va∙Dw)
       Substituting the density of aragonite (Da= 2.93/cc) and an approximate value for seawater (Dw=1.03) the equation for total dry weight of the skeletal material (Wa)
       Wa=1.54∙Ww
-  
-### Break Down of Buoyant Weighing Station
+
+----
+
+<a name = "Break"></a>
+### <ins>Break Down of Buoyant Weighing Station</ins>
 - Removed all samples and stored them as needed by the experiment
 - Dump the water bin down the sink
 - Turn off the scale and replace the hook, after removing the string, within the battery compartment
   - The hook is very easy to lose, so be careful with it
 - Store scale and metal stand in the corner of the lab beside the freezer
 
-### Quality Assurance and Control Methods
+<a name = "QA/QC"></a>
+### <ins>Quality Assurance and Control Methods</ins>
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Quality control measures are outlined in each protocol to ensure data generated are of accurate quality. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions. Data must be entered in Excel spreadsheets by one individual and QA-QC checked by a different individual.  
  
 _Data Review_
@@ -78,7 +101,8 @@ _Data Validation_
 
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as with water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature. 
 
-_**Procedure Specific QA/QC Methods**_
+<a name = "Procedure"></a> 
+### <ins>Procedure-Specific QA/QC Methods:</ins>
 
 The weight of corals will be measured using the buoyant weight technique (Jokiel et al., 1978). An Ohaus analytical balance (model 30253020; 420g x0.01g) will be used for these measurements. Scale is calibrated prior to use with a calibration weight. Corals are weighed twice to confirm accurate scale readings. Scale is zeroed every 5 corals.
 
