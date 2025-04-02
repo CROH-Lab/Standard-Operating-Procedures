@@ -82,12 +82,12 @@ Proper coral processing and the storage of biological fractionates are important
 5. Repeat step 3, but take the sample from a different place as the DNA sample. Place the new microfragment in the RNA tube.
 6. Place both tubes in a labeled cryobox in the preferred method of storage (Reference [Sample Storage Table](#Table).
 
-### Method 2:
+<a name = "Method2"><a/> **Method 2:**
 1. Label two 1.5mL Eppendorf tubes as follows:
- - "Individual ID", "DNA sample", the date.
-   - Fill with ~750uL of DMSO
- - "Individual ID", "RNA sample", the date.
-   - Fill with ~750uL of RNALater
+   - "Individual ID", "DNA sample", the date.
+     - Fill with ~750uL of DMSO
+   - "Individual ID", "RNA sample", the date.
+     - Fill with ~750uL of RNALater
 Using a sterile syringe (gauge between 25G - 23G)
 2. Locate a healthy-looking portion of the coral
     - Preferably with no signs of disease or damage
@@ -95,7 +95,7 @@ Using a sterile syringe (gauge between 25G - 23G)
 4. Stick the tip of the syringe into the tissue multiple times (4x - 10x)
      - If the polyps are large, stick the syringe directly into the polyp, aspirate the syringe to collect the tissue sample
 5. Transfer the collected tissue from the coral into the appropriate storage buffer by expelling the syringe to zero to deposit the collected tissue.
-- If more tissue is required, use a second sterile syringe and repeat steps 2-4. 
+  - If more tissue is required, use a second sterile syringe and repeat steps 2-4. 
 
 ## Holobiont sampling
 ### **<ins>Sonicator</ins>**
