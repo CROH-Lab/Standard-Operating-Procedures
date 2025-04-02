@@ -54,12 +54,12 @@ Proper coral processing and the storage of biological fractionates are important
 ----
 
 <a name="Equipment"></a> **B. Equipment:**
-- Sonicator and housing
-- Vortex (Four E’s Scientific, Vortex Mixer)
-- Centrifuge (VWR, Clinical Centrifuge)
-- Timer
-- 1000uL pipette (VWR)
-- 5mL pipette (VWR)
+1. Sonicator and housing
+2. Vortex (Four E’s Scientific, Vortex Mixer)
+3. Centrifuge (VWR, Clinical Centrifuge)
+4. Timer
+5. 1000uL pipette (VWR)
+6. 5mL pipette (VWR)
 
 ----
 
