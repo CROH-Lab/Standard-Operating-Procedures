@@ -82,7 +82,7 @@ Proper coral processing and the storage of biological fractionates are important
 5. Repeat step 3, but take the sample from a different place as the DNA sample. Place the new microfragment in the RNA tube.
 6. Place both tubes in a labeled cryobox in the preferred method of storage (Reference [Sample Storage Table](#Table).
 
-<a name = "Method2"><a/> **Method 2:**
+<a name = "Method2"><a/> **C.2 Method 2:**
 1. Label two 1.5mL Eppendorf tubes as follows:
    - "Individual ID", "DNA sample", the date.
      - Fill with ~750uL of DMSO
