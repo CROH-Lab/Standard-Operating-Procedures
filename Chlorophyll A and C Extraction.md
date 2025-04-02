@@ -244,7 +244,7 @@ Be **VERY** careful with the 96 well plate, it has a glass bottom and we only ha
 ----
 
 <a name = "Calculations"></a>
-## <ins>Calculations</ins>
+### <ins>Calculations</ins>
 Standardize units chl a/chl c
   - CHL per cell
   - CHL per surface area (surface area will be calculated using the 3D scanner)
