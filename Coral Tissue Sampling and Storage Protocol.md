@@ -22,7 +22,7 @@ Proper coral processing and the storage of biological fractionates are important
 
 [B. Equipment](#Equipment)
 
-[C. Calibration](#Calibration)
+[C. DNA and RNA Sampling](#DNA)
 
 [D. Sample Measurement](#Sample)
 
@@ -63,9 +63,9 @@ Proper coral processing and the storage of biological fractionates are important
 
 ----
 
-## DNA and RNA sampling
+<a name = "DNA"></a> **C. DNA and RNA Sampling**
 
-### Method 1:
+#### C.1Method 1:
 - Fill a 250mL beaker with 10% bleach, and two more 250mL beakers with DI or RODI water. Station them in the following order:
 
 | RODI water | 10% bleach | RODI water|
