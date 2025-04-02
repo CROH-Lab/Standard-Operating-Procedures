@@ -24,9 +24,9 @@ Measurement of the amount of chlorophyll present within symbionts.
 
 [Part 2: 24 Hours Later](#Later)
 
-- [Using the Spectrophotometer _FOR_Cuvette Readings](#SpecC)
+- [Using the Spectrophotometer _FOR_ Cuvette Readings](#SpecC)
 
-- [Using the Spectrophotometer _FOR_96 Well Plate Readings](#SpecP)
+- [Using the Spectrophotometer _FOR_ 96 Well Plate Readings](#SpecP)
 
 [Clean-up](#Clean)
 
