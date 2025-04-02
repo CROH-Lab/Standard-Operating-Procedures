@@ -1,25 +1,57 @@
 # Respirometry SOP
 
-### Prepared by: Coral Reef and Ocean Health Research Group
-### Last updated: February 5, 2025
-### Pre-requisite SOP: NA
-### Safety precautions: **Required PPE - <ins> none </ins>**
+## Prepared by: Coral Reef and Ocean Health Research Group
+## Last updated: February 5, 2025
+## Pre-requisite SOP: NA
+## Safety precautions: **Required PPE - <ins> none </ins>**
 
-## Purpose: 
+### Purpose: 
 The purpose of this SOP is to detail the methods for setting up and using the Automated intermittent respirometry software, AutoResp™ 2.3.0. This software is owned by Loligo Systems. AutoResp™ 2.3.0 is user-friendly Windows software to be used with Loligo’s automated intermittent respirometry systems allowing users to jump-start oxygen consumption measurements in aquatic organisms. The computerized multi-channel systems with fiber optic oxygen sensing technology offer unbeaten efficiency, accuracy, and time resolution of aquatic respiration data.
   - [AutoResp™ User Manual](https://loligosystems.com/media/cxqnbvfh/autoresp-user-manual-230.pdf)
   - [Witrox User Manual](https://loligosystems.com/media/v41dxbua/quick-guide-witroxview-1_2.pdf)
   - [Netio User Guide](https://www.netio-products.com/files/download/sw/version/NETIO-4x-MANUAL-en_1-3-0.pdf)
 
-### Materials:
+----
+
+### Contents:
+
+[Materials](#Materials)
+
+[Background Theory](#Background)
+- [Intermittent Respirometry](#Respy)
+- [Dissolved Oxygen](#Oxygen)
+
+[Step 1: Set-up](#1)
+
+[Step 2: Oxygen Calibration](#Calibration)
+
+[Step 3: Starting an Experiment](#Experiment)
+- [Adjusting Experimental Settings](#Settings)
+
+[Data Analysis](#Data)
+
+[Quality Assurance and Control Methods](#QA/QC)
+- [Procedure-specific QA/QC Methods:](#Procedure)
+
+
+
+----
+
+<a name = "Materials"></a> 
+### <ins>Materials</ins>
 1. Respirometry Laptop
 2. Witrox Data Acquisition Systems (Loligo Systems, Wiltrox 4)
 3. Oxygen sensors (flow-through cells)
 4. Oxygen probes
 5. Chamber system setup
 
-### Background Theory:
-**Intermittent Respirometry**
+----
+
+<a name = "Background"></a>
+### <ins>Background Theory</ins>
+
+<a name = "Respy"></a>
+### <ins>Intermittent Respirometry</ins>
 AutoResp™ is based on the principle of intermittent respirometry aiming at combining the best of both of the above methods
   1) closed
   2) flow-through respirometry. 
@@ -47,7 +79,8 @@ The measuring period is followed by a Flush period (F) where the flush pump is a
 
 Finally, the flush pump stops and the loop ends with a short Wait period (W) before starting a new measuring period. This waiting period is necessary to account for a lag in the system response resulting in a non-linear oxygen curve. During the Wait period the recirculation pump is active.
 
-**Dissolved Oxygen**
+<a name = "Oxygen"></a>
+### <ins>Dissolved Oxygen</ins>
 The oxygen capacitance coefficient ß in water is only 1/30 of that in atmospheric air, depending on barometric pressure. The concentration of oxygen in air-equilibrated water depends on water temperature and salinity. Even more importantly, the diffusion velocities of oxygen molecules are 10.000 times lower than in air. Thus oxygen is scarce and fluctuates due to environmental changes in pressure, temperature and salinity.
 - [O2] = pO2 ⋅ β
 - [O2] = concentration of oxygen in water (mgO2/l)
@@ -59,17 +92,18 @@ Atmospheric air contains c.21% oxygen, e.g. 210 mlO2/L and in general terrestria
 Thus, many aquatic organisms experience significant perturbations in oxygen levels in their natural environment, and not only due to anthropogenic effects. In environments with high biological activity, algae and plants can add high amounts of oxygen to the water during daytime photosynthesis, whereas oxygen in the water is consumed during night by the respiration of the same organisms and bacteria in some case causing severe hypoxia.
 
 Formulas
-- [O2] = PwO2 ⋅ β
+  - [O2] = PwO2 ⋅ β
 
-Where
-- PwO2 = oxygen partial pressure in water (kPa)
-- ß = oxygen solubility in water (mgO2/l/kPa)
+- Where
+  - PwO2 = oxygen partial pressure in water (kPa)
+  - ß = oxygen solubility in water (mgO2/l/kPa)
 
 From barometric pressure (BP) and vapor pressure (pH2O) the partial pressure of oxygen in fully saturated water can be calculated as:
 - pO2= (BP – pH2O) ⋅ 0.2094
 - where 0.2094 is the fraction of oxygen in the atmosphere at sea level.
 
-### Step 1: Setup
+<a name = "1"></a>
+### <ins>Step 1: Setup</ins>
 - To use AutoResp™ 2.3.0 software, the PC user must have Adminstrative status on LSCI 23122085 (Repsy Computer)
   - To obtain Workstation Admin Request, please see the following instructions. 
 - Start AutoResp™ from the start menu in Windows. Make sure to right click and run the program as “Administrator”. 
@@ -91,7 +125,8 @@ From barometric pressure (BP) and vapor pressure (pH2O) the partial pressure of 
 
 ![Picture1](https://github.com/user-attachments/assets/c3395e87-fa9b-464b-ab51-b5cbc2abc7e5)
 
-### Step 2: Oxygen Calibration
+<a name = "Calibration"></a>
+### <ins>Step 2: Oxygen Calibration</ins>
 - Oxygen Calibration in AutoResp™
   1.	The digital output from the oxygen instrument must be calibrated in the AutoResp™ software to show correct oxygen values. 
   2.	Make sure all oxygen probes are attached to appropriate Witrox DAQ.
@@ -107,7 +142,8 @@ From barometric pressure (BP) and vapor pressure (pH2O) the partial pressure of 
     ii. GitHub
     iii.	Desktop
 
-### Step 3: Starting an Experiment
+<a name = "Experiment"></a>
+### <ins>Step 3: Starting an Experiment</ins>
 - Following oxygen calibration, choose Experiment  Start to start a respirometry experiment.
 - Before the experiment starts a number of parameters must be given in order for AutoResp™ to calculate oxygen consumption rate etc. 
   - First enter the chamber volume and choose the correct unit.
@@ -145,8 +181,10 @@ _Note: AutoResp™ will continue collecting data even though graphs are set on p
 If choosing this mode of operation, take care not to leave the set up to avoid severe oxygen depletion inside the chamber due to animal respiration.
   - Intermittent – This means the experiment runs in a loop (flush, wait and measure). During each flush period, the flush pump is turned on to flush chambers with ambient water. The wait periods allow time for steady state before measurements start during the measure period. In Intermittent mode, the skip phase button allow users to jump between these three modes (flush, wait measure) immediately and on-the-fly for special applications or situations, e.g. to start flushing the chamber immediately after reaching Ucrit during a swim trial. 
   LOOP 
-  F1->W1->M1->F2->W2->M2 etc. 
-**Adjusting Experimental Settings**
+  F1->W1->M1->F2->W2->M2 etc.
+
+<a name = "Settings"></a>
+### <ins>Adjusting Experimental Settings</ins>
 - SettingsGeneral to set the settings for the experiment.
 - In the General settings it is possible to change oxygen units, water salinity or barometric pressure during experiments. It is also possible to change flush, wait and measure times.
   - Flush times should be set to allow complete renewal of water inside each chamber. This will restore oxygen values to ambient between each measurement. As a rule of thumb, cylindrical chambers should be flushed with a volume five times the chamber volume for 99% wash-out, but this depends on chamber dimensions.
@@ -165,13 +203,19 @@ _Your graph should look like this. This is a graph for one chamber only._
 
 <img width="356" alt="Picture1" src="https://github.com/user-attachments/assets/682549af-ea2a-4de8-85e3-2600ad40ddb7" />
 
-**Data Analysis**
+----
+
+<a name = "Data"></a>
+### <ins>Data Analysis</ins>
 - The analysis settings are available in Settings General.
 - Choose SMR estimation method and choose a minimum average oxygen level for estimating standard metabolic rate (SMR) to exclude any hypoxic values. For hypoxia experiments, the critical point for metabolic homeostasis (Pcrit) can be calculated automatically. Click the button to set the number of low oxygen values that should be part of the oxy-conforme curve when the animal is no longer able to regulate respiration rate independently of ambient water oxygen.
 
 <img width="410" alt="Picture1" src="https://github.com/user-attachments/assets/37277635-0896-4569-913c-f0d5dcc7fc8f" />
 
-### Quality Assurance and Control Methods
+----
+
+<a name = "QA/QC"></a>
+### <ins>Quality Assurance and Control Methods</ins>
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Quality control measures are outlined in each protocol to ensure data generated are of accurate quality. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions. Data must be entered in Excel spreadsheets by one individual and QA-QC checked by a different individual.  
  
 _Data Review_
@@ -186,7 +230,8 @@ _Data Validation_
 
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as with water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature. 
 
-_**Procedure Specific QA/QC Methods:**_
+<a name = "Procedure"></a> 
+### <ins>Procedure-specific QA/QC Methods:</ins>
 
 _Sensor calibrations_
 
