@@ -104,7 +104,7 @@ _Data Validation_
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as with water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature. 
 
 <a name = "Procedure"></a> 
-### <ins>Procedure-Specific QA/QC Methods:</ins>
+### <ins>Procedure-specific QA/QC Methods:</ins>
 
 The weight of corals will be measured using the buoyant weight technique (Jokiel et al., 1978). An Ohaus analytical balance (model 30253020; 420g x0.01g) will be used for these measurements. Scale is calibrated prior to use with a calibration weight. Corals are weighed twice to confirm accurate scale readings. Scale is zeroed every 5 corals.
 
