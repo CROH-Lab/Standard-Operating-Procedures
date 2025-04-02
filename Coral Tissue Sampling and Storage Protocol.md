@@ -180,7 +180,7 @@ Using a sterile syringe (gauge between 25G - 23G)
 ----
 
 <a name = "Waste"></a> 
-### Waste Disposal Clean-up:
+### E. Waste Disposal Clean-up:
 - Bleach, RO, and biological material can go down the drain. Run water when pouring out waste.
 - Ethanol waste needs to be put in the waste container under the hood (labeled with ethanol).
 - Rinse used tubes and bottles with a 10% bleach and RO solution and dry on drying rack.
