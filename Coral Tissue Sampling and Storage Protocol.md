@@ -18,6 +18,15 @@ Proper coral processing and the storage of biological fractionates are important
 
 ### Contents
 [**Sample Storage Table**](#Table)
+[A. Materials](#Materials)
+
+[B. Equipment](#Equipment)
+
+[C. Calibration](#Calibration)
+
+[D. Sample Measurement](#Sample)
+
+[E. Clean up and storage](#Clean)
 
 ----
 
