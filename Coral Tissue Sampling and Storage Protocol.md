@@ -27,7 +27,7 @@ Proper coral processing and the storage of biological fractionates are important
 - [C.1. Method 1](#Method1)
 - [C.2. Method 2](#Method2)
 
-[E. Clean up and storage](#Clean)
+[D. Holobiont Sampling](#Holobiont)
 
 [**Sample Storage Table**](#Table)
 
@@ -98,13 +98,15 @@ Using a sterile syringe (gauge between 25G - 23G)
 5. Transfer the collected tissue from the coral into the appropriate storage buffer by expelling the syringe to zero to deposit the collected tissue.
     - If more tissue is required, use a second sterile syringe and repeat steps 2-4. 
 
-## Holobiont sampling
-### **<ins>Sonicator</ins>**
+----
+
+<a name = "Holobiont"></a> **D. Holobiont Sampling**
+<a name =  "Sonicator"></a> **<ins>D.1. Sonicator</ins>**
 - Sonicator probe should already be vertical in housing with converter cable coming out the top, if not, then attach the probe to the converter with the supplied wrenches
 
 ![Picture1](https://github.com/user-attachments/assets/754b1e81-2aa0-499b-92c4-6243cd33882f)
 
-- Plug in Sonicator, vortex, and centrifuge.
+- Plug in sonicator, vortex, and centrifuge.
 
 | ![Picture1](https://github.com/user-attachments/assets/ed31b7cf-3044-466c-a53e-f4cb4fb34b20) | ![Picture2](https://github.com/user-attachments/assets/2b254340-0620-4ae6-b076-768e3fe0dd6f) |
 |:--:|:--:|
