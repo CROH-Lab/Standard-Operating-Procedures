@@ -96,7 +96,7 @@ Using a sterile syringe (gauge between 25G - 23G)
 4. Stick the tip of the syringe into the tissue multiple times (4x - 10x)
      - If the polyps are large, stick the syringe directly into the polyp, aspirate the syringe to collect the tissue sample
 5. Transfer the collected tissue from the coral into the appropriate storage buffer by expelling the syringe to zero to deposit the collected tissue.
-  - If more tissue is required, use a second sterile syringe and repeat steps 2-4. 
+    - If more tissue is required, use a second sterile syringe and repeat steps 2-4. 
 
 ## Holobiont sampling
 ### **<ins>Sonicator</ins>**
