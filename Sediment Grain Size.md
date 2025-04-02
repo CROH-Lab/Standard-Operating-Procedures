@@ -1,22 +1,48 @@
 # Sediment grain size determination using the sieving method
 
-### Prepared by: Coral Reef and Ocean Health Research Group
-### Last updated: February 5
-### Pre-requisite SOP: NA
-### Safety precautions: **Required PPE - <ins> cryogenic gloves, lab coat, closed-toe shoes, long pants, optional face shield </ins>**
+## Prepared by: Coral Reef and Ocean Health Research Group
+## Last updated: February 5
+## Pre-requisite SOP: NA
+## Safety precautions: **Required PPE - <ins> cryogenic gloves, lab coat, closed-toe shoes, long pants, optional face shield </ins>**
 
-## Purpose: 
+### Purpose: 
 The purpose is to sort out the sediment into fractions of different sizes.
 
-### Materials:
+----
+
+### Content:
+
+[Materials](#Materials)
+
+[Equipment](#Equipment)
+
+[Preparation](#Preparation)
+
+[Using the Sieves](#Sieves)
+
+[Tips and Reminders](#Tips)
+
+[Quality Assurance and Control Methods](#QA/QC)
+- [Procedure-specific QA/QC Methods:](#Procedure)
+
+----
+
+<a name = "Materials"></a> 
+### <ins>Materials</ins>
 1. Filter paper
 2. Funnels
 3. Jars
 
-### Equipemnt:
+----
+
+<a name = "Equipment"></a> 
+### <ins>Equipment</ins>
 1. Seive (No. 7, 35, 60, 230)
 
-### Preparation:
+----
+
+<a name = "Preparation"></a> 
+### <ins>Preparation</ins>
 - Fold filter papers into fourths to create a cone shape, weigh, and write the weight on each side of the filter in pencil
 - Set up 6 jars or beakers with funnels on top
 
@@ -30,8 +56,11 @@ The purpose is to sort out the sediment into fractions of different sizes.
   - 3 - Medium
   - 4 - Fine
   - 5 (a&b)- Silt/Clay
+
+ ----
  
- ###  Using the seives:
+<a name = "Sieves"></a> 
+### <ins>Using the Sieves</ins>
   - Stack sieves in order from top to bottom: No. 7, 35, 60, 230, then catch pan on the bottom (largest to smallest mesh, top to bottom).
 
   |![Picture1](https://github.com/user-attachments/assets/d76331b1-1ed5-4575-9ee9-f61662aea335)|![Picture1](https://github.com/user-attachments/assets/17a3058e-f560-471a-a4c1-fcd8774b1ee3)|
@@ -44,13 +73,19 @@ The purpose is to sort out the sediment into fractions of different sizes.
 
 - Use tap water to rinse sediment down through each sieve. Use a squirt bottle with tap water to rinse the sediment retained on each sieve into its respective filter. Rinse down sediment to the bottom of each filter, then lay it on a tray to dry. Once dried, filters must be weighed three times on three different days.
 
-### Tips and reminders:
+----
+
+<a name = "Tips"></a> 
+### <ins>Tips and Reminders</ins>
 - Check the catch pan once or twice during processing to make sure you are not overflowing it
 - Don’t stack the sieves too tightly on top of each other, may be difficult to break loose causing spills
 - Make sure to write filter masses in notebook and site name
 - Remember to check off bag and checklist when done processing grain size and keep together in same area!
 
-### Quality assurance and control methods:
+----
+
+<a name = "QA/QC"></a>
+### <ins>Quality Assurance and Control Methods</ins>
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Quality control measures are outlined in each protocol to ensure data generated are of accurate quality. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions. Data must be entered in Excel spreadsheets by one individual and QA-QC checked by a different individual.  
  
 _Data Review_
@@ -65,7 +100,8 @@ _Data Validation_
 
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as with water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature. 
 
-_**Procedure Specific QA/QC Method**_
+<a name = "Procedure"></a> 
+### <ins>Procedure-specific QA/QC Methods:</ins>
 
 _Equipment Maintenance_
 
