@@ -24,7 +24,8 @@ Proper coral processing and the storage of biological fractionates are important
 
 [C. DNA and RNA Sampling](#DNA)
 
-[C.1 Method 1](#Method1)
+- [C.1 Method 1](#Method1)
+- [C.2 Method 2](#Method2)
 
 [E. Clean up and storage](#Clean)
 
