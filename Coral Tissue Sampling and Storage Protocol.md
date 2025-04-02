@@ -39,7 +39,8 @@ Proper coral processing and the storage of biological fractionates are important
 
 ----
 
-<a name="Materials"></a> **A. Materials:**
+<a name="Materials"></a> 
+### A. Materials:
 1. 50mL Falcon tubes with airbrushed tissue
 2. 1000uL pipette tips
 3. 5mL pipette tips
