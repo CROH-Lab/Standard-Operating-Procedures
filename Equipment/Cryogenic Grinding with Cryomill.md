@@ -33,7 +33,7 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 ----
 
 <a name = "Materials"></a> 
-### <ins>A. Materials</ins>
+### <ins>Materials</ins>
 1. Sample sediment
 2. [Freezer/Mill Quickstart Guide]([https://pim-resources.coleparmer.com/instruction-manual/6875-freezermill-manual.pdf](https://pim-resources.coleparmer.com/instruction-manual/6875-quick-start-guide.pdf))
 3. [6875 Freezer/Mill manual](https://pim-resources.coleparmer.com/instruction-manual/6875-freezermill-manual.pdf)
@@ -41,7 +41,7 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 ----
 
 <a name = "Equipment"></a> 
-### <ins>B. Equipment</ins>
+### <ins>Equipment</ins>
 1. Spex 6875 Freezer/Mill®
 2. Large Grinding Vial
 3. Vial impactor extractor
@@ -50,7 +50,7 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 ----
 
 <a name = "Sample"></a> 
-### <ins>C. Step 1: Sample Preparation</ins>
+### <ins>Step 1: Sample Preparation</ins>
 1. Dry sediment sample in the drying oven at 80°C for 24-48 hours until dry.
 2. To load a vial, first assemble it halfway by pushing an end-plug into a center cylinder.
 
