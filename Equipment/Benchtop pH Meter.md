@@ -10,24 +10,25 @@
  
 ----
 
-#### Contents:
-[A. Materials](#Materials)
+### Contents:
 
-[B. Equipment](#Equipment)
+[Materials](#Materials)
 
-[C. Calibration](#Calibration)
+[Equipment](#Equipment)
 
-[D. Sample Measurement](#Sample)
+[Calibration](#Calibration)
 
-[E. Clean up and storage](#Clean)
+[Sample Measurement](#Sample)
 
-[F. QA/QC](#Quality)
-- [F.1. Procedure Specific QA/QC](#Procedure)
+[Clean up and storage](#Clean)
+
+[QA/QC](#Quality)
+- [Procedure Specific QA/QC](#Procedure)
 
 ----
 
 <a name="Materials"></a> 
-### <ins>A. Materials:</ins>
+### <ins>Materials:</ins>
  1. Glass beakers
  2. Rinse bottle (DI water)
  3. pH buffers (4.00, 7.00, and 10.00)
@@ -37,14 +38,14 @@
 ----
 
 <a name="Equipment"></a> 
-### <ins>B. Equipment:</ins>
+### <ins>Equipment:</ins>
  1. Bench Top pH meter (Thermo Scientific, Orion Star A111)
  2. Probe- BNMD 9157 Triode
 
 ----
 
 <a name = "Calibration"></a> 
-### <ins>C. Calibration:</ins>
+### <ins>Calibration:</ins>
  - Turn the meter on with the power button. <img width="35" alt="Picture1" src="https://github.com/user-attachments/assets/bcf26283-ebc5-4950-8160-930105f599dc" />
  - Remove from storage solution by carefully unscrewing the cap.
  - Remove fill port plug to allow gas exchange and probe equilibration.
@@ -60,7 +61,7 @@
 ----
 
 <a name = "Sample"></a> 
-### <ins>D. Sample Measurement:</ins>
+### <ins>Sample Measurement:</ins>
 - Rinse the probe with DI water into the waste beaker.
 - Gently blot the outside of the probe with a kim wipe to remove excess water to prevent and discrepancies in pH measures. <img width="28" alt="Picture1" src="https://github.com/user-attachments/assets/fac78220-f75c-4c22-b88a-ed549c9fc5e0" />
 - Lower the pH probe into the sample beaker and press measure  .
@@ -73,7 +74,7 @@
 ----
 
 <a name = "Clean"></a> 
-### <ins>E. Clean up and Storage</ins>
+### <ins>Clean up and Storage</ins>
 - When finished rinse probe with DI water and blot dry with a Kim wipe
 - Carefully place probe in storage solution container and ensure it is fully submerged
 - Close fill port
@@ -83,7 +84,7 @@
 ----
 
 <a name = "Quality"></a> 
-### <ins>F. Quality Assurance and Control</ins>
+### <ins>Quality Assurance and Control</ins>
 
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Quality control measures are outlined in each protocol to ensure data generated are of accurate quality. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions. Data must be entered in Excel spreadsheets by one individual and QA-QC checked by a different individual.  
  
@@ -100,7 +101,7 @@ _Data Validation_
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as with water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature. 
 
 <a name = "Procedure"></a> 
-### F.1. Procedure Specific QA/QC
+### <ins>Procedure-Specific QA/QC</ins>
 
 _Calibration_
 
