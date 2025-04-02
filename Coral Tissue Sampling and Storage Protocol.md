@@ -94,7 +94,7 @@ Proper coral processing and the storage of biological fractionates are important
 6. Place both tubes in a labeled cryobox in the preferred method of storage (Reference [Sample Storage Table](#Table).
 
 <a name = "Method2"><a/> 
-### C.2. Method 2:
+### <ins>C.2. Method 2:</ins>
 1. Label two 1.5mL Eppendorf tubes as follows:
    - "Individual ID", "DNA sample", the date.
      - Fill with ~750uL of DMSO
@@ -212,7 +212,7 @@ Data will be checked for compliance with the procedures outlined in the SOPs.  A
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature.
 
 <a name = "Procedure"></a> 
-### F.1. Procedure Specific QA/QC
+### <ins>F.1. Procedure Specific QA/QC</ins>
 
 *Personnel*
 
@@ -227,7 +227,7 @@ The centrifuge will be properly balanced before each use to prevent damage to th
 Reagents or standard solutions are used beyond the expiration date printed on the label. All supplies, equipment, and consumables procured for the analysis of this study are documented, inspected, and accepted in accordance with the requirements of each. 
 
 <a name = "Quick"></a> 
-### F.2. Quick Guide to Aliquoting
+### <ins>F.2. Quick Guide to Aliquoting</ins>
 1.	Place falcon tube sample in the Sonicator after it has been filled with PBS to make all samples equal in mL
     - Sonicator should be set to AMP 20% for 10 secs, do this twice
 2.	Take the sample out of the sonicator and vortex the tube for 5 seconds
