@@ -159,7 +159,7 @@ Using a sterile syringe (gauge between 25G - 23G)
 
 *Vortex between aliquots to ensure samples stay well mixed and integrated.*
 
-•	Clean Sonicator with FRESH bleach, then RO water, then thoroughly wipe with 70% ethanol. 
+•	Clean the Sonicator with FRESH bleach, then RO water, then thoroughly wipe with 70% ethanol. 
 •	Unplug Sonicator power unit (ALWAYS DO THIS FIRST). 
 
 *ALWAYS submerge probe in liquid before starting. Never run dry.*
@@ -218,11 +218,11 @@ Reagents or standard solutions are used beyond the expiration date printed on th
 
 <a name = "Quick"></a> **</ins>F.2. Quick Guide to Aliquoting</ins>**
 1.	Place falcon tube sample in the Sonicator after it has been filled with PBS to make all samples equal in mL
-  - Sonicator should be set to AMP 20% for 10 secs, do this twice
+    - Sonicator should be set to AMP 20% for 10 secs, do this twice
 2.	Take the sample out of the sonicator and vortex the tube for 5 seconds
 3.	Pipette 2, 1 mL slurry samples into their corresponding Eppendorf tubes
 4.	Place the falcon tub into the centrifuge with a balanced blank or another sample, either is fine as long as it’s balanced
-  - The centrifuge should be set at 3000 rpm and run for 5 minutes
+    - The centrifuge should be set at 3000 rpm and run for 5 minutes
 5.	Pipette 2, 1 mL sample of the remaining liquid into the 2 Protein sample tubes
 6.	Carefully pour out the rest of the liquid into a waste container, do so slowly and steadily to not remove the pellet
 7.	Pipette 5 mL of PBS into the falcon tube with the pellet
