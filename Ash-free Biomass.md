@@ -1,23 +1,39 @@
 # Standard protocol for dry tissue biomass and ash-free dry weight 
 
-### Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Dr. Davies Lab at Boston University
-### Last updated: December 9, 2024
-### Pre-requisite SOP: NA
-### Safety precautions: **Required PPE - <ins> enclosed shoes </ins>**
+## Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Dr. Davies Lab at Boston University
+## Last updated: December 9, 2024
+## Pre-requisite SOP: NA
+## Safety precautions: **Required PPE - <ins> enclosed shoes </ins>**
 
-## Purpose: 
+### Purpose: 
 Measuring coral biomass serves several crucial purposes in standardizing other biological metrics measured to understand coral response to stressors.
 
-## Materials
+---
+
+### Content:
+
+[Materials](#Materials)
+
+[Protocol](#Protocol)
+
+[Example calculations](#Example)
+
+----
+
+<a name = "Materials"></a> 
+### <ins>Materials</ins>
   - Aluminum pans (43mm) 
   - Drying oven (60°C)
   - Muffle furnace (450°C)
   - Analytical balance (resolution = 0.0001 g)
   - 15 mL falcon tubes
-  - 5 mL pipet and tips
+  - 5 mL pipette and tips
   - Centrifuge with rotors for 15 mL falcon tubes
 
-## Protocol
+----
+
+<a name = "Protocol"></a>
+### <ins>Protocol</ins>
 1. Obtain aluminum weigh pans to be used in AFDW determination
 2. Label each pan with an ID number. May use a spatula to scrape a # into bottom of pan, or use pencil. Marker WILL burn off!
   - Notes: if you run out of aluminum pans, you can use aluminum foil sheets to make your own.
@@ -49,7 +65,10 @@ Measuring coral biomass serves several crucial purposes in standardizing other b
 19.  Measure weight of burned pan + burned tissue (“D” – “F” in Table 1.). This is the AFDW of the organic fraction
 20.  The AFDW will be biomass (g) for each mL of tissue added, which will then be normalized by the total homogenate volume and skeletal surface area.    
 
-Example calculations:
+----
+
+<a name = "Example"></a>
+### <ins>Example calculations</ins>
 	
  A  | B  | C  | D  | E  | F  |  G |
 ----|----|----|----|----|----|----|
