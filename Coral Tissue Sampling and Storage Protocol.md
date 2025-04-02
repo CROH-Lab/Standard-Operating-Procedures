@@ -17,7 +17,6 @@ Proper coral processing and the storage of biological fractionates are important
 ----
 
 ### Contents
-[**Sample Storage Table**](#Table)
 
 [A. Materials](#Materials)
 
@@ -29,9 +28,11 @@ Proper coral processing and the storage of biological fractionates are important
 
 [E. Clean up and storage](#Clean)
 
+[**Sample Storage Table**](#Table)
+
 ----
 
-### Materials:
+<a name="Materials"></a> **A. Materials:**
 1. 50mL Falcon tubes with airbrushed tissue
 2. 1000uL pipette tips
 3. 5mL pipette tips
@@ -50,13 +51,17 @@ Proper coral processing and the storage of biological fractionates are important
 14. Kim wipes
 15. Two buckets of ice (one for aliquotting, one for homogenizing)
 
-### **<ins>Equipment:</ins>**
+----
+
+<a name="Equipment"></a> **B. Equipment:**
 - Sonicator and housing
 - Vortex (Four E’s Scientific, Vortex Mixer)
 - Centrifuge (VWR, Clinical Centrifuge)
 - Timer
 - 1000uL pipette (VWR)
 - 5mL pipette (VWR)
+
+----
 
 ## DNA and RNA sampling
 
