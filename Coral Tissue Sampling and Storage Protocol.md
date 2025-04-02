@@ -24,8 +24,8 @@ Proper coral processing and the storage of biological fractionates are important
 
 [C. DNA and RNA Sampling](#DNA)
 
-- [C.1 Method 1](#Method1)
-- [C.2 Method 2](#Method2)
+- [C.1. Method 1](#Method1)
+- [C.2. Method 2](#Method2)
 
 [E. Clean up and storage](#Clean)
 
@@ -66,7 +66,7 @@ Proper coral processing and the storage of biological fractionates are important
 
 <a name = "DNA"></a> **C. DNA and RNA Sampling**
 
-<a name = "Method1"><a/> **C.1 Method 1:**
+<a name = "Method1"><a/> **C.1. Method 1:**
 - Fill a 250mL beaker with 10% bleach, and two more 250mL beakers with DI or RODI water. Station them in the following order:
 
 | RODI water | 10% bleach | RODI water|
@@ -83,7 +83,7 @@ Proper coral processing and the storage of biological fractionates are important
 5. Repeat step 3, but take the sample from a different place as the DNA sample. Place the new microfragment in the RNA tube.
 6. Place both tubes in a labeled cryobox in the preferred method of storage (Reference [Sample Storage Table](#Table).
 
-<a name = "Method2"><a/> **C.2 Method 2:**
+<a name = "Method2"><a/> **C.2. Method 2:**
 1. Label two 1.5mL Eppendorf tubes as follows:
    - "Individual ID", "DNA sample", the date.
      - Fill with ~750uL of DMSO
