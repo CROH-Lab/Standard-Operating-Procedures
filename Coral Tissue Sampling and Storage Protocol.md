@@ -177,6 +177,8 @@ Using a sterile syringe (gauge between 25G - 23G)
 - Clean up all supplies (e.g., tubes, pipettes, pipette tips and put back in correct locations).
 - Rinse out the used 50mL Eppendorf tubes with RO water, clean off sharpie labels with ethanol, and place in re-use, drying rack.
 
+### ALL ALIQUOT FRACTIONS SHOULD BE PLACED IN A CRYOBOX A STORED IN THE -80ºC IMMEDIATELY
+
 ----
 
 <a name = "Waste"></a> 
