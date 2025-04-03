@@ -29,6 +29,7 @@ Total protein concentration is an estimation of soluble (water-soluble: enzymes,
 <a name = "Materials"></a> 
 ### <ins>Materials</ins>
 1. [Pierce BCA Protein Assay Kit from Thermo Scientific](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0011430_Pierce_BCA_Protein_Asy_UG.pdf).
+2. [Calcualtor for Total Protein Working Reagent Volume](https://github.com/CROH-Lab/Resources/blob/main/Templates/Calculator%20for%20BCA%20Protein%20Assay.xlsx)
 3. Clear 96 Well plate
 4. Incubator or Waterbath with range from 37°C to 50°C.
 5. Plate reader Spectrophotometer
