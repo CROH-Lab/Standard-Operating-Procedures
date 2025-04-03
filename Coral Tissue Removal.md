@@ -97,6 +97,7 @@
 
 <a name = "Tissue"></a>
 ### <ins>Removing Coral Tissue:</ins>
+- Take corals out of -80ºC freezer
 - Take coral sample out of whirlpack and place in Ziploc bag (save whirlpack for the coral skeleton)
 - Place coral in bottom corner of Ziploc bag to maximize surface area being sprayed
 - Slider to close Ziplock should be at top so you can zip your hand inside to make sure spray isn’t coming out of bag
