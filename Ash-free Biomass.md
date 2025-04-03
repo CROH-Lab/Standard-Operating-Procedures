@@ -49,7 +49,7 @@ Measuring coral biomass serves several crucial purposes in standardizing other b
 7. Remove frozen tissue homogenate from freezer and thaw.
 8. Vortex tissue homogenate and pipet 5 mL (use 5mL pipet) into a 15-mL falcon tube.
 9. Centrifuge the 15-mL tubes for 3 min. at 3500 min<sup>-1</sup>.
-10. Line cafeteria trays with aluminum foil and fill with empty pre-burned pans, using tweezers to transfer pans.
+10. Line cafeteria trays with aluminum foil and place empty pre-burned pans on trays, using tweezers to transfer pans.
 11. After centrifuging 15-mL tubes, pipet 4 mL of supernatant (host fraction) into a pre-burned pan. Record the pan number used for each sample, and indicate in notebook that this is the host fraction for that sample.
 12. Discard the remaining <1 mL of supernatant, being careful not to lose the pellet.
 13. Resuspend the symbiont pellets in 15-mL tubes with 1 mL 1xPBS. Use 5-mL pipet to break up symbiont pellet and transfer **all** of the liquid into another pre-burned pan. Record pan number and sample ID in notebook, indicating that this is the symbiont fraction.
