@@ -1,15 +1,37 @@
 # YSI SOP
 
-### Prepared by: Coral Reef and Ocean Health Research Group
-### Last updated: February 5, 2025
-### Pre-requisite SOP: NA
-### Safety precautions: **Required PPE - <ins> gloves, closed-toe shoes </ins>**
+## Prepared by: Coral Reef and Ocean Health Research Group
+## Last updated: February 5, 2025
+## Pre-requisite SOP: NA
+## Safety precautions: **Required PPE - <ins> gloves, closed-toe shoes </ins>**
 
-## Purpose: 
+### Purpose: 
 We have three YSI Sonde’s that can be used to monitor water quality parameters (Temperature, Dissolved Oxygen, Conductivity, pH, and Turbidity). The Professional Pro YSI is a handheld that does not measure Turbidity. The Pro DSS YSI is another handheld YSI that does measure all five parameters. The EXO1 Sonde is a deployable YSI for long-term monitoring.
 [Website for turbidity standards for calibration](https://www.ysi.com/product/id-607200/turbidity-standard)
 
-### Materials:
+----
+
+### Contents:
+
+[Materials](#Materials)
+
+[Equipment](#Equipment)
+
+[Cleaning Probes and Ports](#Cleaning)
+
+[Calibration](#Calibration)
+
+[Clean up and storage](#Clean)
+
+[Storage](#Storage)
+
+[QA/QC](#Quality)
+- [Procedure Specific QA/QC](#Procedure)
+
+----
+
+<a name="Materials"></a> 
+### <ins>Materials:</ins>
 1. Calibration cups, calibration rinsing cup and calibration probe guard
 2. 5-gallon bucket filled with tap water and aerator (start 24 hours before calibration)
 3. 50 mS/cm  solution
@@ -27,11 +49,17 @@ We have three YSI Sonde’s that can be used to monitor water quality parameters
 15. Kim Wipes
 16. Tap Water  
 
-### Equipment:
+----
+
+<a name="Equipment"></a> 
+### <ins>Equipment:</ins>
 1. Thermometer
 2. YSI
 
-### Cleaning Probes and Ports:
+----
+
+<a name = "Cleaning"></a>
+### <ins>Cleaning Probes and Ports</ins>
 - This should be done quarterly or once a month, depending on how the YSI is acting
 - Cleaning will be most important for the EXO1 that is deployed and will experience fouling
 - Clean top connector area with vinegar and then alcohol (Qtips and KimWipes)  
@@ -44,7 +72,10 @@ Steps: 
 4. Check O-rings in the probes and replace if need be
 5. Krytox then screw back in
 
-### Calibration: 
+----
+
+<a name = "Calibration"></a>
+### <ins>Calibration</ins>
 
 - For the EXO1 we will need the Core EXO software for calibration, this can be accessed via Bluetooth or an adapter cord.
 - The day before calibration: Fill 5-gallon bucket mostly full with tap water. Place aerator in bucket and let run for 24 hours before you begin calibration (or always keep aerator running in 5 gallon bucket) – this is for the ODO calibration.
@@ -64,12 +95,18 @@ Steps: 
 - Important Notes: If Calibration out of range, do not continue. If you think you did a bad calibration, or weird readings, reset it to factory calibration settings and try again.
 - Calibrate either every other week if using often or once a month at minimum. 
 
-### Storage: 
+----
+
+<a name = "Storage"></a>
+### <ins>Storage</ins>
 
 - Store in Tap Water (not seawater and not DI), only a small amount at the bottom, doesn’t need to be touching the probes just needs the moisture from the liquid.
 - Rinse with tap water after using every time! 
 
-### Quality Assurance and Control Methods
+----
+
+<a name = "Quality"></a> 
+### <ins>Quality Assurance and Control</ins>
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Quality control measures are outlined in each protocol to ensure data generated are of accurate quality. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions. Data must be entered in Excel spreadsheets by one individual and QA-QC checked by a different individual.   
 
 _Data Review_
@@ -84,7 +121,8 @@ _Data Validation_
 
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as with water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature.  
 
-_**Procedure Specific QA/QC Methods**_ 
+<a name = "Procedure"></a> 
+### <ins>Procedure-Specific QA/QC</ins>
 
 _YSI Equipment_
 
