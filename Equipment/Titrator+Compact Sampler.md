@@ -1,14 +1,37 @@
 # Titrator and Compact Sampler SOP
 
-### Prepared by: Coral Reef and Ocean Health Research Group
-### Last updated: February 5, 2025
-### Pre-requisite SOP: [Titrator SOP](Equipment/Titrator.md)
-### Safety precautions: **Required PPE - <ins> gloves, closed-toe shoes </ins>**
+## Prepared by: Coral Reef and Ocean Health Research Group
+## Last updated: February 5, 2025
+## Pre-requisite SOP: [Titrator SOP](Equipment/Titrator.md)
+## Safety precautions: **Required PPE - <ins> gloves, closed-toe shoes </ins>**
 
-## Purpose: 
+### Purpose: 
 The purpose of this SOP is to help the user properly measure the pH and total alkalinity of a water sample. 
 
-### Equipment:
+----
+
+### Content:
+
+[Equipment](#Equipment)
+
+[Maintenance of the pH Probe and Titrator](#Maintenance)
+
+[Preparing the Titrator - Flush and Calibration](#Preparing)
+
+[Measure the Sample](#Measure)
+- [Measuring Akalinity](#Akalinity)
+
+[Clean-up and Storage](#Clean)
+
+[Calculating Calcification](#Calculating)
+
+[Quality Assurance and Control Methods](#QA/QC)
+- [Procedure-specific QA/QC Methods:](#Procedure)
+
+----
+
+<a name = "Equipment"></a> 
+### <ins>Equipment</ins>
 1. Titrator (Metrohm, EcoTitrator)
 2. Compact Sample Changer (Metrohm)
 3. Water Bath (VWR)
@@ -16,10 +39,16 @@ The purpose of this SOP is to help the user properly measure the pH and total al
 5. 100 mL Pipette (VWR)
 6. Water aerator
 
-### Maintenance of the pH Probe and Titrator
+----
+
+<a name = "Maintenance"></a>
+### <ins>Maintenance of the pH Probe and Titrator</ins>
 Reference [Titrator SOP](Equipment/Titrator.md)
 
-### Preparing the Titrator - Flush and Calibration
+----
+
+<a name = "Perparing"></a>
+### <ins>Preparing the Titrator - Flush and Calibration</ins>
 Reference [Titrator SOP](Equipment/Titrator.md)
 
 - Lower the burette tip that dispenses reagent (HCL) is in a waste tube to prevent splash back. To do this highlight LIFT POSITION on the compact sample changer then press OK. This will move the device into WORK POSITION.
@@ -83,7 +112,10 @@ If the buffer takes more than 11s it is misreading. Stop the reading and restart
 
 *NOTES: The Compact Sample Changer and Eco Titrator are not made to sync together. This can cause miscommunication between the two machines resulting in a procedure change. The titrator may need 1 or 2 sample slots on the table to run the calibration. 
 
-### Measure the Sample
+----
+
+<a name = "Measure"></a>
+### <ins>Measure the Sample</ins>
 - Turn on the scale and tare it with the rack tube
   - Remove the tube from scale before adding sample
     - **Scale must remain dry**
@@ -95,7 +127,8 @@ If the buffer takes more than 11s it is misreading. Stop the reading and restart
 - **Do not dump any samples until the data for the sample has been recorded**
 - **If samples submerge the probe in DI tube.**
 
-### Measuring Akalinity
+<a name = "Alkalinity"></a>
+### <ins>Measuring Akalinity</ins>
 ![Picture1](https://github.com/user-attachments/assets/c1d4f8dc-2e93-4e24-80cd-4fe0dd86aa7d)
 
 - Navigate to “TITRATOR PARAMETERS” and select “HCL” as the solution
@@ -127,7 +160,10 @@ Calibration will require 1 or 2 sample slots on the sample table. See
   - Changing the DI water every 5-9 samples may increase accuracy and prevent misreads.
   - If misreads occur it is advised to place the pH probe cap with storage solution for approximately 1 minute every 5 samples to prevent them. 
 
-### Clean-up and Storage
+----
+
+<a name = "Clean"></a>
+### <ins>Clean-up and Storage</ins>
 - Rinse all probes in DI water and dry
 - Place cap with storage solution and fully saturate the bulb
 - Return burette tube and pH probe back to the lift position.
@@ -139,7 +175,10 @@ Calibration will require 1 or 2 sample slots on the sample table. See
 - If needed replenish solution within the pH probe and in the storage slot
   - These are labeled on the shelves above the titrator
 
-### Calculating Calcification
+----
+
+<a name = "Calculating"></a>
+### <ins>Calculating Calcification</ins>
 Calcification rates can be calculated using the total alkalinity (TA) technique, which was developed by Chisholm & Gattuso (1991). Water samples collected for TA at the beginning and end of the incubation from each treatment should be collected with borosilicate glass, sealed with no air space, and stored in the dark. Store at 4°C if not processing right away. Make sure that water samples are at room temperature prior to TA analysis with the above protocol. 
 
 Calcification rates can be calculated from the difference between TA measured at the beginning and the end of each incubation period (ΔTA). These changes should be corrected for blank values from filtered seawater only incubations. This accounts for changes that may occur in the water samples that are not caused by the corals (i.e., background calcification or air exchange). Calcification rates must be normalized to skeleton dry weight (see Buoyant weight SOP).
@@ -150,7 +189,10 @@ V<sub>vessel</sub> is the volume of the experimental vessel (in mL); V<sub>coral
 
 For more information about the technique and equation reference Chisholm & Gattuso (1991) or Cohen et al., (2017) Measuring coral calcification under ocean acidification: methodological considerations for the Ca-uptake and total alkalinity anomaly technique. 
 
-### Quality Assurance and Control Methods
+----
+
+<a name = "QA/QC"></a>
+### <ins>Quality Assurance and Control Methods</ins>
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Quality control measures are outlined in each protocol to ensure data generated are of accurate quality. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions. Data must be entered in Excel spreadsheets by one individual and QA-QC checked by a different individual.  
  
 _Data Review_
@@ -165,7 +207,8 @@ _Data Validation_
 
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as with water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature. 
 
-_**Procedure Specific QA/QC Methods**_
+<a name = "Procedure"></a> 
+### <ins>Procedure-specific QA/QC Methods:</ins>
 
 _Titrator_
 
