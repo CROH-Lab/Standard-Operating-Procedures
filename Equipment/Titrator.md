@@ -26,6 +26,7 @@ To assess the buffering capacity of a seawater sample
 [Clean-up and Storage](#Clean)
 
 [Calculating Calcification](#Calculating)
+- [Total alkalinity anomaly calculation](#Anomaly) 
 
 [Quality Assurance and Control Methods](#QA/QC)
 - [Procedure-specific QA/QC Methods:](#Procedure)
