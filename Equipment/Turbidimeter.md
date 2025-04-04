@@ -21,7 +21,7 @@ To determine the turbidity levels of a water sample
 
 [Documentation](#Documentation)
 
-[Process](#Process)
+[Measuring a Sample](#Process)
 
 [QA/QC](#Quality)
 - [Procedure Specific QA/QC](#Procedure)
@@ -89,7 +89,7 @@ See and fill the attached form Turbidity Field Testing Hard Copy
 ----
 
 <a name = "Process"></a>
-### <ins>Process</ins>
+### <ins>Measuring a Sample</ins>
 1. Retrieve sample bottles from refrigerator and allow to warm to room temperature. 
 - It should be noted that samples should be refrigerated at ≤6°C and may not be analyzed past 48 hours from the collection time.
 2. Tip the first sample bottle side to side to mix contents.
