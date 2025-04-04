@@ -1,32 +1,66 @@
 # Titrator Procedure SOP
 
-### Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Point Lab HIMB
-### Last updated: February 5, 2025
-### Pre-requisite SOP: NA
-### Safety precautions: **Required PPE - <ins>closed-toe shoes </ins>**
+## Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Point Lab HIMB
+## Last updated: February 5, 2025
+## Pre-requisite SOP: NA
+## Safety precautions: **Required PPE - <ins>closed-toe shoes </ins>**
 
-## Purpose: 
+### Purpose: 
 To assess the buffering capacity of a seawater sample
 
-### Materials:
+----
+
+### Content:
+
+[Materials](#Materials)
+
+[Equipment](#Equipment)
+
+[Maintenance of the pH Probe and Titrator](#Maintenance)
+
+[Preparing the Titrator - Flush and Calibration](#Preparing)
+
+[Measure the Sample](#Measure)
+- [Measuring Akalinity](#Akalinity)
+
+[Clean-up and Storage](#Clean)
+
+[Calculating Calcification](#Calculating)
+
+[Quality Assurance and Control Methods](#QA/QC)
+- [Procedure-specific QA/QC Methods:](#Procedure)
+
+----
+
+<a name = "Materials"></a>
+### <ins>Materials</ins>
 1. Glass beaker
 2. pH buffers (4 and 7)
 3. Stir bar
 4. Bubbler
 
-### Equipment:
+----
+
+<a name = "Equipment"></a> 
+### <ins>Equipment</ins>
 1. Titrator (Metrohm, EcoTitrator)
 2. Water Bath (VWR)
 3. Scale (VWR , VWR-224AC)
 4. 100 mL Pipette (VWR)
 
-### Maintenance of the pH Probe and Titrator
+----
+
+<a name = "Maintenance"></a>
+### <ins>Maintenance of the pH Probe and Titrator</ins>
 - pH probe should **ALWAYS** be submerged in liquid; either in sample solution or in storage tube with the Metrohm storage solution.
   - Once a week, the storage solution in the probe should be removed using a plastic pipette and re-filled with a new storage solution (you can use the same plastic pipette) to avoid misreads 
 - All solutions (i.e., samples, pH buffers, CRMs, etc.) must first go in the water bath at <ins>**25C**</ins> before titrator use. The titrator does not have a working temperature probe and will not give accurate results.  
 - The use of the titrator should be checked for accuracy using a 100 mL CRM sample. For CRM use, follow safety procedures for working with mercury. All CRM materials are under the hood and labeled with red tape  
 
-### Preparing the Titrator - Flush and Calibration
+----
+
+<a name = "Perparing"></a>
+### <ins>Preparing the Titrator - Flush and Calibration</ins>
 - Preparing will automatically flush system with reagent (HCl) to clear air bubbles stuck in tube
 
 ![Picture1](https://github.com/user-attachments/assets/2f10ff3a-1acf-496e-b134-ddbef4ba8950)
@@ -62,7 +96,10 @@ To assess the buffering capacity of a seawater sample
 
 ![Picture1](https://github.com/user-attachments/assets/cccaeaa6-bf93-4d40-a3c4-2ba651f98e0d)
 
-### Measure the Sample
+----
+
+<a name = "Measure"></a>
+### <ins>Measure the Sample</ins>
 - Turn on the scale and tare it with the beaker (use 150 mL beaker)
   - Remove the beaker from scale before adding sample
     - **Scale must remain dry**
@@ -74,7 +111,8 @@ To assess the buffering capacity of a seawater sample
 - **Do not dump any samples until the data for the sample has been recorded.**
 - **If processing multiple samples, submerge the probe in a beaker of seawater between samples.**
 
-### Measuring Alkalinity
+<a name = "Alkalinity"></a>
+### <ins>Measuring Akalinity</ins>
 - Set the method to ALK on the home screen
 
 ![Picture1](https://github.com/user-attachments/assets/13de1d15-9124-4cd3-94fb-9a1cf887876c)
@@ -112,7 +150,10 @@ To assess the buffering capacity of a seawater sample
 - Press START, and repeat the procedure
 Note: Every 5 samples place pH probe cap with storage solution for approximately 1 minute to prevent misreads![image](https://github.com/user-attachments/assets/2f6ecbc8-1b6f-426d-91ef-79d9471ec55f)
 
-### Clean-up and Storage
+----
+
+<a name = "Clean"></a>
+### <ins>Clean-up and Storage</ins>
 - Rinse all probes in DI water and dry
 - Place cap with storage solution and fully saturate the bulb
 - Return burette tube and pH probe back to their respective slots on the titrator
@@ -124,12 +165,16 @@ Note: Every 5 samples place pH probe cap with storage solution for approximately
 - If needed replenish solution within the pH probe and in the storage slot
   - These are labeled on the shelves above the titrator
 
-### Calculating Calcification
+----
+
+<a name = "Calculating"></a>
+### <ins>Calculating Calcification</ins>
 Calcification rates can be calculated using the total alkalinity (TA) technique, which was developed by Chisholm & Gattuso (1991). Water samples collected for TA at the beginning and end of the incubation from each treatment should be collected with borosilicate glass, sealed with no air space, and stored in the dark. Store at 4°C if not processing right away. Make sure that water samples are at room temperature prior to TA analysis with above protocol.
 
 Calcification rates can be calculated from the difference between TA measured at the beginning and the end of each incubation period ($\delta$ TA). These changes should be corrected for blank values from filtered seawater only incubations. This accounts for changes that may occur in the water samples that are not caused by the corals (i.e., background calcification or air exchange). Calcification rates must be normalized to skeleton dry weight (see Buoyant weight SOP).
 
-Total alkalinity anomaly calculation:
+<a name = "Anomaly"></a>
+**Total alkalinity anomaly calculation:**
 ![Screenshot 2025-02-05 at 12 45 10 PM](https://github.com/user-attachments/assets/d3959b58-1a4b-461f-988c-ac058973bbfd)
 
 G<sub>net</sub> = net calcification rate  (umol CaCO<sub>3</sub> g<sup>-1</sup> h<sup>-1</sup>)
@@ -146,7 +191,10 @@ t = incubation time in hours
 
 seawater density ~35 sal and 25-27°C = 1.023
 
-### Quality Assurance and Control Methods
+----
+
+<a name = "QA/QC"></a>
+### <ins>Quality Assurance and Control Methods</ins>
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Quality control measures are outlined in each protocol to ensure data generated are of accurate quality. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions. Data must be entered in Excel spreadsheets by one individual and QA-QC checked by a different individual.  
  
 _Data Review_
@@ -161,7 +209,8 @@ _Data Validation_
 
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as with water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature. 
 
-_**Procedure Specific QA/QC Methods**_
+<a name = "Procedure"></a> 
+### <ins>Procedure-specific QA/QC Methods:</ins>
 
 _Titrator_
 
