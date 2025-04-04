@@ -1,14 +1,25 @@
 # RNALater protocol
 
-### Prepared by: Coral Reef and Ocean Health Research Group
-### Last updated: January 28, 2025
-### Pre-requisite SOP: NA
-### Safety precautions: **Required PPE - <ins> enclosed shoes, gloves </ins>**
+## Prepared by: Coral Reef and Ocean Health Research Group
+## Last updated: January 28, 2025
+## Pre-requisite SOP: NA
+## Safety precautions: **Required PPE - <ins> enclosed shoes, gloves </ins>**
 
-## Purpose: 
+### Purpose: 
 Preparing and mixing the chemicals needed to make 1L of RNALater for stable tissue storage for downstream RNA analyses. 
 
-## Materials:
+----
+
+### Contents:
+
+[Materials](#Materials)
+
+[Procedure](#Procedure)
+
+----
+
+<a name="Materials"></a> 
+### <ins>Materials:</ins>
 - Ammonium Sulfate
 - Sodium Citrate (1M)
 - EDTA (0.5M)
@@ -20,7 +31,10 @@ Preparing and mixing the chemicals needed to make 1L of RNALater for stable tiss
 - Graduated cylinder
 - Filter paper (0.2 micron)
 
-### Procedure:
+----
+
+<a name="Procedure"></a> 
+### <ins>Procedure:</ins>
 
 1. Prepare Stock Solutions
 
