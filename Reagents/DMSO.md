@@ -1,14 +1,25 @@
 # 20% Salt-saturated DMSO buffer protocol
 
-### Prepared by: Coral Reef and Ocean Health Research Group: Adapted from Marine Genomics Lab
-### Last updated: January 28, 2025
-### Pre-requisite SOP: NA
-### Safety precautions: **Required PPE - <ins> enclosed shoes, gloves </ins>**
+## Prepared by: Coral Reef and Ocean Health Research Group: Adapted from Marine Genomics Lab
+## Last updated: January 28, 2025
+## Pre-requisite SOP: NA
+## Safety precautions: **Required PPE - <ins> enclosed shoes, gloves </ins>**
 
-## Purpose: 
+### Purpose: 
 Preparing and mixing the chemicals needed to make 2L of DMSO for stable tissue storage for downstream DNA analyses. 
 
-## Materials 
+----
+
+### Contents:
+
+[Materials](#Materials)
+
+[Procedure](#Procedure)
+
+----
+
+<a name="Materials"></a> 
+### <ins>Materials:</ins>
 - 2 L Beaker
 - Dimethyl Sulfoxide (DMSO)
 - EDTA (MW 292.25)
@@ -17,7 +28,10 @@ Preparing and mixing the chemicals needed to make 2L of DMSO for stable tissue s
 - pH meter
 - RODI water 
 
-## Procedure
+----
+
+<a name="Procedure"></a> 
+### <ins>Procedure:</ins>
 1. Dissolve 228.32 g EDTA in 1250 mL of deionized water
   - First, add 1250 mL of DI water to a 2L glass beaker (use plastic 1000 mL graduated cylinder to measure out the water).
   - Place a large stir bar in the beaker.
