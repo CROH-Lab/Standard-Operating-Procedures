@@ -1,14 +1,35 @@
 # Turbidimeter SOP
 
-### Prepared by: Coral Reef and Ocean Health Research Group
-### Last updated: February 5, 2025
-### Pre-requisite SOP: NA
-### Safety precautions: **Required PPE - <ins> gloves, closed-toe shoes </ins>**
+## Prepared by: Coral Reef and Ocean Health Research Group
+## Last updated: February 5, 2025
+## Pre-requisite SOP: NA
+## Safety precautions: **Required PPE - <ins> gloves, closed-toe shoes </ins>**
 
-## Purpose: 
+### Purpose: 
 To determine the turbidity levels of a water sample
 
-### Materials:
+----
+
+### Content:
+
+[Materials](#Materials)
+
+[Equipment](#Equipment)
+
+[Calibration](#Calibration)
+- [Turbidity Standards and Acceptance Criteria](#Standards)
+
+[Documentation](#Documentation)
+
+[Process](#Process)
+
+[QA/QC](#Quality)
+- [Procedure Specific QA/QC](#Procedure)
+
+----
+
+<a name = "Materials"></a> 
+### <ins>Materials</ins>
 1. Sample bottles
 2. Auto pipette
 3. Beaker
@@ -16,10 +37,16 @@ To determine the turbidity levels of a water sample
 5. Kim wipes
 6. DI water
 
-### Equipment:
+----
+
+<a name = "Equipment"></a> 
+### <ins>Equipment</ins>
 1. HACH 2100Q Portable Turbidimeter and Kit
 
-### Calibration:
+----
+
+<a name = "Calibration"></a>
+### <ins>Calibration</ins>
 1.	Perform initial calibration if not yet performed or if the calibration verification is not within the acceptable ranges. Use two or more primary standards (Formazin or styrene divinylbenzene) to perform initial calibrations.
 2.	Verify initial calibration or continued calibration with secondary turbidity standards making sure to choose standards that bracket the sample NTU ranges. Perform a continued calibration verification if use interval exceeds 24 hours unless equipment has documented proof of sustained stability. Always use the shortest stability period. 
 3.	If calibration or calibration verification fails, see APPENDIX for further instruction. 
@@ -27,7 +54,8 @@ To determine the turbidity levels of a water sample
 General Notes/concerns: 
 Always use the same set of colorless glass vials as differences in glass type affects NTU reads. **Do not** use turbidity free water as a standard. Samples should be read no later than 15 minutes from sampling time. 
 
-### Turbidity Standards and Acceptance Criteria
+<a name = "Standards"></a>
+### <ins>Turbidity Standards and Acceptance Criteria</ins>
 |_**Stnadard**_|_**Acceptance Criteria**_|
 |:---:|:---:|
 |0.1 - 10 NTU|+/- 10% of standard value|
@@ -39,7 +67,10 @@ _Only use standards specified for 2100Q Portable Turbidimeter by HACH_
 
 _Turbidity free water must meet the vendor’s stated value (typically <0.1 NTU)_
 
-### Documentation:
+----
+
+<a name = "Documentation"></a>
+### <ins>Documentation</ins>
 Chemicals and Reagents:
 Record all information pertaining to the standards, silicon oil, and turbidity free water including the following:
   - Date of receipt, date opened, and expiry dates.
@@ -55,7 +86,10 @@ Calibration:
 Field testing data:
 See and fill the attached form Turbidity Field Testing Hard Copy
 
-### Process:
+----
+
+<a name = "Process"></a>
+### <ins>Process</ins>
 1. Retrieve sample bottles from refrigerator and allow to warm to room temperature. 
 - It should be noted that samples should be refrigerated at ≤6°C and may not be analyzed past 48 hours from the collection time.
 2. Tip the first sample bottle side to side to mix contents.
@@ -73,7 +107,10 @@ See and fill the attached form Turbidity Field Testing Hard Copy
 - Note: Data that are not bracketed by passing verifications should be qualified with a J and accompanied by a comment explaining the reason the result is considered an estimated value.
 14. When you are finished make sure to double-rinse out each small glass container and then fill with DI water and place back in the turbidimeter box.
 
-### Quality Assurance and Control Methods
+----
+
+<a name = "Quality"></a> 
+### <ins>Quality Assurance and Control</ins>
 Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Quality control measures are outlined in each protocol to ensure data generated are of accurate quality. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions. Data must be entered in Excel spreadsheets by one individual and QA-QC checked by a different individual.  
  
 _Data Review_
@@ -88,7 +125,8 @@ _Data Validation_
 
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as with water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature. 
 
-_**Procedure Specific QA/QC Methods**_
+<a name = "Procedure"></a> 
+### <ins>Procedure-Specific QA/QC</ins>
 
 _Turbidimeter calibration_
 
