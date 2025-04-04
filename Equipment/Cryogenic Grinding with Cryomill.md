@@ -27,7 +27,7 @@ The purpose of this SOP is to help the user properly use the Spex Freezer/Mill t
 [Step 5: Remove vial from cryomill](#Vial)
 
 [Quality Assurance and Control Methods](#QA/QC)
-- [Procedure Specific QA/QC Methods:](#Procedure)
+- [Procedure-specific QA/QC Methods:](#Procedure)
 
 
 ----
@@ -129,7 +129,7 @@ _Data Validation_
 Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as with water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature. 
 
 <a name = "Procedure"></a> 
-### <ins>Procedure-Specific QA/QC Methods:</ins>
+### <ins>Procedure-specific QA/QC Methods:</ins>
 
 _Sample preparation_
 
