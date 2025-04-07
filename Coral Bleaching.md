@@ -6,7 +6,7 @@
 ### Caution: $${\color{red}Use \space of \space Bleach}$$
 
 ### Purpose: 
-To remove all remaining biological tissue from the coral to prepare it for skeletal measurements
+==To remove all remaining biological tissue from the coral to prepare it for skeletal measurements==
 
 ----
 
