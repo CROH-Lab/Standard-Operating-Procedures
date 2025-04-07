@@ -20,7 +20,7 @@ To determine the protein concentration of the coral host to determine coral heal
 - Paper towels
 - Aluminum foil/cleaning tray
 
-### **<ins>Equipemnt and Software</ins>**
+### **<ins>Equipment and Software</ins>**
 - Spectrophotometer
 - SoftMax Pro Software
 - Computer
