@@ -93,6 +93,7 @@ The purpose of this SOP is to help the user properly measure the pH.
 <img src="https://github.com/user-attachments/assets/26470e3f-241d-4736-b3ea-f7fca4161c11" width="800" height="400">
 
 ***Optional***
+
 Loading settings:
 - You have the option to load settings for "Analysis Method", "Settings", and "Compensation"
  - These settings will load the training sets from previously measured symbionts after using a green nuclear dye to standardize the acquisition methods for each species.
