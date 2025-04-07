@@ -37,12 +37,18 @@ The purpose of this SOP is to help the user properly measure the pH.
 <a name = "Start"></a>
 ### <ins>To Start Guava</ins>
 1. Turn on computer and instrument (switch is on the back right side). 
-2. Open Guavasoft and go to main menu. 
-3. Under 'essential tools', select 'cleaning'. 
-4. Click 'start clean' and the tray will eject. 
-5. Fill tubes according to the diagram found on the laminated cheatsheet. 
-6. Select ***9*** as the capillary shutdown position. 
-7. Ensure that the waste vial is empty and the wash vial is at least half filled with ICF. 
+2. Open Guavasoft and go to main menu.
+![GuavaSoft app](https://github.com/user-attachments/assets/d7812ecf-e616-4bb8-ba9c-6a46d614284f)
+
+4. Under 'essential tools', select 'cleaning'.
+![GuavaSoft openning screen copy](https://github.com/user-attachments/assets/c48c212e-bd19-45af-9af9-01226cc523cd)
+
+6. Click 'start clean' and the tray will eject.
+ ![GuavaClean open screen copy 2](https://github.com/user-attachments/assets/63bde77f-6e0b-45c4-8494-eba4144fd931)
+
+8. Fill tubes according to the diagram found on the laminated cheatsheet. 
+9. Select ***9*** as the capillary shutdown position. 
+10. Ensure that the waste vial is empty and the wash vial is at least half filled with ICF. 
 
 ----
 
