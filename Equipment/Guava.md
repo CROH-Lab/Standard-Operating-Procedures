@@ -50,10 +50,10 @@ The purpose of this SOP is to help the user properly measure the pH.
 <img src="https://github.com/user-attachments/assets/d7812ecf-e616-4bb8-ba9c-6a46d614284f" width="600" height="400">
 
 5. Under "Essential Tools", select "Cleaning".
-<img src="https://github.com/user-attachments/assets/c48c212e-bd19-45af-9af9-01226cc523cd" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/c48c212e-bd19-45af-9af9-01226cc523cd" width="800" height="400">
 
 7. Click the "run worksheet" button and the tray will eject.
- ![GuavaClean open screen copy 2](https://github.com/user-attachments/assets/63bde77f-6e0b-45c4-8494-eba4144fd931)
+<img src="https://github.com/user-attachments/assets/63bde77f-6e0b-45c4-8494-eba4144fd931" width="600" height="400">
 
 8. Fill tubes according to the diagram found on the laminated cheatsheet. 
 9. Select tube location ***9*** as the capillary shutdown position. 
