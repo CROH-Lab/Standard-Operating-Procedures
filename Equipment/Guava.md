@@ -26,11 +26,19 @@ The purpose of this SOP is to help the user properly measure the pH.
  
 <a name = "Materials"></a> 
 ### <ins>Materials</ins>
- 1. Glass beakers
- 2. Rinse bottle (DI water)
- 3. pH buffers (4.00, 7.00, and 10.00)
- 4. Electrode solution
- 5. Probe storage solution 
+ 1. Instrument cleaning fluid (found in drawer)
+ 2. 100% bleach in a squeeze bottle
+ 3. RODI water in a squeeze bottle
+ 4. 1.5mL capless Eppendorf tubes
+ 5. 0.25mL EasyCheck Eppendorf tubes
+ 6. EasyCheck reference kit (found in refrigerator)
+ 7. Laminated cards for tube locations (found in drawer)
+ 8. 96-well half-skirted round-bottom plate
+ 9. 0.5uL - 10uL pipette
+ 10. 10uL pipette tips
+ 11. 20uL - 200uL pipette
+ 12. 200uL pipette tips
+ 13. Kim wipes
 
 ----
 
@@ -48,7 +56,7 @@ The purpose of this SOP is to help the user properly measure the pH.
 
 8. Fill tubes according to the diagram found on the laminated cheatsheet. 
 9. Select tube location ***9*** as the capillary shutdown position. 
-10. Ensure that the waste vial is empty and the wash vial is at least half filled with ICF. 
+10. Ensure that the waste vial is empty and the wash vial is at least half-filled with ICF. 
 
 ----
 
