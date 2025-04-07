@@ -12,7 +12,7 @@ of the coral provides a more accurate surface area measurement, which is needed 
 ----
 
 ### Content:
-$${\color{lightblue}
+$${\color{orange}
 
 [Materials](#Materials)
 
