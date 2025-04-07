@@ -12,7 +12,8 @@ of the coral provides a more accurate surface area measurement, which is needed 
 ----
 
 ### Content:
-$${\color{orange}[Materials](#Materials)}$$
+
+[Materials](#Materials)
 
 [Equipment and Software](#Equipment)
 
