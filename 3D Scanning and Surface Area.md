@@ -1,4 +1,4 @@
-# $${\color{lightblue}3D Scanning \space and \space Surface \space Area \space Measurements}$$
+# $${\color{blue}3D \space Scanning \space and \space Surface \space Area \space Measurements}$$
 
 ## Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Dr. Davies Lab at Boston University
 ## Last updated: December 9, 2024
