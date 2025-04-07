@@ -47,7 +47,7 @@ The purpose of this SOP is to help the user properly measure the pH.
  ![GuavaClean open screen copy 2](https://github.com/user-attachments/assets/63bde77f-6e0b-45c4-8494-eba4144fd931)
 
 8. Fill tubes according to the diagram found on the laminated cheatsheet. 
-9. Select ***9*** as the capillary shutdown position. 
+9. Select tube location ***9*** as the capillary shutdown position. 
 10. Ensure that the waste vial is empty and the wash vial is at least half filled with ICF. 
 
 ----
