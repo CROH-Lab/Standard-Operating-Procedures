@@ -10,7 +10,7 @@ To remove all remaining biological tissue from the coral to prepare it for skele
 
 ----
 
-### <center>Content:</center>
+<center>Content:</center>
 
 [Materials](#Materials)
 
