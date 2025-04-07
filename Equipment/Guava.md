@@ -79,7 +79,7 @@ The purpose of this SOP is to help the user properly measure the pH.
 ### <ins>Aquiring Samples</ins>
 1. Open GuavaSoft
 2. Open InCyte
-<img src="https://github.com/user-attachments/assets/2513f884-cec5-4d6e-95a2-3959cd4e786c" width="800" height="500">
+<img src="https://github.com/user-attachments/assets/2513f884-cec5-4d6e-95a2-3959cd4e786c" width="600" height="500">
 
 4. Open worklist
 <img src="https://github.com/user-attachments/assets/da753a5b-5eea-419e-b043-46f4342755af" width="800" height="500">
