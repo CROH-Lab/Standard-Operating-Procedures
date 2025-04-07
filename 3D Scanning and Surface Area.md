@@ -35,7 +35,7 @@ of the coral provides a more accurate surface area measurement, which is needed 
 ----
 
 <a name = "Materials"></a>
-### <ins>center>Materials</ins>
+### <ins>Materials</ins>
 1. Scanner manual - can be found [here](https://support.einscan.com/en/support/solutions/60000333808manual/?scan_model=einscan-se&download_option=manual)
 2. Calibration object (Ex. a die with a known area)
 3. Manilla file folder
