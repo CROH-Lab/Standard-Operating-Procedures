@@ -102,6 +102,8 @@ From barometric pressure (BP) and vapor pressure (pH2O) the partial pressure of 
 - pO2= (BP – pH2O) ⋅ 0.2094
 - where 0.2094 is the fraction of oxygen in the atmosphere at sea level.
 
+----
+
 <a name = "1"></a>
 ### <ins>Step 1: Setup</ins>
 - To use AutoResp™ 2.3.0 software, the PC user must have Adminstrative status on LSCI 23122085 (Repsy Computer)
@@ -125,6 +127,8 @@ From barometric pressure (BP) and vapor pressure (pH2O) the partial pressure of 
 
 ![Picture1](https://github.com/user-attachments/assets/c3395e87-fa9b-464b-ab51-b5cbc2abc7e5)
 
+----
+
 <a name = "Calibration"></a>
 ### <ins>Step 2: Oxygen Calibration</ins>
 - Oxygen Calibration in AutoResp™
@@ -141,6 +145,8 @@ From barometric pressure (BP) and vapor pressure (pH2O) the partial pressure of 
     i.	Teams
     ii. GitHub
     iii.	Desktop
+
+----
 
 <a name = "Experiment"></a>
 ### <ins>Step 3: Starting an Experiment</ins>
