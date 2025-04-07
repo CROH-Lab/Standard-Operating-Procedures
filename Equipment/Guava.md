@@ -46,6 +46,7 @@ The purpose of this SOP is to help the user properly measure the pH.
 ### <ins>To Start Guava</ins>
 1. Turn on computer and instrument (switch is on the back right side). 
 2. Open Guavasoft and go to main menu.
+3. <img src="[image.png](https://github.com/user-attachments/assets/d7812ecf-e616-4bb8-ba9c-6a46d614284f)" width="200" height="100">
 ![GuavaSoft app](https://github.com/user-attachments/assets/d7812ecf-e616-4bb8-ba9c-6a46d614284f)
 
 4. Under 'Essential Tools', select 'cleaning'.
