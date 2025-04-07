@@ -52,7 +52,7 @@ The purpose of this SOP is to help the user properly measure the pH.
 5. Under "Essential Tools", select "Cleaning".
 <img src="https://github.com/user-attachments/assets/c48c212e-bd19-45af-9af9-01226cc523cd" width="600" height="500">
 
-7. Click the "run worksheet" button and the tray will eject.
+7. Click the "run worklist" button and the tray will eject.
 <img src="https://github.com/user-attachments/assets/63bde77f-6e0b-45c4-8494-eba4144fd931" width="700" height="400">
 
 8. Fill tubes according to the diagram found on the laminated cheatsheet. 
@@ -64,17 +64,31 @@ The purpose of this SOP is to help the user properly measure the pH.
 <a name = "EasyCheck"></a>
 ### <ins>Running EasyCheck</ins>
 1. Open Guavasoft. 
-2. Open easyCheck. 
+2. Open easyCheck.
+<img src="https://github.com/user-attachments/assets/a372af5b-f7c6-4dfc-9f73-04414b00a4a2" width="600" height="400">
+
 3. Fill wash tubes according to diagram on the laminated cheatsheet.
-4. Fill tube with 1:20 ratio of beads:dilutent (kept in the refrigerator).
-5. Indicate the position of the tube that contains the bead mixture. 
-6. Indicate capillary park position (does not have to be position 9 for easyCheck). 
+4. Mix EasyCheck reference according to the guide included with the kit (1:20 ratio)
+5. Run the worklist
+- Indicate the position of the tube that contains the bead mixture. 
+- Indicate capillary park position (does not have to be position 9 for easyCheck). 
 
 ----
 
 <a name = "Aqcuiring"></a>
 ### <ins>Aquiring Samples</ins>
+1. Open GuavaSoft
+2. Open InCyte
+<img src="https://github.com/user-attachments/assets/2513f884-cec5-4d6e-95a2-3959cd4e786c" width="600" height="400">
 
+4. Open worklist
+- Select which samples are to be measured by highlighting the samples
+ - Select the "Acquire this sample"
+  - Optional: Add sample IDs
+ - Keep all settings the same
+ - Adjust "Dilution factor" and "Original Volume" according to your samples. *THIS CAN BE SPECIFIC TO EACH SAMPLE*
+4. Click "Run Worklist"
+ 
 ----
 
 <a name = "Shutdown"></a>
