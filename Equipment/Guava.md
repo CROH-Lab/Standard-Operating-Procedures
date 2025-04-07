@@ -50,7 +50,7 @@ The purpose of this SOP is to help the user properly measure the pH.
 <img src="https://github.com/user-attachments/assets/d7812ecf-e616-4bb8-ba9c-6a46d614284f" width="600" height="400">
 
 4. Under 'Essential Tools', select 'cleaning'.
-![GuavaSoft openning screen copy](https://github.com/user-attachments/assets/c48c212e-bd19-45af-9af9-01226cc523cd)
+<img src="https://github.com/user-attachments/assets/c48c212e-bd19-45af-9af9-01226cc523cd" width="600" height="400">
 
 6. Click the "run worksheet" button and the tray will eject.
  ![GuavaClean open screen copy 2](https://github.com/user-attachments/assets/63bde77f-6e0b-45c4-8494-eba4144fd931)
