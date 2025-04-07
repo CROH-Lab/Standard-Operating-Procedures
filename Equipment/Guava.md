@@ -49,6 +49,7 @@ The purpose of this SOP is to help the user properly measure the pH.
 3. Open GuavaSoft app
 <img src="https://github.com/user-attachments/assets/d7812ecf-e616-4bb8-ba9c-6a46d614284f" width="600" height="400">
 <p><br></p>
+
 5. Under "Essential Tools", select "Cleaning".
 <img src="https://github.com/user-attachments/assets/c48c212e-bd19-45af-9af9-01226cc523cd" width="600" height="500">
 <br>
