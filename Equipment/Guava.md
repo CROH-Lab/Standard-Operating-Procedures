@@ -52,11 +52,11 @@ The purpose of this SOP is to help the user properly measure the pH.
 
 5. Under "Essential Tools", select "Cleaning".
 <img src="https://github.com/user-attachments/assets/c48c212e-bd19-45af-9af9-01226cc523cd" width="600" height="500">
-<br>
+<p><br></p>
 
 7. Click the "run worklist" button and the tray will eject.
 <img src="https://github.com/user-attachments/assets/63bde77f-6e0b-45c4-8494-eba4144fd931" width="700" height="400">
-<br>
+<p><br></p>
 
 8. Fill tubes according to the diagram found on the laminated cheatsheet. 
 9. Select tube location ***9*** as the capillary shutdown position. 
