@@ -93,25 +93,23 @@ The purpose of this SOP is to help the user properly measure the pH.
 <img src="https://github.com/user-attachments/assets/26470e3f-241d-4736-b3ea-f7fca4161c11" width="800" height="400">
 
 ***Optional***
-5. Loading settings:
+Loading settings:
 - You have the option to load settings for "Analysis Method", "Settings", and "Compensation"
  - These settings will load the training sets from previously measured symbionts after using a green nuclear dye to standardize the acquisition methods for each species.
 
 ----
 
 <a name = "Shutdown"></a>
-### <ins>Shutdown the Guava</ins>
-1. Open Guavasoft and go to main menu.
-2. Open GuavaSoft app
+1. Open GuavaSoft app
 <img src="https://github.com/user-attachments/assets/d7812ecf-e616-4bb8-ba9c-6a46d614284f" width="600" height="400">
 
-3. Under "Essential Tools", select "Cleaning".
+2. Under "Essential Tools", select "Cleaning".
 <img src="https://github.com/user-attachments/assets/c48c212e-bd19-45af-9af9-01226cc523cd" width="600" height="500">
 
-4. Click the "run worklist" button and the tray will eject.
+3. Click the "run worklist" button and the tray will eject.
 <img src="https://github.com/user-attachments/assets/63bde77f-6e0b-45c4-8494-eba4144fd931" width="700" height="400">
 
-5. Fill tubes according to the diagram found on the laminated cheatsheet. 
-6. Select tube location ***9*** as the capillary shutdown position. 
-7. Ensure that the waste vial is empty and the wash vial is at least half-filled with ICF. 
+4. Fill tubes according to the diagram found on the laminated cheatsheet. 
+5. Select tube location ***9*** as the capillary shutdown position. 
+6. Ensure that the waste vial is empty and the wash vial is at least half-filled with ICF. 
 
