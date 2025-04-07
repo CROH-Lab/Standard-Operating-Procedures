@@ -12,9 +12,7 @@ of the coral provides a more accurate surface area measurement, which is needed 
 ----
 
 ### Content:
-$${\color{orange}
-
-[Materials](#Materials)
+$${\color{orange}[Materials](#Materials)}$$
 
 [Equipment and Software](#Equipment)
 
@@ -32,8 +30,6 @@ $${\color{orange}
 
 [Quality Assurance and Control Methods](#QA/QC)
 - [Procedure-Specific QA/QC Methods](#Procedure)
-
-}$$
 
 ----
 
