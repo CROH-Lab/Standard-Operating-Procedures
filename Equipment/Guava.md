@@ -47,6 +47,7 @@ The purpose of this SOP is to help the user properly measure the pH.
 1. Turn on computer and instrument (switch is on the back right side). 
 2. Open Guavasoft and go to main menu.
 3. Open GuavaSoft app
+4. <p><bR>p></p>
 <img src="https://github.com/user-attachments/assets/d7812ecf-e616-4bb8-ba9c-6a46d614284f" width="600" height="400">
 
 5. Under "Essential Tools", select "Cleaning".
@@ -91,8 +92,6 @@ The purpose of this SOP is to help the user properly measure the pH.
  - Adjust "Dilution factor" and "Original Volume" according to your samples. *THIS CAN BE SPECIFIC TO EACH SAMPLE*
 4. Click "Run Worklist"
 <img src="https://github.com/user-attachments/assets/26470e3f-241d-4736-b3ea-f7fca4161c11" width="800" height="400">
-
-
 
 ***Optional***
 
