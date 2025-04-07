@@ -1,4 +1,4 @@
-# $${/color{lightpurple}Standard protocol for dry tissue biomass and ash-free dry weight}$$
+# $${\color{lightpurple}Standard protocol for dry tissue biomass and ash-free dry weight}$$
 
 ## Prepared by: Coral Reef and Ocean Health Research Group; Adapted from Dr. Davies Lab at Boston University
 ## Last updated: December 9, 2024
