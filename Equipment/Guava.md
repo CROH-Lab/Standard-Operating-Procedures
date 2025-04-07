@@ -40,10 +40,10 @@ The purpose of this SOP is to help the user properly measure the pH.
 2. Open Guavasoft and go to main menu.
 ![GuavaSoft app](https://github.com/user-attachments/assets/d7812ecf-e616-4bb8-ba9c-6a46d614284f)
 
-4. Under 'essential tools', select 'cleaning'.
+4. Under 'Essential Tools', select 'cleaning'.
 ![GuavaSoft openning screen copy](https://github.com/user-attachments/assets/c48c212e-bd19-45af-9af9-01226cc523cd)
 
-6. Click 'start clean' and the tray will eject.
+6. Click the "run worksheet" button and the tray will eject.
  ![GuavaClean open screen copy 2](https://github.com/user-attachments/assets/63bde77f-6e0b-45c4-8494-eba4144fd931)
 
 8. Fill tubes according to the diagram found on the laminated cheatsheet. 
