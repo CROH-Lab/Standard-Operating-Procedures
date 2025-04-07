@@ -101,6 +101,7 @@ Loading settings:
 ----
 
 <a name = "Shutdown"></a>
+### <ins>Shutting Down the Guava</ins>
 1. Open GuavaSoft app
 <img src="https://github.com/user-attachments/assets/d7812ecf-e616-4bb8-ba9c-6a46d614284f" width="600" height="400">
 
