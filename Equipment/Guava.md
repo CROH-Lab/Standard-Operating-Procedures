@@ -82,13 +82,16 @@ The purpose of this SOP is to help the user properly measure the pH.
 <img src="https://github.com/user-attachments/assets/2513f884-cec5-4d6e-95a2-3959cd4e786c" width="600" height="500">
 
 4. Open worklist
+<img src="https://github.com/user-attachments/assets/da753a5b-5eea-419e-b043-46f4342755af" width="600" height="500">
+
 - Select which samples are to be measured by highlighting the samples
  - Select the "Acquire this sample"
   - Optional: Add sample IDs
  - Keep all settings the same
  - Adjust "Dilution factor" and "Original Volume" according to your samples. *THIS CAN BE SPECIFIC TO EACH SAMPLE*
 4. Click "Run Worklist"
- 
+<img src="https://github.com/user-attachments/assets/26470e3f-241d-4736-b3ea-f7fca4161c11" width="600" height="600">
+
 ----
 
 <a name = "Shutdown"></a>
