@@ -65,7 +65,7 @@ The purpose of this SOP is to help the user properly measure the pH.
 ### <ins>Running EasyCheck</ins>
 1. Open Guavasoft. 
 2. Open easyCheck.
-<img src="https://github.com/user-attachments/assets/a372af5b-f7c6-4dfc-9f73-04414b00a4a2" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/a372af5b-f7c6-4dfc-9f73-04414b00a4a2" width="600" height="500">
 
 3. Fill wash tubes according to diagram on the laminated cheatsheet.
 4. Mix EasyCheck reference according to the guide included with the kit (1:20 ratio)
@@ -79,7 +79,7 @@ The purpose of this SOP is to help the user properly measure the pH.
 ### <ins>Aquiring Samples</ins>
 1. Open GuavaSoft
 2. Open InCyte
-<img src="https://github.com/user-attachments/assets/2513f884-cec5-4d6e-95a2-3959cd4e786c" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/2513f884-cec5-4d6e-95a2-3959cd4e786c" width="600" height="500">
 
 4. Open worklist
 - Select which samples are to be measured by highlighting the samples
