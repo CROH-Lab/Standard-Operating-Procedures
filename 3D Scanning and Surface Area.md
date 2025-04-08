@@ -47,7 +47,7 @@ of the coral provides a more accurate surface area measurement, which is needed 
 ----
 
 <a name = "Equipment"></a> 
-### <ins>Equipemnt and Software</ins>
+### <ins>Equipment and Software</ins>
 1. Einscan-SE 3D Scanner V2
 ([link here](https://www.matterhackers.com/store/l/einscan-se-desktop-3d-scanner-v2/sk/M21W1D74?rcode=PMAX_3DSCANNERS&gad_source=1&gclid=Cj0KCQiAx9q6BhCDARIsACwUxu7pOD51OZK9U7pb7UIQv4JnsGah-zn-YAVN4FoepX1He3ohGdny0QIaApx_EALw_wcB))
 2. Einscan-S software
