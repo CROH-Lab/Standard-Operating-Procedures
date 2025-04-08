@@ -1,4 +1,4 @@
-# 20% Salt-saturated DMSO buffer protocol
+# $${\color{lightblue}20% \space Salt-saturated \space DMSO \space buffer \space protocol}$$
 
 ## Prepared by: Coral Reef and Ocean Health Research Group: Adapted from Marine Genomics Lab
 ## Last updated: January 28, 2025
