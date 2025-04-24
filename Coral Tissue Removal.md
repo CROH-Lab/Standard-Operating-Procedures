@@ -7,7 +7,6 @@
 
 ### Purpose: 
 - Removal of coral tissue for analysis
-- Proper homogenization and aliquoting of sample for analysis
 
 ----
 
