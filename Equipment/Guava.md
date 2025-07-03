@@ -28,17 +28,18 @@ The purpose of this SOP is to help the user properly measure the pH.
 ### <ins>Materials</ins>
  1. Instrument cleaning fluid (found in drawer)
  2. 100% bleach in a squeeze bottle
- 3. RODI water in a squeeze bottle
- 4. 1.5mL capless Eppendorf tubes
- 5. 0.25mL EasyCheck Eppendorf tubes
- 6. EasyCheck reference kit (found in refrigerator)
- 7. Laminated cards for tube locations (found in drawer)
- 8. 96-well half-skirted round-bottom plate
- 9. 0.5uL - 10uL pipette
- 10. 10uL pipette tips
- 11. 20uL - 200uL pipette
- 12. 200uL pipette tips
- 13. Kim wipes
+ 3. 10% bleach in a squeeze bottle
+ 4. RODI water in a squeeze bottle
+ 5. 1.5mL capless Eppendorf tubes
+ 6. 0.25mL EasyCheck Eppendorf tubes
+ 7. EasyCheck reference kit (found in refrigerator)
+ 8. Laminated cards for tube locations (found in drawer)
+ 9. 96-well half-skirted round-bottom plate
+ 10. 0.5uL - 10uL pipette
+ 11. 10uL pipette tips
+ 12. 20uL - 200uL pipette
+ 13. 200uL pipette tips
+ 14. Kim wipes
 
 ----
 
