@@ -57,8 +57,8 @@ The human eye can see three color channels: red, blue, and green. But, because e
     - Make sure images are in .RAW format!!! DSLR cameras automatically save files in their respective .RAW format but it is always safe to double check.
 3)	Mark tripod feet and leg length adjustments with tape so that if the camera has to be moved, it can be placed back in the SAME EXACT POSITION.  
 
-|-|-|
 |![Picture1](https://github.com/user-attachments/assets/74457996-4eb0-4530-a6eb-df21fe7c5c25)|![Picture1](https://github.com/user-attachments/assets/a7d6264a-bee9-496b-be82-42725abbeeec)|
+|:-:|:-:|
 
 
 
