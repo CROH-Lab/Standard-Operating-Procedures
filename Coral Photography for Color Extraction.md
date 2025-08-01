@@ -16,7 +16,7 @@ The human eye can see three color channels: red, blue, and green. But, because e
 
 [Protocol](#Protocol)
 
-[QA/QC](#Protocol)
+[QA/QC](#QA/QC)
 
 ----
 
