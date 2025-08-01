@@ -36,10 +36,10 @@ The human eye can see three color channels: red, blue, and green. But, because e
 ### <ins>Protocol</ins>
 
 1. Aquarium setup:
-  a. Thoroughly clean glass aquarium and make sure there are no obvious stains or scratches before use. Mark placement of aquarium on the table with tape.
-  b. Place white background bord in the middle of the aquarium and the correction card flat against the back of it with black/white/gray swatches facing inside of the tank (DGK color tools). 
-  c. Attach overhead lighting and turn on. Make sure color card is fully illuminated and adjust if needed. When properly adjusted, mark placement of lights with tape so that illumination remains consistent. 
-  d. Place white waterproof paper next to color correction card flat against back glass. Use tape to keep in place if needed. Take a picture of the paper in order to adjust WB. Make sure the light is equality distribute on the white paper.
-  e. Place coral stand in front of the white paper close to the color swatches. Coral should be in the middle of the image. Find proper depth placement of coral stand so that coral is fully illuminated. Mark with tape so that position of stand/coral, white paper, and color correction card stay in the exact same position throughout the experiment.
+  - Thoroughly clean glass aquarium and make sure there are no obvious stains or scratches before use. Mark placement of aquarium on the table with tape.
+  - Place white background bord in the middle of the aquarium and the correction card flat against the back of it with black/white/gray swatches facing inside of the tank (DGK color tools).
+  - Attach overhead lighting and turn on. Make sure color card is fully illuminated and adjust if needed. When properly adjusted, mark placement of lights with tape so that illumination remains consistent.
+  - Place white waterproof paper next to color correction card flat against back glass. Use tape to keep in place if needed. Take a picture of the paper in order to adjust WB. Make sure the light is equality distribute on the white paper.
+  - Place coral stand in front of the white paper close to the color swatches. Coral should be in the middle of the image. Find proper depth placement of coral stand so that coral is fully illuminated. Mark with tape so that position of stand/coral, white paper, and color correction card stay in the exact same position throughout the experiment.
 
 
