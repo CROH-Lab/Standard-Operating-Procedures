@@ -35,11 +35,26 @@ The human eye can see three color channels: red, blue, and green. But, because e
 <a name = "Protocol"></a>
 ### <ins>Protocol</ins>
 
-1. Aquarium setup:
+1. **Aquarium setup:**
   - Thoroughly clean glass aquarium and make sure there are no obvious stains or scratches before use. Mark placement of aquarium on the table with tape.
   - Place white background bord in the middle of the aquarium and the correction card flat against the back of it with black/white/gray swatches facing inside of the tank (DGK color tools).
   - Attach overhead lighting and turn on. Make sure color card is fully illuminated and adjust if needed. When properly adjusted, mark placement of lights with tape so that illumination remains consistent.
   - Place white waterproof paper next to color correction card flat against back glass. Use tape to keep in place if needed. Take a picture of the paper in order to adjust WB. Make sure the light is equality distribute on the white paper.
   - Place coral stand in front of the white paper close to the color swatches. Coral should be in the middle of the image. Find proper depth placement of coral stand so that coral is fully illuminated. Mark with tape so that position of stand/coral, white paper, and color correction card stay in the exact same position throughout the experiment.
+
+![Picture1](https://github.com/user-attachments/assets/23bc2f34-d858-4dcc-9c84-ac7fc15c7418)
+
+2)	**Camera setup:**
+  - Make sure the camera battery is charged, then connect the camera to tripod.
+  - Adjust tripod and camera angle so that the corals are directly in the middle of the image.
+  - Adjust camera settings so that the coral is illuminated, and images are clear. Keep these same settings for the entire experiment.
+    - Recommended settings for Canon G16 DSLR (depend on amount of lighting available):
+    - AUTO Focus
+    - ISO 200
+    - Shutter speed 1/30
+    - Aperture Focus:4.0
+    - White balance
+    - Make sure images are in .RAW format!!! DSLR cameras automatically save files in their respective .RAW format but it is always safe to double check.
+3)	Mark tripod feet and leg length adjustments with tape so that if the camera has to be moved, it can be placed back in the SAME EXACT POSITION.  
 
 
