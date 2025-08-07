@@ -146,3 +146,23 @@ Press open at the bottom left to enter photoshop and make sure the image is 6bit
   - $${\color{red} WARNING!! \space}$$ Do not click on any colors external of the color table while the color table is open, it may override swatch values!!
 
 9.	Close Color Table and image that is being worked on. **DO NOT SAVE CHANGES WHEN CLOSING THE IMAGE!!** The indexed area of the coral should NOT be saved, only the Area Selected. This will allow the re-indexing of the coral without having to save an additional file.
+
+---
+
+<a name = "QA/QC"></a>
+### <ins> Quality Assurance and Control</ins>
+_Proper Training_
+
+Proper protocols and training must be implemented to ensure the quality of data generated in the laboratory. Researchers must ensure that all equipment is accurately calibrated, inspected, and maintained according to the manufacturer’s instructions.
+
+_Data Review_
+
+All laboratory data will be reviewed for completeness and transfer errors. Data will be reviewed by a second individual after entry into Excel spreadsheets by comparing the entered, electronic data to the original records (e.g., hand-written datasheets or laboratory notebooks).  Data will be summarized as descriptive statistics and in tabular and graphical form to allow visual inspection and verification, and comparison to expected or target values. 
+ 
+_Data Verification_
+
+Data will be checked for compliance with the procedures outlined in the SOPs.  Any deviations from those procedures and the impact on the quality of the data will be assessed and discussed with Task Members. Any laboratory data outliers will be flagged.
+ 
+_Data Validation_
+
+Once the data has been reviewed and verified, it will be assessed to determine the overall acceptability of the objectives of the project.  Blank samples, such as water quality testing, will be used to determine any biases or instrument calibration issues during the sample collection and analysis processes.  Control samples will be used to determine the condition of the experimental test specimens in the absence of experimental treatments or exposures.  Any errors in datasets detected will be discussed with lab members and project leads to determine the impact on the data and its use for the project.  If there are any limitations to the data, they will be disclosed as part of the published literature.
