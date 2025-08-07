@@ -102,7 +102,6 @@ Press open at the bottom left to enter photoshop and make sure the image is 6bit
 - Open batch-edited coral image(s) in Photoshop (or take color-curve corrected image that is already open).
 - Select the coral using quick select. 
 
-|-|-|-|
 |![seelct](https://github.com/user-attachments/assets/e21bd888-eb93-4249-a661-bea6d6845b8c)|![coral select](https://github.com/user-attachments/assets/50564e2d-7dc1-48eb-ace1-eecd89c11a60)|![only coral](https://github.com/user-attachments/assets/e098f968-3896-4c51-9126-af204978b482)|
 |:-:|:-:|:-:|
 
@@ -119,7 +118,6 @@ Press open at the bottom left to enter photoshop and make sure the image is 6bit
 
 - *Select color area*: Select mask layer and select eraser tool. Adjust tool size on left side of top toolbar and increase hardness to 100%. Paint over areas on coral to be excluded.
 
-|-|-|
 |![Picture1](https://github.com/user-attachments/assets/480f3c00-9f9f-4ed7-b3ba-0c882153338a)|
 ![Picture1](https://github.com/user-attachments/assets/c4b1af87-7fd8-45cd-a536-012befa4bf15)|
 |:-:|:-:|
@@ -133,7 +131,6 @@ Press open at the bottom left to enter photoshop and make sure the image is 6bit
 
 6.	**Index the Color** by going to Image -> Mode -> Indexed Color. Merge all visible layers, which will discard the background layer. Set the Indexed Color settings to Local (selective), 11 colors (to get the top 10 colors and ignore the grey/white squares), forced: None. 
 
-||||
 |![Picture1](https://github.com/user-attachments/assets/0b908b1d-c776-4e6a-a5ab-16309720c5b1)|![Picture1](https://github.com/user-attachments/assets/bd3c53f5-3031-400a-9e02-2ebbb5d28f25)|
 |:-:|:-:|
 
@@ -143,7 +140,6 @@ Press open at the bottom left to enter photoshop and make sure the image is 6bit
 
 <img width="468" height="198" alt="Picture1" src="https://github.com/user-attachments/assets/8a8e6c49-a90b-4570-9c06-0ad5a3f6d56f" />
 
-||||
 |<img width="146" height="184" alt="Picture1" src="https://github.com/user-attachments/assets/c3b20c0d-0fd9-4806-adfb-bf5b955bdada" />|<img width="274" height="164" alt="Picture1" src="https://github.com/user-attachments/assets/c5aadee5-1dbd-456f-aa9b-ce713a8922e3" />|
 |:-:|:-:|
 
