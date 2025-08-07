@@ -130,6 +130,7 @@ Press open at the bottom left to enter photoshop and make sure the image is 6bit
 
 <img width="134" height="59" alt="Picture1" src="https://github.com/user-attachments/assets/8d95d7ee-3511-4a76-848e-3a1e66cd1eec" />
 
+
 <img width="468" height="198" alt="Picture1" src="https://github.com/user-attachments/assets/8a8e6c49-a90b-4570-9c06-0ad5a3f6d56f" />
 
 |<img width="146" height="184" alt="Picture1" src="https://github.com/user-attachments/assets/c3b20c0d-0fd9-4806-adfb-bf5b955bdada" />|<img width="274" height="164" alt="Picture1" src="https://github.com/user-attachments/assets/c5aadee5-1dbd-456f-aa9b-ce713a8922e3" />|
