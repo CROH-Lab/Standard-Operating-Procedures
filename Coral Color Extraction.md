@@ -108,7 +108,79 @@ Press open at the bottom left to enter photoshop and make sure the image is 6bit
 
 <img width="468" height="250" alt="new coral select" src="https://github.com/user-attachments/assets/94046433-7b40-46e9-8bfa-8505c0821c1e" />
 
-- Command+(or Ctrl+)C, Command(or Ctrl+)V to put the coral area only on a different layer. <img width="470" height="52" alt="image" src="https://github.com/user-attachments/assets/6ece18b5-1170-40ab-8201-95319abfe8cd" />
+- Command+(or Ctrl+)C, Command(or Ctrl+)V to put the coral area only on a different layer.
+
+<img width="468" height="305" alt="Picture1" src="https://github.com/user-attachments/assets/60ac7582-cb41-48d9-acfa-f0d4c628494f" />
+
+- Create a mask of the image by clicking this icon on bottom right of window. Hide the original (background)image.
+  - On the bottom right of the screen deselect the ‘background’ layer so only the color curve and/or layer 1 are highlighted.
+
+![Picture1](https://github.com/user-attachments/assets/78788fcb-558b-41d5-89f5-e87b0cf60e56)
+
+- *Select color area*: Select mask layer and select eraser tool. Adjust tool size on left side of top toolbar and increase hardness to 100%. Paint over areas on coral to be excluded.
+
+|-|-|
+|![Picture1](https://github.com/user-attachments/assets/480f3c00-9f9f-4ed7-b3ba-0c882153338a)|
+![Picture1](https://github.com/user-attachments/assets/c4b1af87-7fd8-45cd-a536-012befa4bf15)|
+|:-:|:-:|
+
+  - Make sure the visible area excludes shadows, bubbles, calcifying tips, edges, and anything that is NOT an illuminated, clear image of coral connective tissue.
+
+<img width="468" height="273" alt="Picture1" src="https://github.com/user-attachments/assets/0d587467-a377-4c00-87fd-c384a14fc6ff" />
+
+  - When done, save file (Ctrl+Shift+S or Command+Shift+S) in the Area Select folder as (filename(AS)).psd. This saves the specific area to be indexed.
+    - Note: changing the area of the selected coral will change most, if not all, of the swatch values. Be sure the area is adequate before color indexing.
+
+6.	**Index the Color** by going to Image -> Mode -> Indexed Color. Merge all visible layers, which will discard the background layer. Set the Indexed Color settings to Local (selective), 11 colors (to get the top 10 colors and ignore the grey/white squares), forced: None. 
+
+|-|-|
+|![Picture1](https://github.com/user-attachments/assets/0b908b1d-c776-4e6a-a5ab-16309720c5b1)|![Picture1](https://github.com/user-attachments/assets/bd3c53f5-3031-400a-9e02-2ebbb5d28f25)|
+|:-:|:-:|
+
+7.	**Create the color table** in Image -> Mode -> Color Table. Save the 10 most frequent colors from each area to swatches and save as color table (filename(CT)) with .act extension. This saves the swatches.
+
+<img width="134" height="59" alt="Picture1" src="https://github.com/user-attachments/assets/8d95d7ee-3511-4a76-848e-3a1e66cd1eec" />
+
+<img width="468" height="198" alt="Picture1" src="https://github.com/user-attachments/assets/8a8e6c49-a90b-4570-9c06-0ad5a3f6d56f" />
+
+|-|-|
+|<img width="146" height="184" alt="Picture1" src="https://github.com/user-attachments/assets/c3b20c0d-0fd9-4806-adfb-bf5b955bdada" />|<img width="274" height="164" alt="Picture1" src="https://github.com/user-attachments/assets/c5aadee5-1dbd-456f-aa9b-ce713a8922e3" />|
+|:-:|:-:|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
