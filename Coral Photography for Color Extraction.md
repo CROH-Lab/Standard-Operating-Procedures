@@ -28,7 +28,7 @@ The human eye can see three color channels: red, blue, and green. But, because e
 - Waterproof paper
 - Waterproof tape
 - Abundant overhead lighting
-- Color Correction card with white, black, and neutral (gray) swatches
+- Color Correction card with white, black, and neutral (gray) swatches ([DKG Waterproof Card example](https://www.amazon.com/gp/product/B00ESE2DD6/ref=sw_img_1?smid=A1UUEPXY2R0JE0&psc=1)
 - Camera (that can capture images in .RAW format with white balancing setting)
 - Tripod/stand for camera
 
