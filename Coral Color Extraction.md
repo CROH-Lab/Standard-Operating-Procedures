@@ -142,6 +142,24 @@ Press open at the bottom left to enter photoshop and make sure the image is 6bit
 |<img width="146" height="184" alt="Picture1" src="https://github.com/user-attachments/assets/c3b20c0d-0fd9-4806-adfb-bf5b955bdada" />|<img width="274" height="164" alt="Picture1" src="https://github.com/user-attachments/assets/c5aadee5-1dbd-456f-aa9b-ce713a8922e3" />|
 |:-:|:-:|
 
+![Picture1](https://github.com/user-attachments/assets/8612985c-1173-4c28-8264-6c0700a12955)
+
+8.	Record the **RGB**, **CMYK**, and **HSB** values from each swatch (the top 10 from the color table) from each coral fragment on a hard copy paper datasheet and in a corresponding Excel datasheet. The swatches are saved in the same order and opening the .act file in photoshop will allow you to go back to them later by clicking on the square in the color tab.
+
+|<img width="187" height="192" alt="Picture1" src="https://github.com/user-attachments/assets/df7e452b-9c9f-4ade-8ba5-0e820d785ba8" />|<img width="219" height="251" alt="Picture1" src="https://github.com/user-attachments/assets/2b0aad98-7d1e-481f-b851-70218b2b059d" />|![Picture1](https://github.com/user-attachments/assets/89d39c1f-6a22-4414-bdc5-ecf69b07955e)|
+|:-:|:-:|:-:|
+
+  - <span style="color:red">some **WARNING!!** text</span> Do not click on any colors external of the color table while the color table is open, it may override swatch values!!
+
+
+
+
+
+
+
+
+
+
 
 
 
