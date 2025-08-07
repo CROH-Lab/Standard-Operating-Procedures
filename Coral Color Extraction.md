@@ -151,6 +151,11 @@ Press open at the bottom left to enter photoshop and make sure the image is 6bit
 
   - $${\color{red} \bold WARNING \space !! \space}$$ Do not click on any colors external of the color table while the color table is open, it may override swatch values!!
 
+9.	Close Color Table and image that is being worked on. **DO NOT SAVE CHANGES WHEN CLOSING THE IMAGE!!** The indexed area of the coral should NOT be saved, only the Area Selected. This will allow the re-indexing of the coral without having to save an additional file.
+
+
+
+
 
 
 
