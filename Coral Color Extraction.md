@@ -93,6 +93,24 @@ Press open at the bottom left to enter photoshop and make sure the image is 6bit
 
   - Find the dropper icons on the bottom of the chart
 
+<img width="468" height="234" alt="Picture1" src="https://github.com/user-attachments/assets/cbbc788e-8119-4b15-9092-e9d109b541e3" />
+
+  - Select each dropper and click the corresponding correction swatch on the color correction card in the image. The black, grey, and white dropper each have their own icon.
+    - Choose which grey (neutral) swatch works the best, and use the same swatch for consistency press OK
+
+5.	Color Extracting
+- Open batch-edited coral image(s) in Photoshop (or take color-curve corrected image that is already open).
+- Select the coral using quick select. 
+
+|-|-|-|
+|![seelct](https://github.com/user-attachments/assets/e21bd888-eb93-4249-a661-bea6d6845b8c)|![coral select](https://github.com/user-attachments/assets/50564e2d-7dc1-48eb-ace1-eecd89c11a60)|![only coral](https://github.com/user-attachments/assets/e098f968-3896-4c51-9126-af204978b482)|
+|:-:|:-:|:-:|
+
+<img width="468" height="250" alt="new coral select" src="https://github.com/user-attachments/assets/94046433-7b40-46e9-8bfa-8505c0821c1e" />
+
+- Command+(or Ctrl+)C, Command(or Ctrl+)V to put the coral area only on a different layer. <img width="470" height="52" alt="image" src="https://github.com/user-attachments/assets/6ece18b5-1170-40ab-8201-95319abfe8cd" />
+
+
 
 
 
