@@ -21,10 +21,6 @@ Color values must be extracted from these images using Photoshop in order to ass
 
 [Protocol](#Protocol)
 
-  [Color extraction](#Color)
-
-[Notes](#Notes)
-
 [Quality Assurance and Control Methods](#QA/QC)
 - [Procedure-Specific QA/QC Methods](#Procedure)
 
@@ -42,8 +38,6 @@ Color values must be extracted from these images using Photoshop in order to ass
 <a name = "Protocol"></a>
 ### <ins>Protocol</ins>
 
-<a name = "Color"></a>
-### <ins>Color extraction</ins>
 1.	Organize coral files in Adobe Bridge according to experimental parameters (do this PRIOR to any analysis). 
   - .RAW photos should be clear, and show the coral fragment, the color reference card, and the sample name.
   - Have available folders:
@@ -152,55 +146,3 @@ Press open at the bottom left to enter photoshop and make sure the image is 6bit
   - $${\color{red} WARNING!! \space}$$ Do not click on any colors external of the color table while the color table is open, it may override swatch values!!
 
 9.	Close Color Table and image that is being worked on. **DO NOT SAVE CHANGES WHEN CLOSING THE IMAGE!!** The indexed area of the coral should NOT be saved, only the Area Selected. This will allow the re-indexing of the coral without having to save an additional file.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
