@@ -30,7 +30,7 @@ The human eye can see three color channels: red, blue, and green. But, because e
 - Abundant overhead lighting
 - Color Correction card with white, black, and neutral (gray) swatches ([DKG Waterproof Card example](https://www.amazon.com/gp/product/B00ESE2DD6/ref=sw_img_1?smid=A1UUEPXY2R0JE0&psc=1))
 - Camera (that can capture images in .RAW format with white balancing setting)
-- Tripod/stand for camera
+- Tripod/stand for the camera
 
 ----
 
@@ -39,7 +39,7 @@ The human eye can see three color channels: red, blue, and green. But, because e
 
 1. **Aquarium setup:**
   - Thoroughly clean glass aquarium and make sure there are no obvious stains or scratches before use. Mark placement of aquarium on the table with tape.
-  - Place white background bord in the middle of the aquarium and the correction card flat against the back of it with black/white/gray swatches facing inside of the tank (DGK color tools).
+  - Place white background board in the middle of the aquarium and the correction card flat against the back of it with black/white/gray swatches facing inside of the tank (DGK color tools).
   - Attach overhead lighting and turn on. Make sure color card is fully illuminated and adjust if needed. When properly adjusted, mark placement of lights with tape so that illumination remains consistent.
   - Place white waterproof paper next to color correction card flat against back glass. Use tape to keep in place if needed. Take a picture of the paper in order to adjust WB. Make sure the light is equality distribute on the white paper.
   - Place coral stand in front of the white paper close to the color swatches. Coral should be in the middle of the image. Find proper depth placement of coral stand so that coral is fully illuminated. Mark with tape so that position of stand/coral, white paper, and color correction card stay in the exact same position throughout the experiment.
@@ -78,7 +78,7 @@ The human eye can see three color channels: red, blue, and green. But, because e
 ![Picture1](https://github.com/user-attachments/assets/88eeaba0-13eb-44ff-a9c5-045c0351b383)
 
 5)	Naming Picture Files:
-- Locate the “Experiment folder” on Google Drive for the project. Upload all of the images in the “Experiment Folder” and create subfolders by “Date (yearmonthday)”, creat subfolders for each sample including the wril-pak image name the folder (SampleName_YYYYMMDD).
+- Locate the “Experiment folder” on Google Drive for the project. Upload all of the images in the “Experiment Folder” and create subfolders by “Date (yearmonthday)”, create subfolders for each sample including the wril-pak image name the folder (SampleName_YYYYMMDD).
 - For each sample, choose the image that is the clearest and best exposed, Copy this image into the “To Process Photos” folder and name that file according to the naming scheme (SampleName_YYYYMMDD_IMG_###, e.g., AS-A3_20241206_IMG_2294.CR2). Keep the original photos in the sample folder for a backup.
 - ***DO NOT DELETE IMAGES FROM THE SD CARD***
 
