@@ -118,8 +118,7 @@ Press open at the bottom left to enter photoshop and make sure the image is 6bit
 
 - *Select color area*: Select mask layer and select eraser tool. Adjust tool size on left side of top toolbar and increase hardness to 100%. Paint over areas on coral to be excluded.
 
-|![Picture1](https://github.com/user-attachments/assets/480f3c00-9f9f-4ed7-b3ba-0c882153338a)|
-![Picture1](https://github.com/user-attachments/assets/c4b1af87-7fd8-45cd-a536-012befa4bf15)|
+|![Picture1](https://github.com/user-attachments/assets/480f3c00-9f9f-4ed7-b3ba-0c882153338a)|![Picture1](https://github.com/user-attachments/assets/c4b1af87-7fd8-45cd-a536-012befa4bf15)|
 |:-:|:-:|
 
   - Make sure the visible area excludes shadows, bubbles, calcifying tips, edges, and anything that is NOT an illuminated, clear image of coral connective tissue.
