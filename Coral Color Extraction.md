@@ -133,7 +133,7 @@ Press open at the bottom left to enter photoshop and make sure the image is 6bit
 
 6.	**Index the Color** by going to Image -> Mode -> Indexed Color. Merge all visible layers, which will discard the background layer. Set the Indexed Color settings to Local (selective), 11 colors (to get the top 10 colors and ignore the grey/white squares), forced: None. 
 
-|-|-|
+||||
 |![Picture1](https://github.com/user-attachments/assets/0b908b1d-c776-4e6a-a5ab-16309720c5b1)|![Picture1](https://github.com/user-attachments/assets/bd3c53f5-3031-400a-9e02-2ebbb5d28f25)|
 |:-:|:-:|
 
@@ -143,7 +143,7 @@ Press open at the bottom left to enter photoshop and make sure the image is 6bit
 
 <img width="468" height="198" alt="Picture1" src="https://github.com/user-attachments/assets/8a8e6c49-a90b-4570-9c06-0ad5a3f6d56f" />
 
-|-|-|
+||||
 |<img width="146" height="184" alt="Picture1" src="https://github.com/user-attachments/assets/c3b20c0d-0fd9-4806-adfb-bf5b955bdada" />|<img width="274" height="164" alt="Picture1" src="https://github.com/user-attachments/assets/c5aadee5-1dbd-456f-aa9b-ce713a8922e3" />|
 |:-:|:-:|
 
