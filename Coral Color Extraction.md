@@ -22,7 +22,6 @@ Color values must be extracted from these images using Photoshop in order to ass
 [Protocol](#Protocol)
 
 [Quality Assurance and Control Methods](#QA/QC)
-- [Procedure-Specific QA/QC Methods](#Procedure)
 
 ----
 
