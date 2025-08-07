@@ -54,7 +54,7 @@ Color values must be extracted from these images using Photoshop in order to ass
 
 ![Picture1](https://github.com/user-attachments/assets/f1d7ea8f-247d-4251-a082-02e258ddf5a9)
 
-- In optics: Check boxes for ‘remove chromatic aberration’ and ‘use profile corrections’ (make sure camera used in photos is selected)<img width="470" height="52" alt="image" src="https://github.com/user-attachments/assets/bf926d8f-2bda-4ce0-bdd8-09c360605271" />
+- In optics: Check boxes for ‘remove chromatic aberration’ and ‘use profile corrections’ (make sure camera used in photos is selected)
 
 ![Picture1](https://github.com/user-attachments/assets/eec062b7-6207-45ef-8fc0-d9146fccfc9b)
 
