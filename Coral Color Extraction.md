@@ -149,7 +149,7 @@ Press open at the bottom left to enter photoshop and make sure the image is 6bit
 |<img width="187" height="192" alt="Picture1" src="https://github.com/user-attachments/assets/df7e452b-9c9f-4ade-8ba5-0e820d785ba8" />|<img width="219" height="251" alt="Picture1" src="https://github.com/user-attachments/assets/2b0aad98-7d1e-481f-b851-70218b2b059d" />|![Picture1](https://github.com/user-attachments/assets/89d39c1f-6a22-4414-bdc5-ecf69b07955e)|
 |:-:|:-:|:-:|
 
-  - <span style="color:red">some **WARNING!!** text</span> Do not click on any colors external of the color table while the color table is open, it may override swatch values!!
+  - <span style="color:red"> **WARNING!!** text</span> Do not click on any colors external of the color table while the color table is open, it may override swatch values!!
 
 
 
