@@ -52,7 +52,7 @@ Color values must be extracted from these images using Photoshop in order to ass
 - Mass-select images in Camera Raw again using Ctrl+A or Command+A so edit all images at once.
 - Click setting link on bottom of window and input correct camera settings (Camera raw prefernences (only needs to be done once per profile): workflow: Preset = Custom; Space = Adobe RBG (1998); Depth = 8 bit
 
-![Picture1](https://github.com/user-attachments/assets/f1d7ea8f-247d-4251-a082-02e258ddf5a9)
+![Picture1](https://github.com/user-attachments/assets/f1d7ea8f-247d-4251-a082-02e258ddf5a9 = 100x100)
 
 - In optics: Check boxes for ‘remove chromatic aberration’ and ‘use profile corrections’ (make sure camera used in photos is selected)
 
