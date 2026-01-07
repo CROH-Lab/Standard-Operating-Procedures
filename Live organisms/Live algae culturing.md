@@ -113,10 +113,7 @@ Label the glass test tube with:
 
 |Genus species |Initials                    |
 |--------------|----------------------------|
-|Salinity level|Transfer: _Date of transfer_|
-|:------------:|:--------------------------:|
-
- 
+|Salinity level|Transfer: _Date of transfer_| 
 
 With gloves on, station all items needed under the fume hood 
 
