@@ -115,29 +115,18 @@ Label the glass test tube with:
 |--------------|----------------------------|
 |Salinity level|Transfer: _Date of transfer_| 
 
-With gloves on, station all items needed under the fume hood 
+- With gloves on, station all items needed under the fume hood
+- Ensure cap is screwed on tightly on the falcon tubes. Vortex the falcon tube quickly to ensure algae cells are homogenized throughout the falcon tube.
+- Light the ethanol burner
+- Uncap the falcon tube and give 2-4 passes of the open mouth of the falcon tube over the flame. Replace falcon tube to the holding rack (without the cap) to let mouth cool.
+- Repeat the same heat sterilization procedure with autoclaved glass test tube.
+- Once both mouths of the falcon tube and glass test tube are properly cool, dump the entire contents of falcon tube into the glass test tube.
+- Sterilize the mouth of the glass test tube with the flame again, let cool quickly, then replace the cap on the glass test tube.
+- Replace the cap on the falcon tube.
+- Repeat procedure with all species of algae that are intended for grow out.
+- Dispose of all falcon tubes in the trash.   
 
-Ensure cap is screwed on tightly on the falcon tubes. Vortex the falcon tube quickly to ensure algae cells are homogenized throughout the falcon tube. 
-
-Light the ethanol burner  
-
-Uncap the falcon tube and give 2-4 passes of the open mouth of the falcon tube over the flame. Replace falcon tube to the holding rack (without the cap) to let mouth cool.  
-
-Repeat the same heat sterilization procedure with autoclaved glass test tube.  
-
-Once both mouths of the falcon tube and glass test tube are properly cool, dump the entire contents of falcon tube into the glass test tube. 
-
-Sterilize the mouth of the glass test tube with the flame again, let cool quickly, then replace the cap on the glass test tube.  
-
-Replace the cap on the falcon tube. 
-
-Repeat procedure with all species of algae that are intended for grow out.  
-
-Dispose of all falcon tubes in the trash.  
-
- 
-
-Option 2: Gradual culturing via duplication 
+__Option 2: Gradual culturing via duplication__ 
 
 If algae is not needed quickly, this method uses duplication, and gradual salinity increases to prepare for stock grow-out.  
 
