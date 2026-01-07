@@ -52,12 +52,16 @@ The purpose of this procedure is to inoculate live marine algae for coral feedin
 9. 1L beaker
 10. Stir bar
 
+---
+
 <a name = "Equipment"></a> 
 ### <ins>Equipment</ins>
 1. Vortexer, Four E’s Scientific
 2. Scale
 3. 5L graduated cylinder
 4. Stir plate 
+
+---
 
 <a name = "Step1"></a> 
 ### <ins>Step 1: Stock preparation</ins>
@@ -71,6 +75,8 @@ The purpose of this procedure is to inoculate live marine algae for coral feedin
     - Mix well before use 
 
 ___Make fresh solution every month___
+
+---
 
 <a name = "Step2"></a> 
 ### <ins>Step 2: Sterilization of innoculation materials</ins>
@@ -97,6 +103,8 @@ Take materials to HRI 205 and sterilize the algae stocks using the following pro
 9. When the cycle is complete, allow 30 minutes for the sterilizer to cool down and naturally release pressure.  
 
 ___Ensure algae stocks are completely cool before using___
+
+---
 
 <a name = "Step3"></a> 
 ### <ins>Step 3: Innoculation</ins>
@@ -165,7 +173,6 @@ Label the flask with:
 - Replace the cap on the test tube.
 - Repeat procedure with all species of algae that are intended for grow out. 
 
- 
 __CARBOY__
 
 ___RODI ARTIFICIAL SEAWATER___
@@ -213,6 +220,8 @@ Label the carboy with:
 - Repeat the same heat sterilization procedure with all species for grow out.
 - Once the mouths of the glass flasks are properly cool, transfer the contents of glass flasks to the proper carboy
 
+---
+
 <a name = "Step4"></a> 
 ### <ins>Step 4: Storing new stocks</ins>
 - Temperature
@@ -232,6 +241,8 @@ Label the carboy with:
 - Light
     - Algae need day/night cycles for the best performance. 12-hour daytime cycles have worked well for our cultures at 200 PAR. 
 
+---
+
 <a name = "Step5"></a> 
 ### <ins>Step 5: Scaling up stocks</ins>
 Algal density is an important factor when considering if the algae culture is ready to scale up. Use a standardized method to measure, but ideal feeding density for scleractinian corals is 5 – 6 x 105 cells/mL (Ding et al., 2021).
@@ -245,6 +256,8 @@ Algal density is an important factor when considering if the algae culture is re
 |Carboy|Indefinite                       |NA                           |
 
 <img width="443" height="195" alt="Screenshot 2026-01-07 at 10 31 02 AM" src="https://github.com/user-attachments/assets/e56abc67-cdd1-4283-bd6d-a1b0dec448bc" />
+
+---
 
 <a name = "Maintenance"></a> 
 ### <ins>Maintaining stocks</ins>
@@ -263,6 +276,8 @@ Algae cultures should be checked for pH levels every week.
 ___Monthly___
 
 Duplicates should be created as back-ups in test tubes for grow-out every month for each healthy culture in the event of a species crashing.
+
+---
 
 <a name = "Special"></a> 
 ### <ins>Special considerations</ins>
