@@ -28,8 +28,6 @@ The purpose of this procedure is to inoculate live marine algae for coral feedin
 
 [Maintaining stocks](#Maintenance)
 
-[Scaling up stocks](#Step5)
-
 [Special considerations](#Special)
 
 ----
@@ -239,11 +237,37 @@ Label the carboy with:
 Algal density is an important factor when considering if the algae culture is ready to scale up. Use a standardized method to measure, but ideal feeding density for scleractinian corals is 5 – 6 x 105 cells/mL (Ding et al., 2021).
 
 
-|Culture vessel|Maximum time in vessel|How often to make a duplicate|
+|Culture vessel   |Maximum time in vessel|How often to make a duplicate|
 |:---:|:---:|:---:|
-|15mL falcon tube|2 weeks|NA|
-|Glass test tubes|2 months|Every month|
-|Erlenmeyer flask|3 months|Every month 
-|Carboy|Indefinite|NA| 
+|15mL falcon tube |2 weeks               |NA                           |
+|Glass test tubes |2 months              |Every month                  |
+|Erlenmeyer flask |3 months              |Every month                  | 
+|Carboy|Indefinite                       |NA                           |
 
+<img width="443" height="195" alt="Screenshot 2026-01-07 at 10 31 02 AM" src="https://github.com/user-attachments/assets/e56abc67-cdd1-4283-bd6d-a1b0dec448bc" />
 
+<a name = "Maintenance"></a> 
+### <ins>Maintaining stocks</ins>
+___Daily___
+Algae cultures need to be maintained every day by lightly vortexing them in the test tubes and falcon tubes, or manually mixing in the flasks or carboys. All holding vessels must allow for gas exchange. 
+
+- Screw caps should be loosened after vortexing
+- Flasks should be covered with parafilm and aluminum foil
+- All carboys should be fitted with fermentation caps 
+
+___Weekly___
+Algae cultures should be checked for pH levels every week. 
+
+___Monthly___
+Duplicates should be created as back-ups in test tubes for grow-out every month for each healthy culture in the event of a species crashing.
+
+<a name = "Special"></a> 
+### <ins>Special considerations</ins>
+Ply-429 - _Tetraselmis chui_ is a very large algal species (10um x 14um). It is very capable of taking over any of the other algae cultures if proper care is taken. __Always transfer or vortex T. chui last to ensure there is no cross contamination between _T. chui_ and the other species.__
+
+How to know when an algae culture is crashing: 
+1. Change in Color
+2. Sudden Decline in Density
+3. Increased Settling
+4. Decreased pH or Oxygen Levels
+5. Increase in Bacterial Growth 
