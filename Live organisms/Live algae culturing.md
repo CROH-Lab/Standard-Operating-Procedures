@@ -110,7 +110,8 @@ _If algae is needed right away, this method can be used to rapidly increase the 
 
 Label the glass test tube with: 
 
-|Genus species|Initials| 
+|--------------|----------------------------|
+|Genus species |Initials                    | 
 |Salinity level|Transfer: _Date of transfer_|
 |:-:|:-:|
 
