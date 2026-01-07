@@ -249,6 +249,7 @@ Algal density is an important factor when considering if the algae culture is re
 <a name = "Maintenance"></a> 
 ### <ins>Maintaining stocks</ins>
 ___Daily___
+
 Algae cultures need to be maintained every day by lightly vortexing them in the test tubes and falcon tubes, or manually mixing in the flasks or carboys. All holding vessels must allow for gas exchange. 
 
 - Screw caps should be loosened after vortexing
@@ -256,9 +257,11 @@ Algae cultures need to be maintained every day by lightly vortexing them in the 
 - All carboys should be fitted with fermentation caps 
 
 ___Weekly___
+
 Algae cultures should be checked for pH levels every week. 
 
 ___Monthly___
+
 Duplicates should be created as back-ups in test tubes for grow-out every month for each healthy culture in the event of a species crashing.
 
 <a name = "Special"></a> 
