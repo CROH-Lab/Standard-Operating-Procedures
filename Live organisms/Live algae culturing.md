@@ -112,6 +112,7 @@ Label the glass test tube with:
 
 
 |Genus species |Initials                    |
+|--------------|----------------------------|
 |Salinity level|Transfer: _Date of transfer_|
 |:-:|:-:|
 
