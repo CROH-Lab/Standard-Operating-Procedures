@@ -110,7 +110,6 @@ _If algae is needed right away, this method can be used to rapidly increase the 
 
 Label the glass test tube with: 
 
-
 |Genus species |Initials                    |
 |--------------|----------------------------|
 |Salinity level|Transfer: _Date of transfer_| 
@@ -128,139 +127,123 @@ Label the glass test tube with:
 
 __Option 2: Gradual culturing via duplication__ 
 
-If algae is not needed quickly, this method uses duplication, and gradual salinity increases to prepare for stock grow-out.  
+_If algae is not needed quickly, this method uses duplication, and gradual salinity increases to prepare for stock grow-out._
 
-For each salinity increase, only increase salinity by 3 ppt. 
+___*For each salinity increase, only increase salinity by 3 ppt.*___
 
-For each duplication, always use 1mL of healthy culture.  
-
- 
+___*For each duplication, always use 1mL of healthy culture.*__
 
 Label the glass test tube with: 
 
-Genus species          Initials 
+|Genus species |Initials                    |
+|--------------|----------------------------|
+|Salinity level|Transfer: _Date of transfer_| 
 
-Salinity level            Transfer: Date of transfer 
+- With gloves on, station all items needed under the fume hood.
+- Ensure cap is screwed on tightly on the falcon tubes. Vortex the falcon tube quickly to ensure algae cells are homogenized throughout the falcon tube.
+- Light the ethanol burner
+- Uncap the falcon tube/test tube and give 2-4 passes of the open mouth of the falcon tube/test tube over the flame. Replace falcon tube/test tube to the holding rack (without the cap) to let mouth cool.
+- Repeat the same heat sterilization procedure with autoclaved glass test tube.
+- Once both mouths of the falcon tube/test tube and glass test tube are properly cool, transfer 1mL of contents of falcon tube/test tube into the glass test tube.
+- Sterilize the mouth of the glass test tube with the flame again, let cool quickly, then replace the cap on the glass test tube.
+- Replace the cap on the falcon tube/test tube.
+- Repeat procedure with all species of algae that are intended for grow out.  
 
- 
-
-With gloves on, station all items needed under the fume hood 
-
-Ensure cap is screwed on tightly on the falcon tubes. Vortex the falcon tube quickly to ensure algae cells are homogenized throughout the falcon tube. 
-
-Light the ethanol burner  
-
-Uncap the falcon tube/test tube and give 2-4 passes of the open mouth of the falcon tube/test tube over the flame. Replace falcon tube/test tube to the holding rack (without the cap) to let mouth cool.  
-
-Repeat the same heat sterilization procedure with autoclaved glass test tube.  
-
-Once both mouths of the falcon tube/test tube and glass test tube are properly cool, transfer 1mL of contents of falcon tube/test tube into the glass test tube. 
-
-Sterilize the mouth of the glass test tube with the flame again, let cool quickly, then replace the cap on the glass test tube.  
-
-Replace the cap on the falcon tube/test tube 
-
-Repeat procedure with all species of algae that are intended for grow out.  
-
- 
-
-ERLENMEYER FLASKS 
+__ERLENMEYER FLASKS__
 
 Label the flask with: 
 
-Genus species          Initials 
+|Genus species |Initials                    |
+|--------------|----------------------------|
+|Salinity level|Transfer: _Date of transfer_| 
 
-Salinity level            Transfer: Date of transfer 
-
- 
-
-With gloves on, station all items needed under the fume hood 
-
-Ensure cap is screwed on tightly on the test tubes. Vortex the test tube quickly to ensure algae cells are homogenized throughout the test tube. 
-
-Light the ethanol burner  
-
-Uncap the test tube and give 2-4 passes of the open mouth of the test tube over the flame. Replace test tube to the holding rack (without the cap) to let mouth cool.  
-
-Repeat the same heat sterilization procedure with autoclaved glass flask.  
-
-Once both mouths of the test tube and glass flask are properly cool, transfer contents of test tube into the glass flask. 
-
-Sterilize the mouth of the glass flask with the flame again, let cool quickly, then replace aluminum foil.  
-
-Replace the cap on the test tube 
-
-Repeat procedure with all species of algae that are intended for grow out. 
+- With gloves on, station all items needed under the fume hood
+- Ensure cap is screwed on tightly on the test tubes. Vortex the test tube quickly to ensure algae cells are homogenized throughout the test tube.
+- Light the ethanol burner
+- Uncap the test tube and give 2-4 passes of the open mouth of the test tube over the flame. Replace test tube to the holding rack (without the cap) to let mouth cool.
+- Repeat the same heat sterilization procedure with autoclaved glass flask.
+- Once both mouths of the test tube and glass flask are properly cool, transfer contents of test tube into the glass flask.
+- Sterilize the mouth of the glass flask with the flame again, let cool quickly, then replace aluminum foil.
+- Replace the cap on the test tube.
+- Repeat procedure with all species of algae that are intended for grow out. 
 
  
-CARBOY 
+__CARBOY__
 
-RODI ARTIFICIAL SEAWATER 
+___RODI ARTIFICIAL SEAWATER___
 
 Label the carboy with: 
 
-Genus species          Initials 
+|Genus species |Initials                    |
+|--------------|----------------------------|
+|Salinity level|Transfer: _Date of transfer_| 
 
-Salinity level            Transfer: Date of transfer 
+- Fill carboy with completely with 20% bleach water. Let sit with the cap on for 24 hours.
+- Rinse carboy with DI water 3 times, and then with artificial seawater 3 times
+- Fill the carboy with 9L of seawater.
+- Test seawater with chlorine tester
+- If chlorine is still present in artificial seawater, add 5g of sodium thiosulfate. Let sit for 15 minutes
+- Retest for chlorine
+- If chlorine levels are 0, proceed with inoculation
+- With gloves on, station all materials under the hood
+- Light the ethanol burner
+- Uncover the flask and give 2-4 passes of the open mouth of the flask over the flame. Replace flask to the counter (without the covering) to let mouth cool.
+- Repeat the same heat sterilization procedure with all species for grow out.
+- Once mouths of the glass flasks are properly cool, transfer contents of glass flasks to the proper carboy. 
 
-Fill carboy with completely with 20% bleach water. Let sit with the cap on for 24 hours.  
-
-Rinse carboy with DI water 3 times, and then with artificial seawater 3 times 
-
-Fill the carboy with 9L of seawater. 
-
-Test seawater with chlorine tester 
-
-If chlorine is still present in artificial seawater, add 5g of sodium thiosulfate. Let sit for 15 minutes 
-
-Retest for chlorine 
-
-If chlorine levels are 0, proceed with inoculation 
-
-With gloves on, station all materials under the hood 
-
-Light the ethanol burner  
-
-Uncover the flask and give 2-4 passes of the open mouth of the flask over the flame. Replace flask to the counter (without the covering) to let mouth cool.  
-
-Repeat the same heat sterilization procedure with all species for grow out.  
-
-Once mouths of the glass flasks are properly cool, transfer contents of glass flasks to the proper carboy. 
-
-NON-ARTIFICIAL SEAWATER 
+___NON-ARTIFICIAL SEAWATER___
 
 Label the carboy with: 
 
-Genus species          Initials 
+|Genus species |Initials                    |
+|--------------|----------------------------|
+|Salinity level|Transfer: _Date of transfer_| 
 
-Salinity level            Transfer: Date of transfer 
+- Fill carboy with completely with 20% bleach water. Let sit with the cap on for 24 hours.
+- Pour out bleach water and fill carboy with 9L of 30ppt seawater.
+- Add 25mL of bleach to carboy with seawater.
+- Let sit for 15 minutes
+- Add 5g of sodium thiosulfate to bleached seawater
+- Test seawater with chlorine tester
+- If chlorine is still present in artificial seawater, add 5g of sodium thiosulfate.
+- Let sit for 15 minutes
+- Retest for chlorine
+- If chlorine levels are 0, proceed with inoculation
+- With gloves on, station all materials under the hood
+- Light the ethanol burner
+- Uncover the flask and give 2-4 passes of the open mouth of the flask over the flame. Replace flask to the counter (without the covering) to let mouth cool.
+- Repeat the same heat sterilization procedure with all species for grow out.
+- Once the mouths of the glass flasks are properly cool, transfer the contents of glass flasks to the proper carboy
 
-Fill carboy with completely with 20% bleach water. Let sit with the cap on for 24 hours.  
+<a name = "Step4"></a> 
+### <ins>Step 4: Storing new stocks</ins>
+- Temperature
+    - Algae cultures store best at 21 - 23ºC 
 
-Pour out bleach water and fill carboy with 9L of 30ppt seawater. 
+- Salinity 
+    - Algae will be shipped in falcon tubes at 15 ppt
+        - You will want to increase the salinity of the algae culture to a level that makes sense for the application.
+            - 30 ppt for corals 
 
-Add 25mL of bleach to carboy with seawater. 
+    - Do not increase the salinity of the cultures above 33 ppt to avoid cell swelling and death.  
 
-Let sit for 15 minutes 
+- pH
+    - An ideal pH range for micro and stock cultures is 7.5 - 8.0
+        - For stock tank cultures usev pure CO2 bubbled into the culture to decrease the pH. 
 
-Add 5g of sodium thiosulfate to bleached seawater 
+- Light
+    - Algae need day/night cycles for the best performance. 12-hour daytime cycles have worked well for our cultures at 200 PAR. 
 
-Test seawater with chlorine tester 
+<a name = "Step5"></a> 
+### <ins>Step 5: Scaling up stocks</ins>
+Algal density is an important factor when considering if the algae culture is ready to scale up. Use a standardized method to measure, but ideal feeding density for scleractinian corals is 5 – 6 x 105 cells/mL (Ding et al., 2021).
 
-If chlorine is still present in artificial seawater, add 5g of sodium thiosulfate. 
 
-Let sit for 15 minutes 
+|Culture vessel|Maximum time in vessel|How often to make a duplicate|
+|:---:|:---:|:---:|
+|15mL falcon tube|2 weeks|NA|
+|Glass test tubes|2 months|Every month|
+|Erlenmeyer flask|3 months|Every month 
+|Carboy|Indefinite|NA| 
 
-Retest for chlorine 
 
-If chlorine levels are 0, proceed with inoculation 
-
-With gloves on, station all materials under the hood 
-
-Light the ethanol burner  
-
-Uncover the flask and give 2-4 passes of the open mouth of the flask over the flame. Replace flask to the counter (without the covering) to let mouth cool.  
-
-Repeat the same heat sterilization procedure with all species for grow out.  
-
-Once the mouths of the glass flasks are properly cool, transfer the contents of glass flasks to the proper carboy
