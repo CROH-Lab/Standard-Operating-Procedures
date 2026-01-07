@@ -102,18 +102,15 @@ ___Ensure algae stocks are completely cool before using___
 
 <a name = "Step3"></a> 
 ### <ins>Step 3: Innoculation</ins>
-___TEST TUBES___
-
-- __Option 1: Rapid culturing @ 30ppt salinity__
-    - If algae is needed right away, this method can be used to rapidly increase the ppt of the culture and ensure quick algae grow out.  
-
- 
+__TEST TUBES__
+__Option 1: Rapid culturing @ 30ppt salinity__
+_If algae is needed right away, this method can be used to rapidly increase the ppt of the culture and ensure quick algae grow out._
 
 Label the glass test tube with: 
 
-Genus species          Initials 
-
-Salinity level            Transfer: Date of transfer 
+|:-:|-:|
+|Genus species|Initials| 
+|Salinity level|Transfer: _Date of transfer_|
 
  
 
