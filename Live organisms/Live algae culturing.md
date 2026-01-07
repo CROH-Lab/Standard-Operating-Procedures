@@ -37,12 +37,12 @@ The purpose of this procedure is to inoculate live marine algae for coral feedin
 <a name = "Materials"></a> 
 ### <ins>Materials</ins>
 1. Cultures in 15 µL falcon tubes (received from NOAA)
-  - TIso - _TIsochrysis lutea_
-  - Mono - _Diacronema lutheri_
-  - TW - _Thalassiosira weissflogii_
-  - Ply-429 - _Tetraselmis chui_
-  - VA-19 - _Nannochloris oculata_
-  - Syn - _Synechococcus bacillaris_ 
+    - TIso - _TIsochrysis lutea_
+    - Mono - _Diacronema lutheri_
+    - TW - _Thalassiosira weissflogii_
+    - Ply-429 - _Tetraselmis chui_
+    - VA-19 - _Nannochloris oculata_
+    - Syn - _Synechococcus bacillaris_ 
 
 2. Autoclaved test tubes with algae stock solution, labelled
 3. Ethanol burner
