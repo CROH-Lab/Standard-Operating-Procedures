@@ -82,14 +82,14 @@ ___Make fresh solution every month___
 
 Take materials to HRI 205 and sterilize the algae stocks using the following protocol.  
 1. Ensure the valve on the bottom of the sterilizer is closed.
-            - Fill the bottom of the barrel with the 1 gallon of water 
+    - Fill the bottom of the barrel with the 1 gallon of water 
 
 2. Place the appropriate rack in the sterilizer.  
 
 3. Load the algae stocks into the sterilizer into the middle of the barrel.
-            - If sterilizing test tubes, use a metal rack for holding them on the sterilizer rack.
-            - If autoclaving flasks, add aluminum foil to lid of glassware.
-            - Add a piece of autoclave tape to each algae stock. 
+    - If sterilizing test tubes, use a metal rack for holding them on the sterilizer rack
+    - If autoclaving flasks, add aluminum foil to lid of glassware.
+    - Add a piece of autoclave tape to each algae stock. 
 
 Close the door ensuring there is no break in the seal. 
 
