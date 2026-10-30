@@ -31,7 +31,7 @@ Photosynthetic efficiency, including Fv/FM, ETRm, Y(II), and YNPQ are measured a
 1. Turn on the laptop computer and plug in the USB to computer.
 - Open WinControl software – this will turn on PAM 
 The software will search for an instrument connection. If it is not available, you will have to close it by choosing CANCEL in the dialog box and try again with the cable plugged in. This software, or the computer, may need to be updated for the program to work. When downloading WinControl, make sure you download the driver with the program. There may be an error message if the USB port doesn’t read the PAM device because there is no driver. Try re-downloading WinControl from the internet.
-
+[Picture 1 and Picture 2]
 Launch again. It should recognize the connection with the JR-PAM. If yes, it will turn the PAM on and the green display on the PAM will illuminate. 
 
 2. Take measurements at the same time every day, the amount of light the coral has been exposed to throughout the day will change the values. Place corals in a dark room to acclimate for a minimum of 20-30 minutes before taking measurements.
