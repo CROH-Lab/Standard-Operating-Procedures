@@ -41,7 +41,7 @@ Launch again. It should recognize the connection with the JR-PAM. If yes, it wil
 2. Take measurements at the same time every day, the amount of light the coral has been exposed to throughout the day will change the values. Place corals in a dark room to acclimate for a minimum of 20-30 minutes before taking measurements.
 - Unpack fiberoptics. Carefully insert the fiber end with the silicone sleeve into the fiber port of the JR-PAM. The fiber is positioned correctly when silicone sleeve touches the fiber port. The fiber can encounter resistance when inserted. If this is the case, remove the fiber, carefully straighten the fiber by hand, and insert again. Do not forcible overcome the resistance. Finger-tighten the setscrew of the fiber port.
 - The fiberoptics with 100 cm length is suited for investigations of samples which are difficult to access, and for submerged samples. The PAR values are valid when the fiberoptics directs vertically to the sample surface and the distance between fiber and sample is 1 mm. 
-- Insert Picture of the 1mm distance 
+  - Use magentic pendant with fiber cable fluch to the opening as a standard 1mm distance from coral tissue/sample. 
 - Wipe down fiber cable after use to ensure it remains in good condition. 
 - Use a bubbler to aerate the corals. Work in an environment with red light (such as a headtorch), because you can see with red light, but it is not strong enough to drive photosynthesis.
 - Dark acclimation for 20 minutes allows all of the chlorophyll a reaction centers to relax for optimal fluorescence measurements. Do not allow light from the computer to get too close to the corals.
